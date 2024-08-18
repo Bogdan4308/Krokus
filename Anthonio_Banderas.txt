@@ -3,5 +3,5 @@
 "Inv": "0",
 "Hour": "0",
 "Minutes": "10",
-"TextAfterInv": "/fam я лох"
+"TextAfterInv": "я лох"
 }
