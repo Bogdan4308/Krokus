@@ -3,5 +3,5 @@
 "Inv": "4",
 "Hour": "101",
 "Minutes": "12",
-"TextAfterInv": "Я лох"
+"TextAfterInv": "<3"
 }
