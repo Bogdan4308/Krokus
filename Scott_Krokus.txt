@@ -2,6 +2,6 @@
 "Ad": "6",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "39",
+"Minutes": "40",
 "TextAfterInv": "ввв"
 }
