@@ -1,6 +1,6 @@
 {
 "Ad": "25",
-"Inv": "2",
+"Inv": "3",
 "Hour": "101",
 "Minutes": "11",
 "TextAfterInv": "Я лох"
