@@ -2,6 +2,6 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "0",
-"TextAfterInv": ""
+"Minutes": "1",
+"TextAfterInv": "/fam re"
 }
