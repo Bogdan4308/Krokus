@@ -6,7 +6,7 @@
 "TextAfterInv": "",
 "NickDep1": "Scott_Krokus",
 "NickDep2": "Anthonio_Banderas",
-"NickDep3": "",
+"NickDep3": "Kirill_Budanov",
 "StateMainWindow": "true",
 "StateAddWindow": "true"
 }
