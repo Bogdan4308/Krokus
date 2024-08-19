@@ -16,6 +16,6 @@
 "NotWithTime2":"",
 "TimeForNot1": "",
 "TimeForNot2": "",
-"PosX": "1621",
-"PosY": "1621"
+"PosX": "1637",
+"PosY": "1637"
 }
