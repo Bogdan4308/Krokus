@@ -7,6 +7,6 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false"
 }
