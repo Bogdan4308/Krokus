@@ -5,7 +5,7 @@
 "Minutes": "20",
 "TextAfterInv": "",
 "NickDep1": "Scott_Krokus",
-"NickDep2": "",
+"NickDep2": "Anthonio_Banderas",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true"
