@@ -7,7 +7,7 @@
 "NickDep1": "Scott_Krokus",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "false",
 "NotWithTimer1": "хуй",
 "NotWithTimer2": "хуй1",
