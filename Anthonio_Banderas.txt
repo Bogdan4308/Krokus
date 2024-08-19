@@ -7,6 +7,6 @@
 "NickDep1": "Scott_Krokus",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
-"StateAddWindow": "false"
+"StateMainWindow": "true",
+"StateAddWindow": "true"
 }
