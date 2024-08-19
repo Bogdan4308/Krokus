@@ -12,8 +12,8 @@
 "NotWithTimer1": "хуй",
 "NotWithTimer2": "хуй1",
 "NotWithTimer3": "хуй2",
-"NotWithTime1": "",
-"NotWithTime2":"",
-"TimeForNot1": "",
-"TimeForNot2": ""
+"NotWithTime1": "хуй3",
+"NotWithTime2":"хуй4",
+"TimeForNot1": "22:00",
+"TimeForNot2": "00:05"
 }
