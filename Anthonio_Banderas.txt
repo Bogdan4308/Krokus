@@ -7,5 +7,5 @@
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false"
+"StateMainWindow": "true"
 }
