@@ -1,7 +1,0 @@
-{
-"Ad": "25",
-"Inv": "28",
-"Hour": "101",
-"Minutes": "53",
-"TextAfterInv": ""
-}
