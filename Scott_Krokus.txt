@@ -16,6 +16,6 @@
 "NotWithTime2":"Секс",
 "TimeForNot1": "11:01",
 "TimeForNot2": "11:02",
-"PosX": "1032",
-"PosY": "-4"
+"PosX": "941",
+"PosY": "296"
 }
