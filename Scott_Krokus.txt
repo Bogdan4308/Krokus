@@ -2,7 +2,7 @@
 "Ad": "9",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "14",
+"Minutes": "15",
 "TextAfterInv": "Секс",
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
@@ -12,10 +12,10 @@
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
-"NotWithTime1": "Секс",
-"NotWithTime2":"Секс",
-"TimeForNot1": "11:01",
-"TimeForNot2": "11:02",
+"NotWithTime1": "/fam [Інфо] За приведення друга фама платить 500к, з VIP 1кк <3",
+"NotWithTime2":"/fam [Info] Як їхати від шахти в бік ЛВ — є трейлерне село. Заселяємось <3",
+"TimeForNot1": "15:00",
+"TimeForNot2": "45:00",
 "PosX": "1649",
 "PosY": "282"
 }
