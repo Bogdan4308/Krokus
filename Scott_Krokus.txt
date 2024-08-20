@@ -1,7 +1,7 @@
 {
-"Ad": "6",
+"Ad": "0",
 "Inv": "0",
-"Hour": "1",
-"Minutes": "30",
-"TextAfterInv": "Вітаємо в сім'ї"
+"Hour": "0",
+"Minutes": "1",
+"TextAfterInv": ""
 }
