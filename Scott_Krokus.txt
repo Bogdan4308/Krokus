@@ -2,6 +2,6 @@
 "Ad": "4",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "20",
+"Minutes": "21",
 "TextAfterInv": "Вітаємо в сім'ї"
 }
