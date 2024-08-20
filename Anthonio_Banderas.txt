@@ -8,7 +8,7 @@
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
-"StateAddWindow": "true",
+"StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -16,6 +16,6 @@
 "NotWithTime2":"",
 "TimeForNot1": "",
 "TimeForNot2": "",
-"PosX": "897",
-"PosY": "1"
+"PosX": "1616",
+"PosY": "605"
 }
