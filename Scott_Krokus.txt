@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "Секс",
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
@@ -16,6 +16,6 @@
 "NotWithTime2":"Секс",
 "TimeForNot1": "11:01",
 "TimeForNot2": "11:02",
-"PosX": "27",
-"PosY": "497"
+"PosX": "1554",
+"PosY": "523"
 }
