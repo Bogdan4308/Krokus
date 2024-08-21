@@ -7,8 +7,8 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
-"StateAddWindow": "true",
+"StateMainWindow": "false",
+"StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -19,5 +19,5 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "false",
-"WindowStyle": "1"
+"WindowStyle": "4"
 }
