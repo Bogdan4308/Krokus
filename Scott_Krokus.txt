@@ -16,6 +16,6 @@
 "NotWithTime2":"/fam [Info] Зараз тут проходить фестиваль Burning Man, проявляйте свою творчість <3",
 "TimeForNot1": "25:00",
 "TimeForNot2": "25:01",
-"PosX": "1137",
-"PosY": "388"
+"PosX": "264",
+"PosY": "782"
 }
