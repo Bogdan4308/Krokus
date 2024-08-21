@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "22",
+"Minutes": "23",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -18,5 +18,6 @@
 "TimeForNot2": "",
 "PosX": "1620.253164557",
 "PosY": "540",
-"CheckedTax": "false"
+"CheckedTax": "false",
+"WindowStyle": "1"
 }
