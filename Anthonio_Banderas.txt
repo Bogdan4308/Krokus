@@ -19,5 +19,5 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "false",
-"WindowStyle": "4"
+"WindowStyle": "2"
 }
