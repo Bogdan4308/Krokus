@@ -2,12 +2,12 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -19,5 +19,5 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "false",
-"WindowStyle": "2"
+"WindowStyle": "1"
 }
