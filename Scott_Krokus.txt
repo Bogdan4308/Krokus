@@ -2,7 +2,7 @@
 "Ad": "11",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "16",
+"Minutes": "17",
 "TextAfterInv": "Секс",
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
