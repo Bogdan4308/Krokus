@@ -18,6 +18,6 @@
 "TimeForNot2": "",
 "PosX": "1620.253164557",
 "PosY": "540",
-"CheckedTax": "false",
+"CheckedTax": "true",
 "WindowStyle": "1"
 }
