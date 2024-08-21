@@ -17,5 +17,6 @@
 "TimeForNot1": "",
 "TimeForNot2": "",
 "PosX": "1620.253164557",
-"PosY": "540"
+"PosY": "540",
+"CheckedTax": "true"
 }
