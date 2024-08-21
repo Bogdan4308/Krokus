@@ -2,7 +2,7 @@
 "Ad": "22",
 "Inv": "0",
 "Hour": "5",
-"Minutes": "58",
+"Minutes": "59",
 "TextAfterInv": "Секс",
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
@@ -16,6 +16,6 @@
 "NotWithTime2":"/fam [Інфо] За зміну прізвища на Krokus даємо +2 ранги включно до 6 <3",
 "TimeForNot1": "39:00",
 "TimeForNot2": "39:01",
-"PosX": "264",
-"PosY": "782"
+"PosX": "310",
+"PosY": "746"
 }
