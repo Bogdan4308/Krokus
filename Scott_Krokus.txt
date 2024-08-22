@@ -7,7 +7,7 @@
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
