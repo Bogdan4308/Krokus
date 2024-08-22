@@ -22,5 +22,5 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "1"
+"CountVipPlayers": "2"
 }
