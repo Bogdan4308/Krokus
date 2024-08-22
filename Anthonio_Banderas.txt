@@ -1,8 +1,8 @@
 {
 "Ad": "0",
-"Inv": "4",
+"Inv": "0",
 "Hour": "0",
-"Minutes": "57",
+"Minutes": "0",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -22,5 +22,5 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "3"
+"CountVipPlayers": "0"
 }
