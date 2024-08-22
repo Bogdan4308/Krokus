@@ -21,6 +21,6 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "false",
-"WindowStyle": "9",
+"WindowStyle": "1",
 "CountVipPlayers": "3"
 }
