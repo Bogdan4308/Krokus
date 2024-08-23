@@ -2,7 +2,7 @@
 "Ad": "9",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "6",
+"Minutes": "7",
 "TextAfterInv": "",
 "NickDep1": "Anthonio_Banderas",
 "NickDep2": "",
@@ -21,6 +21,6 @@
 "PosX": "1640",
 "PosY": "290",
 "CheckedTax": "true",
-"WindowStyle": "2",
+"WindowStyle": "1",
 "CountVipPlayers": "0"
 }
