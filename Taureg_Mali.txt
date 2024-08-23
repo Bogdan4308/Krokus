@@ -15,7 +15,7 @@
 "NotWithTime1": "/fam [Інфо] Підтримуйте фамні машини в хорошому стані <3",
 "NotWithTime2":"/fam [Інфо] По дорозі від шахти в бік ЛВ є україїнське село. Долучайтесь",
 "TimeForNot1": "00:05",
-"TimeForNot2": "52:00",
+"TimeForNot2": "45:00",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "1620.253164557",
