@@ -13,7 +13,7 @@
 "NotWithTimer2": "/fam [Інфо] Шостий 3кк і 3 квести, і так до шостого <3",
 "NotWithTimer3": "/fam [Інфо] Сьомий ранг коштує 21кк, а восьмий для власників фам скріпта <3",
 "NotWithTime1": "/fam [Інфо] Підтримуйте фамні машини в хорошому стані <3",
-"NotWithTime2":"/fam :heart: :fire: :heart: :fire: :heart: :fire: :heart: :fire: :heart: :fire: :heart: :fire:",
+"NotWithTime2":"/fam [Інфо] По дорозі від шахти в бік ЛВ є україїнське село. Долучайтесь",
 "TimeForNot1": "00:05",
 "TimeForNot2": "52:00",
 "CheckNotTime1": "true",
