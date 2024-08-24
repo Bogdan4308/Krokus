@@ -4,7 +4,7 @@
 "Hour": "1",
 "Minutes": "4",
 "TextAfterInv": "",
-"NickDep1": "",
+"NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
