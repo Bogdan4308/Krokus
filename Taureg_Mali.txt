@@ -18,8 +18,8 @@
 "TimeForNot2": "45:05",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
-"PosX": "304",
-"PosY": "791",
+"PosX": "1646",
+"PosY": "247",
 "CheckedTax": "true",
 "WindowStyle": "8",
 "CountVipPlayers": "0"
