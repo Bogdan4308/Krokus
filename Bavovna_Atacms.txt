@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "4",
+"Minutes": "5",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -21,6 +21,6 @@
 "PosX": "1147.6793248945",
 "PosY": "384",
 "CheckedTax": "false",
-"WindowStyle": "1",
+"WindowStyle": "4",
 "CountVipPlayers": "0"
 }
