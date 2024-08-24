@@ -1,5 +1,5 @@
 {
-"Ad": "22",
+"Ad": "23",
 "Inv": "0",
 "Hour": "6",
 "Minutes": "8",
@@ -18,8 +18,8 @@
 "TimeForNot2": "45:05",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
-"PosX": "315",
-"PosY": "741",
+"PosX": "304",
+"PosY": "791",
 "CheckedTax": "true",
 "WindowStyle": "8",
 "CountVipPlayers": "0"
