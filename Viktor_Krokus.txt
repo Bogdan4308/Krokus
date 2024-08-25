@@ -8,7 +8,7 @@
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
-"StateAddWindow": "false",
+"StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "560.33755274262",
 "PosY": "384",
-"CheckedTax": "false",
+"CheckedTax": "true",
 "WindowStyle": "1",
 "CountVipPlayers": "0"
 }
