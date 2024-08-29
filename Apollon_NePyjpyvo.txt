@@ -2,7 +2,7 @@
 "Ad": "69",
 "Inv": "3",
 "Hour": "18",
-"Minutes": "3",
+"Minutes": "4",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
