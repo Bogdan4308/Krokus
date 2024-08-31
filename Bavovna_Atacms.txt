@@ -1,6 +1,6 @@
 {
 "Ad": "43",
-"Inv": "2",
+"Inv": "3",
 "Hour": "17",
 "Minutes": "1",
 "TextAfterInv": "Вітаємо в сім'ї<3",
@@ -22,5 +22,5 @@
 "PosY": "359.77777777778",
 "CheckedTax": "false",
 "WindowStyle": "4",
-"CountVipPlayers": "0"
+"CountVipPlayers": "1"
 }
