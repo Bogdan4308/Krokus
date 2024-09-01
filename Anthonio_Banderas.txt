@@ -5,7 +5,7 @@
 "Minutes": "59",
 "TextAfterInv": "",
 "NickDep1": "Taureg_Mali",
-"NickDep2": "",
+"NickDep2": "Taureg_Mali",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
