@@ -1,10 +1,10 @@
 {
 "Ad": "10",
 "Inv": "0",
-"Hour": "3",
-"Minutes": "60",
+"Hour": "4",
+"Minutes": "0",
 "TextAfterInv": "",
-"NickDep1": "Anthonio_Banderas",
+"NickDep1": "Bavovna_Atacms",
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
 "StateMainWindow": "true",
