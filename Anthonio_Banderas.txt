@@ -6,7 +6,7 @@
 "TextAfterInv": "",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "Taureg_Mali",
-"NickDep3": "",
+"NickDep3": "Apollon_NePyjpyvo",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
