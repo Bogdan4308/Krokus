@@ -2,7 +2,7 @@
 "Ad": "83",
 "Inv": "0",
 "Hour": "37",
-"Minutes": "37",
+"Minutes": "38",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Bavovna_Atacms",
@@ -21,6 +21,6 @@
 "PosX": "309",
 "PosY": "737",
 "CheckedTax": "true",
-"WindowStyle": "8",
+"WindowStyle": "6",
 "CountVipPlayers": "0"
 }
