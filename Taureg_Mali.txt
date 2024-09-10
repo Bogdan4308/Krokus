@@ -5,7 +5,7 @@
 "Minutes": "51",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
-"NickDep2": "Bavovna_Atacms",
+"NickDep2": "",
 "NickDep3": "Viktor_Krokus",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
@@ -21,6 +21,6 @@
 "PosX": "309",
 "PosY": "737",
 "CheckedTax": "true",
-"WindowStyle": "6",
+"WindowStyle": "7",
 "CountVipPlayers": "0"
 }
