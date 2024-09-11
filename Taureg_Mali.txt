@@ -6,7 +6,7 @@
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Vladislav_Krokus",
-"NickDep3": "Viktor_Krokus",
+"NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Інфо] Отримайте бонус 500к за приведення друга або 1кк якщо з VIP <3",
