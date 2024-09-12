@@ -5,7 +5,7 @@
 "Minutes": "15",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Bavovna_Atacms",
-"NickDep2": "",
+"NickDep2": "Zoro_Ackerman",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
