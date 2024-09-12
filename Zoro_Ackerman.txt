@@ -1,5 +1,5 @@
 {
-"Ad": "66",
+"Ad": "67",
 "Inv": "2",
 "Hour": "7",
 "Minutes": "21",
@@ -11,7 +11,7 @@
 "StateAddWindow": "false",
 "NotWithTimer1": "/fam [інфо]Отримайте 500К за приведеня друга або 1кк якщо з VIP<3",
 "NotWithTimer2": "/fam [інфо] За зміну призвіщя на Krokus даємо +2 ранги до 6 включно<3",
-"NotWithTimer3": "",
+"NotWithTimer3": "/fam []",
 "NotWithTime1": "",
 "NotWithTime2":"",
 "TimeForNot1": "",
