@@ -15,7 +15,7 @@
 "NotWithTime1": "/fam [Інфо] Підтримуйте масло в фамних машинах в хорошому стані <3",
 "NotWithTime2":"/fam [Інфо] Додам в фам тг @lovekrokus і дс krokus1 <3",
 "TimeForNot1": "15:15",
-"TimeForNot2": "45:05",
+"TimeForNot2": "45:45",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "302",
