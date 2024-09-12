@@ -1,5 +1,5 @@
 {
-"Ad": "157",
+"Ad": "158",
 "Inv": "0",
 "Hour": "53",
 "Minutes": "47",
@@ -14,7 +14,7 @@
 "NotWithTimer3": "/fam [Інфо] Встановлюйте фам. скріпт, в нього багато цікавих фішок <3",
 "NotWithTime1": "/fam [Інфо] Підтримуйте масло в фамних машинах в хорошому стані <3",
 "NotWithTime2":"/fam [Інфо] Додам в фам тг @lovekrokus і дс krokus1 <3",
-"TimeForNot1": "15:05",
+"TimeForNot1": "15:15",
 "TimeForNot2": "45:05",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
