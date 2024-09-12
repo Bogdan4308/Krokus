@@ -2,7 +2,7 @@
 "Ad": "156",
 "Inv": "0",
 "Hour": "53",
-"Minutes": "15",
+"Minutes": "16",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "Vladislav_Krokus",
@@ -21,6 +21,6 @@
 "PosX": "302",
 "PosY": "735",
 "CheckedTax": "true",
-"WindowStyle": "7",
+"WindowStyle": "8",
 "CountVipPlayers": "0"
 }
