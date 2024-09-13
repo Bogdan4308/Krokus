@@ -14,4 +14,4 @@ Taureg_Mali: {00BFFF}ЯКШО ПИСАТИ КАПСОМ ТО БУДЕ КРАЩЕ
 Taureg_Mali: {00BFFF}РОЗМІР МАЛЕНЬКИЙ, ВАЖКО БУДЕ ЧИТАТИ
 Taureg_Mali: {00BFFF}ЗОРО, ТИ КРУТИЙ ЗАМ! 
 Taureg_Mali: {FF0000}388 інвайт фаст, хто може?
-Taureg_Mali: {FF1493}я
+Anthonio_Banderas: {8A2BE2}КАПС = МУТ)
