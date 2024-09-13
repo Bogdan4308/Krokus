@@ -20,3 +20,4 @@ Taureg_Mali: {FFFF00}О Стів привіт
 Anthonio_Banderas: {8A2BE2}Бля, затримка напрягає
 Anthonio_Banderas: {00FF00}Оо, привіт
 Taureg_Mali: {FFFF00}чуток
+Taureg_Mali: {FFFF00}ПОСТАВ МБ 1 сек
