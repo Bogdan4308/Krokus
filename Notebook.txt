@@ -8,3 +8,4 @@ Anthonio_Banderas: {00BFFF}*пройшов день*
 Anthonio_Banderas: {00FF00}Ivan_Ivan - русак
 Anthonio_Banderas: {FF0000}!!!
 Taureg_Mali: {FF0000}го робимо альянс. які варіанти.
+Anthonio_Banderas: {00FF00}Саліері)
