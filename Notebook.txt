@@ -7,3 +7,4 @@ Anthonio_Banderas: 8Привіт
 Anthonio_Banderas: 5Як це працює?
 Anthonio_Banderas: {FFFF00}ку
 Anthonio_Banderas: {FFFF00}Чого так довго?
+Anthonio_Banderas: {00BFFF}Чого так довго?
