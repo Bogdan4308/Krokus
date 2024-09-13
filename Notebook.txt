@@ -6,3 +6,4 @@ Taureg_Mali: {FF0000}Ivan_Ivan завтра позвоніть інвайт, я 
 Anthonio_Banderas: {00FF00}добре, прийму
 Anthonio_Banderas: {00BFFF}*пройшов день*
 Anthonio_Banderas: {00FF00}Ivan_Ivan - русак
+Anthonio_Banderas: {FF0000}!!!
