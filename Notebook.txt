@@ -10,3 +10,4 @@ Taureg_Mali: {00FF00}я тут
 Taureg_Mali: {00FF00}а можна відправляти без кнопки а просто через ентер?
 Anthonio_Banderas: {00FF00}та можна
 Taureg_Mali: {00FF00}ок це логічно
+Anthonio_Banderas: {FF0000}[ЗАВДАННЯ]: різанути 5 русаків
