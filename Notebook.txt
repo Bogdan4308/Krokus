@@ -17,3 +17,4 @@ Taureg_Mali: {FF0000}388 інвайт фаст, хто може?
 Anthonio_Banderas: {8A2BE2}КАПС = МУТ)
 Taureg_Mali: {FF1493}я
 Taureg_Mali: {FFFF00}О Стів привіт
+Anthonio_Banderas: {8A2BE2}Бля, затримка напрягає
