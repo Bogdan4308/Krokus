@@ -2,3 +2,4 @@
 
 Taureg_Mali: {FF0000}важливі речі писати червоним
 Anthonio_Banderas: {FF0000}го тестити як воно буде
+Taureg_Mali: {FF0000}Ivan_Ivan завтра позвоніть інвайт, я їду в село. 
