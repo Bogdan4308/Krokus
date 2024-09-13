@@ -14,3 +14,4 @@ Anthonio_Banderas: {FF0000}[ЗАВДАННЯ]: різанути 5 русаків
 Taureg_Mali: {00FF00}відправляти через ентер
 Anthonio_Banderas: {FF0000}
 Anthonio_Banderas: {00BFFF}Колір міняв?
+Taureg_Mali: {FFFFFF}білий
