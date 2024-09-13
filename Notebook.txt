@@ -16,3 +16,4 @@ Anthonio_Banderas: {FF0000}
 Anthonio_Banderas: {00BFFF}Колір міняв?
 Taureg_Mali: {FFFFFF}білий
 Anthonio_Banderas: {FFFFFF}Виглядає приблизно так як ти і кидав
+Taureg_Mali: {FF1493}о мій улюблений
