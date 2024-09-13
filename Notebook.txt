@@ -5,3 +5,4 @@ Anthonio_Banderas: {FF0000}го тестити як воно буде
 Taureg_Mali: {FF0000}Ivan_Ivan завтра позвоніть інвайт, я їду в село. 
 Anthonio_Banderas: {00FF00}добре, прийму
 Anthonio_Banderas: {00BFFF}*пройшов день*
+Anthonio_Banderas: {00FF00}Ivan_Ivan - русак
