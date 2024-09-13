@@ -7,3 +7,4 @@ Anthonio_Banderas: {FFFFFF}+++
 Anthonio_Banderas: {00BFFF}Слава Україні, хлопці
 Anthonio_Banderas: {FFFF00}Героям слава!
 Taureg_Mali: {00FF00}я тут
+Taureg_Mali: {00FF00}а можна відправляти без кнопки а просто через ентер?
