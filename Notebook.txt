@@ -22,3 +22,4 @@ Anthonio_Banderas: {00FF00}Оо, привіт
 Taureg_Mali: {FFFF00}чуток
 Taureg_Mali: {FFFF00}ПОСТАВ МБ 1 сек
 Anthonio_Banderas: {00FF00}Ліміт може вжарити тоді
+Anthonio_Banderas: {00FF00}Опа
