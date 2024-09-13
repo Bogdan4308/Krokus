@@ -2,3 +2,4 @@
 
 Anthonio_Banderas: {00FF00}Привіт
 Anthonio_Banderas: {8A2BE2}Раз два три 
+Anthonio_Banderas: {FF1493}Чого така йобнута затримка????? Скріптєр гавнокодєр
