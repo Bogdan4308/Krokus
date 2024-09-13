@@ -6,3 +6,4 @@ Anthonio_Banderas: {FF1493}Чого така йобнута затримка????
 Anthonio_Banderas: {FFFFFF}+++
 Anthonio_Banderas: {00BFFF}Слава Україні, хлопці
 Anthonio_Banderas: {FFFF00}Героям слава!
+Taureg_Mali: {00FF00}я тут
