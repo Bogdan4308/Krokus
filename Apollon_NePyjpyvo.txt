@@ -16,7 +16,7 @@
 "NotWithTime2":"",
 "TimeForNot1": "00:05",
 "TimeForNot2": "",
-"CheckNotTime1": "false",
+"CheckNotTime1": "true",
 "CheckNotTime2":"false",
 "PosX": "24",
 "PosY": "501",
