@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Інфо] Платимо за приведення друга",
 "NotWithTimer2": "/fam [Інфо] Без VIP - 500, з VIP - 1кк",
-"NotWithTimer3": "",
+"NotWithTimer3": "/fam [Інфо] Сім'я має ТГ канал, щоб доєднатись пишіть @sneeezz",
 "NotWithTime1": "",
 "NotWithTime2":"",
 "TimeForNot1": "00:05",
