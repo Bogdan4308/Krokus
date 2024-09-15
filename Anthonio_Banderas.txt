@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "1",
+"Minutes": "2",
 "TextAfterInv": "",
 "NickDep1": "Viktor_Krokus",
 "NickDep2": "Taureg_Mali",
@@ -21,6 +21,6 @@
 "PosX": "1637",
 "PosY": "745",
 "CheckedTax": "true",
-"WindowStyle": "3",
+"WindowStyle": "1",
 "CountVipPlayers": "0"
 }
