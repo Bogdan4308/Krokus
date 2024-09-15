@@ -1,7 +1,7 @@
 {
-"Ad": "5",
-"Inv": "2",
-"Hour": "10",
+"Ad": "0",
+"Inv": "0",
+"Hour": "0",
 "Minutes": "0",
 "TextAfterInv": "",
 "NickDep1": "Viktor_Krokus",
