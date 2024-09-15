@@ -1,3 +1,4 @@
+Anthonio_Banderas: {FF1493}Та то зроблю
 Anthonio_Banderas: {FF1493}Де саме, на екрані?
 Taureg_Mali: {FF0000}трошки більші букви бо ріл маленькі
 Anthonio_Banderas: {FF1493}Да, прікольний чат зробили
