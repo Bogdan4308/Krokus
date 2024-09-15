@@ -2,7 +2,7 @@
 "Ad": "110",
 "Inv": "18",
 "Hour": "39",
-"Minutes": "49",
+"Minutes": "50",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Vladislav_Krokus",
 "NickDep2": "Zoro_Ackerman",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "24",
 "PosY": "501",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "8",
 "CountVipPlayers": "12"
 }
