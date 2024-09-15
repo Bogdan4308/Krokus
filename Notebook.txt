@@ -1,3 +1,4 @@
+Anthonio_Banderas: {00FF00}Як блокнот - піде
 Taureg_Mali: {00FF00}всім привіт
 Anthonio_Banderas: {FF1493}Приняв 133
 Taureg_Mali: {00FF00}133 id інвайт
