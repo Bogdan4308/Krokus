@@ -2,7 +2,7 @@
 "Ad": "243",
 "Inv": "0",
 "Hour": "84",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "Vladislav_Krokus",
