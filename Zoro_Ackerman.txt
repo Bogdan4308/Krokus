@@ -2,7 +2,7 @@
 "Ad": "25",
 "Inv": "1",
 "Hour": "1",
-"Minutes": "33",
+"Minutes": "34",
 "TextAfterInv": "Вітаємо в сім'ї<3",
 "NickDep1": "",
 "NickDep2": "",
