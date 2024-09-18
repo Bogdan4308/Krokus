@@ -1,3 +1,4 @@
+Taureg_Mali: {00FF00}Kuni_Man поставити 7й ранг він Глорі був на замці Бндрс тобто 8й ранг
 Taureg_Mali: {FFFF00}Zoro_Ackerman: заінвайтив
 Taureg_Mali: {00FF00}Bogdan_Hyigann
 Anthonio_Banderas: {00BFFF}тест
