@@ -1,3 +1,4 @@
+Taureg_Mali: {FF0000}UPD: кинув ще 10кк
 Taureg_Mali: {FF0000}UPD: 5
 Taureg_Mali: {FF0000}Логан_Колінс 4 ранг видати
 Anthonio_Banderas: {00FF00}плани на день: дожити до вечора
