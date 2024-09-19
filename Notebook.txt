@@ -1,3 +1,4 @@
+Anthonio_Banderas: {00FF00}плани на день: дожити до вечора
 Taureg_Mali: {00FF00}плани на день: нема
 Taureg_Mali: {00BFFF}грей лов на 6
 Taureg_Mali: {FF1493}Куні ман на 7, торес 6ранг 6кк змінити
