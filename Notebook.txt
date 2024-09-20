@@ -1,3 +1,4 @@
+Anthonio_Banderas: {FFFF00}Test
 Anthonio_Banderas: {00FF00}Ура Ура Ура
 {00FF00}
 Anthonio_Banderas: {8A2BE2}Перемога буде
