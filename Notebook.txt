@@ -1,3 +1,4 @@
+Anthonio_Banderas: {00FF00}{FFA500}[to Anthonio_Banderas]: {00FF00} ок
 Anthonio_Banderas: {FF0000}[УВАГА] Не забудьте взяти ЗП в неділю!
 Anthonio_Banderas: {00FF00}{FFA500}[to Taureg_Mali]: {00FF00}я виконав твоє доручення
 Anthonio_Banderas: {00FF00}{FFA500}[to Taureg_Mali]: {00FF00} привіт кєнт
