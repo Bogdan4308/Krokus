@@ -1,3 +1,4 @@
+Taureg_Mali: {FFFFFF}та
 Anthonio_Banderas: {00BFFF}Хан, ти тут?
 Anthonio_Banderas: {FFFF00}Test
 Anthonio_Banderas: {00FF00}Ура Ура Ура
