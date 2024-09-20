@@ -1,3 +1,4 @@
+Anthonio_Banderas: {00FF00}ану напиши шось сюда
 Taureg_Mali: {FFFFFF}та
 Anthonio_Banderas: {00BFFF}Хан, ти тут?
 Anthonio_Banderas: {FFFF00}Test
