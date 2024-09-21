@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "2",
 "Minutes": "26",
-"TextAfterInv": "",
+"TextAfterInv": "Семья "ВолЯ" ищет дальних родственников. Просьба отозваться",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
