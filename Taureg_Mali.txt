@@ -7,7 +7,7 @@
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Gustavo_Himars",
 "NickDep3": "Zoro_Ackerman",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam :fire: Фама платить за гру в фамі. Потрібен фамний скріпт! :fire:",
 "NotWithTimer2": "/fam :fire: Збираємо на кв. в Арз Тавер 2ккк. Кожен по 500к і буде :fire:",
