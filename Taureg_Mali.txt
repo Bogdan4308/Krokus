@@ -13,7 +13,7 @@
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTime1": "/fam :fire: Збираємо 2ккк на хату в Арз Тавер. Інвентар - сім'я - сім.кв - 5 :fire:",
-"NotWithTime2":"/fam [Інфо] Додам в фам тг @lovekrokus і дс krokus1 <3",
+"NotWithTime2":"/fam :fire: Збираємо 2ккк на хату в Арз Тавер. Інвентар - сім'я - сім.кв - 5 :fire:",
 "TimeForNot1": "45:45",
 "TimeForNot2": "15:15",
 "CheckNotTime1": "true",
