@@ -1,3 +1,4 @@
+Taureg_Mali: {00BFFF}пампам
 Taureg_Mali: {FF0000}зняти Густава з замки 
 Anthonio_Banderas: {00FF00}{FFA500}[to Anthonio_Banderas]: {00FF00} ок
 Anthonio_Banderas: {FF0000}[УВАГА] Не забудьте взяти ЗП в неділю!
