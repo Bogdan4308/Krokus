@@ -12,7 +12,7 @@
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
-"NotWithTime1": "/fam [Інфо] Підтримуйте масло в фамних машинах у хорошому стані. Дякуємо <3",
+"NotWithTime1": "/fam [Інфо] Підтримуйте масло в фамних машинах у хорошому стані <3",
 "NotWithTime2":"",
 "TimeForNot1": "45:45",
 "TimeForNot2": "",
