@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "1",
 "Minutes": "48",
-"TextAfterInv": "",
+"TextAfterInv": ":",
 "NickDep1": "Peremoha_Bude",
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
