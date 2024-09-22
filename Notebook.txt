@@ -1,3 +1,4 @@
+Anthonio_Banderas: {00FF00}{FFA500}[to Anthonio_Banderas]: {00FF00}і пишеш своє повідомлення, нічого не видаляючи
 Anthonio_Banderas: {00FF00}{FFA500}[to Taureg_Mali]: {00FF00}Я ж забув сказати як відповідати, просто тиснеш на текст
 Taureg_Mali: {00BFFF}пампам
 Taureg_Mali: {FF0000}зняти Густава з замки 
