@@ -4,7 +4,7 @@
 "Hour": "1",
 "Minutes": "53",
 "TextAfterInv": "",
-"NickDep1": "Peremoha_Bude",
+"NickDep1": "Zoro_Ackerman",
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
 "StateMainWindow": "true",
