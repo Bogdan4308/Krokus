@@ -1,3 +1,4 @@
+Taureg_Mali: {00BFFF}Бавовна 8 ранг 
 Anthonio_Banderas: {8A2BE2}Всім гарного дня :)
 Taureg_Mali: {00FF00}{FFA500}[to Anthonio_Banderas]: {00FF00} затестив
 Anthonio_Banderas: {00FF00}{FFA500}[to Anthonio_Banderas]: {00FF00}і пишеш своє повідомлення, нічого не видаляючи
