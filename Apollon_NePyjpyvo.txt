@@ -2,7 +2,7 @@
 "Ad": "111",
 "Inv": "4",
 "Hour": "18",
-"Minutes": "50",
+"Minutes": "51",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "",
 "NickDep2": "Zoro_Ackerman",
