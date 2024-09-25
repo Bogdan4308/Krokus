@@ -13,7 +13,7 @@
 "NotWithTimer2": "/fam :fire: За приведення друга бонус 500к, якщо з віп 1кк :fire:",
 "NotWithTimer3": "/fam :fire: Cтараємось виконувати квести і міняти талони на ранги :fire:",
 "NotWithTime1": "/fam :$: куплю фам талони по 40к :$:",
-"NotWithTime2":"/fam :$: продам зенторно 85кк :$:",
+"NotWithTime2":"/fam :$: куплю фам талони по 40к :$:",
 "TimeForNot1": "45:45",
 "TimeForNot2": "15:15",
 "CheckNotTime1": "true",
