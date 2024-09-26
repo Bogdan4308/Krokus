@@ -2,12 +2,12 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "55",
+"Minutes": "56",
 "TextAfterInv": "",
 "NickDep1": "Zoro_Ackerman",
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "1637",
 "PosY": "745",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "3",
 "CountVipPlayers": "0"
 }
