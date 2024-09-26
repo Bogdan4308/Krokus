@@ -7,7 +7,7 @@
 "NickDep1": "Zoro_Ackerman",
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "1637",
 "PosY": "745",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "3",
 "CountVipPlayers": "0"
 }
