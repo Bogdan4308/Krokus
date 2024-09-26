@@ -8,7 +8,7 @@
 "NickDep2": "Taureg_Mali",
 "NickDep3": "Apollon_NePyjpyvo",
 "StateMainWindow": "true",
-"StateAddWindow": "true",
+"StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
