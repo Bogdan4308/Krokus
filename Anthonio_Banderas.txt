@@ -1,8 +1,8 @@
 {
 "Ad": "0",
 "Inv": "0",
-"Hour": "2",
-"Minutes": "60",
+"Hour": "3",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "Zoro_Ackerman",
 "NickDep2": "Taureg_Mali",
@@ -21,6 +21,6 @@
 "PosX": "1637",
 "PosY": "745",
 "CheckedTax": "false",
-"WindowStyle": "3",
+"WindowStyle": "7",
 "CountVipPlayers": "0"
 }
