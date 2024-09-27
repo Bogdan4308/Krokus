@@ -8,7 +8,7 @@
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
-"StateAddWindow": "false",
+"StateAddWindow": "true",
 "NotWithTimer1": "/vr Сімя ",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "1152.7426160338",
 "PosY": "384",
-"CheckedTax": "false",
+"CheckedTax": "true",
 "WindowStyle": "4",
 "CountVipPlayers": "0"
 }
