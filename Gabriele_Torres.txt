@@ -2,12 +2,12 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "5",
+"Minutes": "6",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -21,6 +21,6 @@
 "PosX": "1152.7426160338",
 "PosY": "384",
 "CheckedTax": "false",
-"WindowStyle": "1",
+"WindowStyle": "4",
 "CountVipPlayers": "0"
 }
