@@ -2,12 +2,12 @@
 "Ad": "5",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "20",
+"Minutes": "21",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "true",
 "NotWithTimer1": "/vr Сімя ",
 "NotWithTimer2": "",
@@ -20,7 +20,7 @@
 "CheckNotTime2":"false",
 "PosX": "1152.7426160338",
 "PosY": "384",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "4",
 "CountVipPlayers": "0"
 }
