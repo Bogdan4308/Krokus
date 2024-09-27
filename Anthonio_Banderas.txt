@@ -1,6 +1,6 @@
 {
-"Ad": "0",
-"Inv": "0",
+"Ad": "120",
+"Inv": "50",
 "Hour": "3",
 "Minutes": "36",
 "TextAfterInv": "",
