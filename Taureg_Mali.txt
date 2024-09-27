@@ -6,7 +6,7 @@
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Zoro_Ackerman",
-"NickDep3": "",
+"NickDep3": "Gabriele_Torres",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam Платимо за гру в фамі! Встановлюйте фамний скріпт :fire:",
