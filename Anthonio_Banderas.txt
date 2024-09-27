@@ -25,7 +25,7 @@
 "CountVipPlayers": "0",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
-"FontSizeNotePad": "1",
-"FontFamilyNotePad": "0",
-"StateNotePad": "false"
+"FontSizeNotePad": "20",
+"FontFamilyNotePad": "7",
+"StateNotePad": "true"
 }
