@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam Фама платить за гру в фамі! Потрібен фамний скріпт :fire:",
 "NotWithTimer2": "/fam За приведення друга даємо 500к, якщо з VIP - 1кк :fire:",
-"NotWithTimer3": "",
+"NotWithTimer3": "/fam Допомагаємо фамі: купляємо ранги, теги, робимо фам квести :fire:",
 "NotWithTime1": ":$: Куплю фам талони по 40к :$:",
 "NotWithTime2":"Підтримуйте масло в фамних машинах у хорошому стані :strong:",
 "TimeForNot1": "15:15",
