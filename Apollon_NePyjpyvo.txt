@@ -4,7 +4,7 @@
 "Hour": "35",
 "Minutes": "6",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
-"NickDep1": "",
+"NickDep1": "Taureg_Mali",
 "NickDep2": "Zoro_Ackerman",
 "NickDep3": "",
 "StateMainWindow": "true",
