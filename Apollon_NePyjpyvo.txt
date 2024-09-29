@@ -2,7 +2,7 @@
 "Ad": "14",
 "Inv": "2",
 "Hour": "0",
-"Minutes": "35",
+"Minutes": "36",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "Zoro_Ackerman",
@@ -25,7 +25,7 @@
 "CountVipPlayers": "2",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
-"FontSizeNotePad": "1",
+"FontSizeNotePad": "6",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false"
 }
