@@ -2,7 +2,7 @@
 "Ad": "200",
 "Inv": "15",
 "Hour": "45",
-"Minutes": "27",
+"Minutes": "28",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -26,6 +26,6 @@
 "PosNotePadX": "50",
 "PosNotePadY": "624",
 "FontSizeNotePad": "15",
-"FontFamilyNotePad": "4",
+"FontFamilyNotePad": "7",
 "StateNotePad": "true"
 }
