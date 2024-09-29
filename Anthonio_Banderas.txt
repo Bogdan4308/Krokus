@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "24",
+"Minutes": "25",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -23,9 +23,9 @@
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
-"PosNotePadX": "26",
-"PosNotePadY": "577",
-"FontSizeNotePad": "15",
+"PosNotePadX": "1401",
+"PosNotePadY": "679",
+"FontSizeNotePad": "13",
 "FontFamilyNotePad": "25",
 "StateNotePad": "true"
 }
