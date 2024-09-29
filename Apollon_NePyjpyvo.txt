@@ -16,7 +16,7 @@
 "NotWithTime2":"/fam [Інфо] Без ВІП - 500, з ВІП - 1КК <3",
 "TimeForNot1": "00:05",
 "TimeForNot2": "00:05",
-"CheckNotTime1": "false",
+"CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "24",
 "PosY": "501",
