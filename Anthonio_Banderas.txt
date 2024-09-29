@@ -27,5 +27,5 @@
 "PosNotePadY": "585",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "8",
-"StateNotePad": "true"
+"StateNotePad": "false"
 }
