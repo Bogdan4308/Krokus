@@ -23,9 +23,9 @@
 "CheckedTax": "true",
 "WindowStyle": "4",
 "CountVipPlayers": "0",
-"PosNotePadX": "50",
-"PosNotePadY": "624",
-"FontSizeNotePad": "11",
+"PosNotePadX": "53",
+"PosNotePadY": "627",
+"FontSizeNotePad": "15",
 "FontFamilyNotePad": "13",
 "StateNotePad": "true"
 }
