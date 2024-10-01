@@ -1,3 +1,4 @@
+Taureg_Mali: {FFFF00}коли 8 @ X виглядає скупо, по бідному)
 Taureg_Mali: {FF1493}8 смалик XXXXXXXXX
 Taureg_Mali: {FF1493}тест
 Taureg_Mali: {FF1493}{FFA500}[to Apollon_NePyjpyvo]: {00FF00} спробуй зміни 8й ранг на XXXXXXXXXX
