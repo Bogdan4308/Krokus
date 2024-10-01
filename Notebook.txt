@@ -1,3 +1,4 @@
+Taureg_Mali: {FF1493}тест
 Taureg_Mali: {FF1493}{FFA500}[to Apollon_NePyjpyvo]: {00FF00} спробуй зміни 8й ранг на XXXXXXXXXX
 Apollon_NePyjpyvo: {00FF00}{FFA500}[to Taureg_Mali]: {00FF00} мяу
 Zoro_Ackerman: {00FF00}Та перестало
