@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Інфо] Встановлюйте фамний скріпт! Цікаві системи: :robot:",
+"NotWithTimer1": "/fam :robot: Встановлюйте фамний скріпт! Репутація, фам. криптовалюта,",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTime1": "/fam [Інфо] Додам в фам тг @lovekrokus :robot: Куплю фамки по 40к :$:",
