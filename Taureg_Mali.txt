@@ -2,7 +2,7 @@
 "Ad": "272",
 "Inv": "15",
 "Hour": "73",
-"Minutes": "56",
+"Minutes": "57",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Zoro_Ackerman",
