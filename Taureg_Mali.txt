@@ -12,7 +12,7 @@
 "NotWithTimer1": "/fam :robot: Встановлюйте фамний скріпт! Репутація, фам. криптовалюта,",
 "NotWithTimer2": "/fam :robot: кредити, кольоровий чат та багато іншого!",
 "NotWithTimer3": "/fam :robot: Від вашого активу залежить чи розвиватиметься скріпт далі!",
-"NotWithTime1": "/fam [Інфо] Додам в фам тг @lovekrokus (імя квіточк:monkey:",
+"NotWithTime1": "/fam [Інфо] Додам в фам тг @lovekrokus (імя квіточка, ава трикутник) :monkey:",
 "NotWithTime2":"/fam [Інфо] Підтримуйте масло в фамних машинах у доброму стані :bug:",
 "TimeForNot1": "45:45",
 "TimeForNot2": "15:15",
