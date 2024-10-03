@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "1",
+"Inv": "2",
 "Hour": "1",
 "Minutes": "18",
 "TextAfterInv": "/fam Вітаємо в фамі, тг канал сім'ї - @sneeezz",
