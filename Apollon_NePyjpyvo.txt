@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "11",
+"Inv": "12",
 "Hour": "7",
 "Minutes": "34",
 "TextAfterInv": "Вітаємо в фамі, тг канал сім'ї - @sneeezz",
@@ -22,7 +22,7 @@
 "PosY": "501",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "2",
+"CountVipPlayers": "3",
 "PosNotePadX": "49",
 "PosNotePadY": "386",
 "FontSizeNotePad": "10",
