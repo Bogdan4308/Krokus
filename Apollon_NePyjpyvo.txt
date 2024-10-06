@@ -1,8 +1,8 @@
 {
 "Ad": "0",
 "Inv": "7",
-"Hour": "4",
-"Minutes": "59",
+"Hour": "5",
+"Minutes": "0",
 "TextAfterInv": "Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "Zoro_Ackerman",
