@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam Апнути ранг можна за вірти або ф.талони + треба фам квести :true:",
 "NotWithTimer2": "/fam Перший раз тег коштує 1кк, наступна зміна 500к :ok:",
-"NotWithTimer3": "/fam Встановлюйте фамний скріпт "FamRep", багато цікавих штук :sun:",
+"NotWithTimer3": "/fam Багато цікавих штук у фам скріпті. Як поставити пояснемо :sun:",
 "NotWithTime1": "/fam [Інфо] Додам в фам тг @lovekrokus (ава трикутник) :monkey:",
 "NotWithTime2":"/fam [Інфо] Підтримуйте масло в фамних машинах у доброму стані :bug:",
 "TimeForNot1": "45:45",
