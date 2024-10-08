@@ -5,7 +5,7 @@
 "Minutes": "52",
 "TextAfterInv": "Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Taureg_Mali",
-"NickDep2": "",
+"NickDep2": "Ami_Miura",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
