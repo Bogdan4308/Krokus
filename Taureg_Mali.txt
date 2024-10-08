@@ -2,7 +2,7 @@
 "Ad": "390",
 "Inv": "15",
 "Hour": "129",
-"Minutes": "54",
+"Minutes": "55",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Zoro_Ackerman",
@@ -23,9 +23,9 @@
 "CheckedTax": "true",
 "WindowStyle": "4",
 "CountVipPlayers": "0",
-"PosNotePadX": "53",
-"PosNotePadY": "627",
-"FontSizeNotePad": "12",
-"FontFamilyNotePad": "13",
-"StateNotePad": "false"
+"PosNotePadX": "161",
+"PosNotePadY": "481",
+"FontSizeNotePad": "17",
+"FontFamilyNotePad": "12",
+"StateNotePad": "true"
 }
