@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "false",
-"NotWithTimer1": "/fam Апнути ранг можна за вірти або фам талони + фам квсти <3",
+"NotWithTimer1": "/fam Апнути ранг можна за вірти або фам талони + фам квести <3",
 "NotWithTimer2": "/fam За приведення друзів платимо 500к і 1кк якщо з VIP <3",
 "NotWithTimer3": "/fam Встановлюйте фамний скріпт. Багато всього цікавого <3",
 "NotWithTime1": "/fam [Інфо] додам в фам тг @Ami_Miura",
