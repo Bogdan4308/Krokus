@@ -17,7 +17,7 @@
 "TimeForNot1": "40:35",
 "TimeForNot2": "20:20",
 "CheckNotTime1": "true",
-"CheckNotTime2":"false",
+"CheckNotTime2":"true",
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "true",
