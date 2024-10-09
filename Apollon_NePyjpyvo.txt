@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "18",
 "Hour": "13",
-"Minutes": "16",
+"Minutes": "17",
 "TextAfterInv": "Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "Ami_Miura",
