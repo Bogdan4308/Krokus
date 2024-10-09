@@ -6,7 +6,7 @@
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Zoro_Ackerman",
-"NickDep3": "",
+"NickDep3": "Ami_Miura",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
