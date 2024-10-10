@@ -5,7 +5,7 @@
 "Minutes": "21",
 "TextAfterInv": "",
 "NickDep1": "Taureg_Mali",
-"NickDep2": "",
+"NickDep2": "Leonardo_Toronta",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
