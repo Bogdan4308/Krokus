@@ -1,5 +1,5 @@
 {
-"Ad": "49",
+"Ad": "50",
 "Inv": "1",
 "Hour": "10",
 "Minutes": "36",
@@ -16,7 +16,7 @@
 "NotWithTime2":"/fam [Інфо] Підтримуйте масло в фамних машинах у доброму стані",
 "TimeForNot1": "40:35",
 "TimeForNot2": "10:20",
-"CheckNotTime1": "true",
+"CheckNotTime1": "false",
 "CheckNotTime2":"true",
 "PosX": "1610",
 "PosY": "798",
