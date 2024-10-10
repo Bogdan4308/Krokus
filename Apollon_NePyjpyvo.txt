@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "18",
 "Hour": "13",
-"Minutes": "25",
+"Minutes": "26",
 "TextAfterInv": "Вітаємо в фамі, тг канал сім'ї - @sneeezz",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "Ami_Miura",
@@ -27,5 +27,5 @@
 "PosNotePadY": "386",
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
-"StateNotePad": "true"
+"StateNotePad": "false"
 }
