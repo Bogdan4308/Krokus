@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "3",
+"Minutes": "4",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -27,5 +27,5 @@
 "PosNotePadY": "450",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
-"StateNotePad": "false"
+"StateNotePad": "true"
 }
