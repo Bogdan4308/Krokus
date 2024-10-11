@@ -15,7 +15,7 @@
 "NotWithTime1": "/fam [Інфо] Додам в фам тг @taureg1 <3",
 "NotWithTime2":"/fam [Інфо] Хто має трейлер - заселяємось в село позаду 16 азс <3",
 "TimeForNot1": "02:02",
-"TimeForNot2": "15:15",
+"TimeForNot2": "12:02",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "1648",
