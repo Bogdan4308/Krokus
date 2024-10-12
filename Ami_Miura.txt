@@ -1,8 +1,8 @@
 {
-"Ad": "93",
+"Ad": "94",
 "Inv": "4",
 "Hour": "18",
-"Minutes": "37",
+"Minutes": "38",
 "TextAfterInv": "Додам в фам тг @Ami_Miura",
 "NickDep1": "",
 "NickDep2": "",
