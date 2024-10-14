@@ -14,7 +14,7 @@
 "NotWithTimer3": "/fam [Інфо] 7 ранг по 2I, ранг X тільки через фам скріпт <3",
 "NotWithTime1": "/fam [Інфо] У фами є свій ТГ, пишіть @sneeezz",
 "NotWithTime2":"В ТГ каналі йде Геловінський конкурс, пишіть @sneeezz",
-"TimeForNot1": "1:00",
+"TimeForNot1": "01:00",
 "TimeForNot2": "01:00",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
