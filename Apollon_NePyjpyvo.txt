@@ -1,5 +1,5 @@
 {
-"Ad": "31",
+"Ad": "32",
 "Inv": "25",
 "Hour": "26",
 "Minutes": "38",
@@ -14,8 +14,8 @@
 "NotWithTimer3": "/fam [Інфо] 7 ранг по 2I, ранг X тільки через фам скріпт <3",
 "NotWithTime1": "/fam [Інфо] У фами є свій ТГ, пишіть @sneeezz",
 "NotWithTime2":"В ТГ каналі йде Геловінський конкурс, пишіть @sneeezz",
-"TimeForNot1": "00:05",
-"TimeForNot2": "00:05",
+"TimeForNot1": "1:00",
+"TimeForNot2": "",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "24",
