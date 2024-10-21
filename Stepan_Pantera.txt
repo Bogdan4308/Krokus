@@ -1,5 +1,5 @@
 {
-"Ad": "12",
+"Ad": "13",
 "Inv": "1",
 "Hour": "2",
 "Minutes": "46",
@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "/fam Хочеш бути заступником b) - заповни форму в ТГ. Зв'язок @Alisimenko",
 "NotWithTimer2": "/fam Перші 5 учасників, хто виконає 100 фам квестів - отримає 100кк. Деталі в ТГ :hheart:",
