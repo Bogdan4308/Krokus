@@ -4,7 +4,7 @@
 "Hour": "41",
 "Minutes": "11",
 "TextAfterInv": "Вітаємо в фамі, :party: тг канал сім'ї - @sneeezz",
-"NickDep1": "",
+"NickDep1": "Stepan_Pantera",
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
