@@ -1,3 +1,4 @@
+
 Scrooge_Salieri UID: 318592 Причина: 1
 Brabus_Salieri UID: 1286425 Причина: 1
 Takery_Wexwy UID: 1669141 Причина: 1
@@ -19,4 +20,4 @@ Igor_Dominek UID: 677798 Причина: 1
 Rick_McFloyd UID: 1004094 Причина: 1
 Nik_Skywalker UID: 2216348 Причина: 1
 Gord_Banderas UID: 1040946 Причина: (довбойоб)
-Stark_Industies UID: 1775991 Причина: 1
+Stark_Industies UID: 1775991 Причина: 1
