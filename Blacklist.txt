@@ -23,3 +23,4 @@ Gord_Banderas UID: 1040946 Причина: (довбойоб)
 Stark_Industies UID: 1775991 Причина: 1
 Karl_Urbann UID: 897843 Причина: тест2 => Karl_Urban
 Iya_Balad UID: 2191615 Причина: хуй => Ilya_Balad
+Daniel_Huniel UID: 12121 Причина: 1
