@@ -19,4 +19,5 @@ Freeze_Hokage UID: 1663296 Причина: 1
 Igor_Dominek UID: 677798 Причина: 1
 Rick_McFloyd UID: 1004094 Причина: 1
 Nik_Skywalker UID: 2216348 Причина: 1
-Gord_Banderas UID: 1040946 Причина: (довбойоб)
+Gord_Banderas UID: 1040946 Причина: (довбойоб)
+Flore_Burn UID: 11111 Причина: 1
