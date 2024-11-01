@@ -2,12 +2,12 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "27",
-"Minutes": "32",
+"Minutes": "33",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -25,7 +25,7 @@
 "CountVipPlayers": "0",
 "PosNotePadX": "332",
 "PosNotePadY": "747",
-"FontSizeNotePad": "10",
+"FontSizeNotePad": "0",
 "FontFamilyNotePad": "0",
 "StateNotePad": "true"
 }
