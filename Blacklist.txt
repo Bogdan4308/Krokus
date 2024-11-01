@@ -5,7 +5,7 @@ Takery_Wexwy UID: 1669141 Причина: 1
 Yan_Cursed UID: 339524 Причина: 1
 Gustav_Lindemann (Ваня) UID: 1316471 Причина: 1
 Oleg_Luch UID: 1237510 Причина: Неадекват, дм
-Abaddon_Gatilo UID: 680853 Причина: (друг Такеру)
+Abaddon_Gatilo UID: 680853 Причина: (друг Такеру) => Abaddon_Warhammer
 Skee_Lo UID: 333410 Причина: 1
 Danila_Ferma UID: 1495966 Причина: 1
 Bryan_Banderas UID: 981092 Причина: 1
