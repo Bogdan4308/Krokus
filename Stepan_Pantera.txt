@@ -2,7 +2,7 @@
 "Ad": "70",
 "Inv": "3",
 "Hour": "46",
-"Minutes": "41",
+"Minutes": "42",
 "TextAfterInv": "Вітаємо в сім'ї :party: Додам в фам тг @Alisimenko",
 "NickDep1": "",
 "NickDep2": "",
