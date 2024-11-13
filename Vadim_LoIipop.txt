@@ -5,7 +5,7 @@
 "Minutes": "57",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
-"NickDep2": "",
+"NickDep2": "Stepan_Pantera",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
