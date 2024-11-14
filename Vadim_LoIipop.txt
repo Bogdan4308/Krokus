@@ -7,7 +7,7 @@
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Stepan_Pantera",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -27,5 +27,5 @@
 "PosNotePadY": "747",
 "FontSizeNotePad": "13",
 "FontFamilyNotePad": "0",
-"StateNotePad": "true"
+"StateNotePad": "false"
 }
