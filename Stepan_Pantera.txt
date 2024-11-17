@@ -1,8 +1,8 @@
 {
 "Ad": "81",
 "Inv": "4",
-"Hour": "61",
-"Minutes": "60",
+"Hour": "62",
+"Minutes": "1",
 "TextAfterInv": "Вітаємо в сім'ї :party: Додам в фам тг @Alisimenko",
 "NickDep1": "",
 "NickDep2": "",
