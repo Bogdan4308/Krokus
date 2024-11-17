@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": ":w: Наша сім'я має ТГ канал! Пишіть @plavjk, і м",
+"NotWithTimer1": "/fam :w: Наша сім'я має ТГ канал! Пишіть @plavjk, і ми вас додамо!",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTime1": "",
