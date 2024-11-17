@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [INFO] Наша сім'я має ТГ канал! Пишіть @plavjk, і ми вас додамо!",
-"NotWithTimer2": "/fam [INFO] Хочеш більший ранг? Вся детальна ін",
+"NotWithTimer2": "/fam [INFO] Хочеш більший ранг? Вся детальна інфа саме в ТГ!",
 "NotWithTimer3": "",
 "NotWithTime1": "",
 "NotWithTime2":"",
