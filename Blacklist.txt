@@ -6,4 +6,4 @@ Antonio_Parlament UID: 000 Причина: Активний ак рості
 Gustav_Lindemann UID: 1316471 Причина: чмо
 Gord_Banderas UID: 1040946 Причина: обіжав Амі і лівнув (чмо)
 Ваня_Петро UID: 1836576 Причина: 111 => Vadim_LoIipop
-Ya_Pidor UID: 1614308 Причина: !
+Ya_Pidor UID: 1614308 Причина: ! => Anthonio_Banderas
