@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "174",
-"Minutes": "57",
+"Minutes": "58",
 "TextAfterInv": "",
 "NickDep1": "Apollon_NePyjpyvo",
 "NickDep2": "Stepan_Pantera",
@@ -23,9 +23,9 @@
 "CheckedTax": "false",
 "WindowStyle": "7",
 "CountVipPlayers": "0",
-"PosNotePadX": "712",
-"PosNotePadY": "954",
-"FontSizeNotePad": "13",
-"FontFamilyNotePad": "0",
+"PosNotePadX": "791",
+"PosNotePadY": "745",
+"FontSizeNotePad": "15",
+"FontFamilyNotePad": "12",
 "StateNotePad": "true"
 }
