@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/jb Скажем вместе НЕТ Спаму?!",
+"NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTime1": "/jb Скажем вместе НЕТ Спаму?!",
