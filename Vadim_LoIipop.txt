@@ -20,7 +20,7 @@
 "CheckNotTime2":"true",
 "PosX": "1609",
 "PosY": "288",
-"CheckedTax": "false",
+"CheckedTax": "true",
 "WindowStyle": "2",
 "CountVipPlayers": "0",
 "PosNotePadX": "658",
