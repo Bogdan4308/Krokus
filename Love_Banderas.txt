@@ -1,5 +1,5 @@
 {
-"Ad": "3",
+"Ad": "4",
 "Inv": "0",
 "Hour": "0",
 "Minutes": "36",
@@ -12,7 +12,7 @@
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
-"NotWithTime1": "",
+"NotWithTime1": "/fam Здам фамну крафт фуру Вестерн, без ",
 "NotWithTime2":"",
 "TimeForNot1": "",
 "TimeForNot2": "",
