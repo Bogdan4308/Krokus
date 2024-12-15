@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "0",
+"Inv": "1",
 "Hour": "0",
 "Minutes": "16",
 "TextAfterInv": "Вітаємо в сім'ї",
@@ -22,7 +22,7 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "4",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
