@@ -1,6 +1,6 @@
 {
 "Ad": "12",
-"Inv": "0",
+"Inv": "1",
 "Hour": "2",
 "Minutes": "40",
 "TextAfterInv": "",
@@ -22,7 +22,7 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
