@@ -11,3 +11,4 @@ Pep_Si  UID: 806272 Причина: неад
 Sawa_Mironov  UID: 276964 Причина: неад
 Scrooge_Salieri UID: 318592 Причина: саліері
 Brabus_Salieri UID: 1286425 Причина: саліері
+Takery_Wexwy UID: 1669141 Причина: саліері
