@@ -9,3 +9,4 @@ Ya_Pidor UID: 1614308 Причина: ! => Anthonio_Banderas
 Litvin_Salieri UID: 1501149 Причина: неад
 Pep_Si  UID: 806272 Причина: неад
 Sawa_Mironov  UID: 276964 Причина: неад
+Scrooge_Salieri UID: 318592 Причина: саліері
