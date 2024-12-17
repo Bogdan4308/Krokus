@@ -2,7 +2,7 @@
 "Ad": "127",
 "Inv": "13",
 "Hour": "24",
-"Minutes": "25",
+"Minutes": "26",
 "TextAfterInv": "Додам в фам тг і дс wmhan1",
 "NickDep1": "",
 "NickDep2": "",
@@ -23,9 +23,9 @@
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "7",
-"PosNotePadX": "100",
-"PosNotePadY": "540",
+"PosNotePadX": "418",
+"PosNotePadY": "598",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
-"StateNotePad": "false"
+"StateNotePad": "true"
 }
