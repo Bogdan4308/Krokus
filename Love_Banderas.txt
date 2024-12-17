@@ -14,7 +14,7 @@
 "NotWithTimer3": "",
 "NotWithTime1": "/fam Здам фамну крафт фуру Вестерн, без охра, 500к година (вільна)",
 "NotWithTime2":"/fam Підтримуємо масло в фамних машинах у хорошому стані. Дякую. ТГ ДС @wmhan1 :cat:",
-"TimeForNot1": "10:03",
+"TimeForNot1": "40:03",
 "TimeForNot2": "10:03",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
