@@ -3,7 +3,7 @@
 "Inv": "1",
 "Hour": "4",
 "Minutes": "0",
-"TextAfterInv": "Вітаємо в сім'ї",
+"TextAfterInv": "Додам в фам дс/тг ds:neefffeex ",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
