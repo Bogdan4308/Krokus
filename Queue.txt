@@ -6,4 +6,5 @@ Rose_Rosenwald
 Pryvyd_Kyeva
 Alter_Ego
 DeadPool_Night
-Sanek_Spider
+Sanek_Spider(true)
+Boytsovskiy_Club
