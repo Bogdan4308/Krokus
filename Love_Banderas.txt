@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Info] Як допомогти фамі? Грати щодня, навіть якщо просто АФК :cat:",
+"NotWithTimer1": "/fam [Info] Як допомогти фамі? Грати щодня, навіть АФК, зафулити депозит :cat:",
 "NotWithTimer2": "/fam [Info] Робити фам квести, допомагати з рекламою, приводити друзів :cat:",
 "NotWithTimer3": "/fam [Info] Закидувати щодня 500к в бюджет (I - сім'я - сім. квартира - 5) :cat:",
 "NotWithTime1": "/fam [Info] Здам фамну крафт фуру Вестерн, без охра, 5Oк година :cat:",
