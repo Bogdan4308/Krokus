@@ -1,6 +1,6 @@
 {
 "Ad": "266",
-"Inv": "29",
+"Inv": "30",
 "Hour": "41",
 "Minutes": "46",
 "TextAfterInv": "Додам в фам тг і дс wmhan1",
@@ -22,7 +22,7 @@
 "PosY": "257",
 "CheckedTax": "true",
 "WindowStyle": "4",
-"CountVipPlayers": "14",
+"CountVipPlayers": "15",
 "PosNotePadX": "661",
 "PosNotePadY": "935",
 "FontSizeNotePad": "10",
