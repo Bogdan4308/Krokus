@@ -2,7 +2,7 @@
 "Ad": "351",
 "Inv": "33",
 "Hour": "52",
-"Minutes": "40",
+"Minutes": "41",
 "TextAfterInv": "Додам в фам тг і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -23,9 +23,9 @@
 "CheckedTax": "true",
 "WindowStyle": "4",
 "CountVipPlayers": "16",
-"PosNotePadX": "632",
-"PosNotePadY": "952",
-"FontSizeNotePad": "15",
-"FontFamilyNotePad": "10",
+"PosNotePadX": "109",
+"PosNotePadY": "476",
+"FontSizeNotePad": "16",
+"FontFamilyNotePad": "8",
 "StateNotePad": "true"
 }
