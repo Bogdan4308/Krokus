@@ -2,9 +2,7 @@
 Psychopath_Use(true)
 Anthonio_Banderas
 Appolon_NePyjpyvo
-Rose_Rosenwald
 Pryvyd_Kyeva
 DeadPool_Night
 Sanek_Spider(true)
 Boytsovskiy_Club
-Rose_Rosenwald
