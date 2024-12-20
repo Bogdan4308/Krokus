@@ -2,7 +2,7 @@
 "Ad": "112",
 "Inv": "50",
 "Hour": "12",
-"Minutes": "34",
+"Minutes": "35",
 "TextAfterInv": "",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "",
