@@ -6,7 +6,7 @@
 "TextAfterInv": "Додам в фам тг і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
-"NickDep3": "",
+"NickDep3": "Anthonio_Banderas",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] Як допомогти фамі? Грати щодня, навіть АФК, зафулити депозит :cat:",
