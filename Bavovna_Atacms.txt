@@ -11,7 +11,7 @@
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
-"NotWithTimer3": "/fam :horns:[Info] Додам в фам тг/дс, ds: neefffeex:horns:",
+"NotWithTimer3": "",
 "NotWithTime1": "/fam :horns:[Info] Підтримуйте масло в фамних машинах у хорошому стані!:horns:",
 "NotWithTime2":"",
 "TimeForNot1": "30:00",
