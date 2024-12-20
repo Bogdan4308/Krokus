@@ -6,3 +6,4 @@ Pryvyd_Kyeva
 DeadPool_Night
 Sanek_Spider(true)
 Boytsovskiy_Club
+Rose_Ros
