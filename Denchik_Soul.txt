@@ -2,7 +2,7 @@
 "Ad": "14",
 "Inv": "3",
 "Hour": "12",
-"Minutes": "20",
+"Minutes": "21",
 "TextAfterInv": ":u1f7e6:Легендарная фама <3Banderas:u1f5a4: ждет тебя! За инвайтом звонить - 4060575:u1f7e8:",
 "NickDep1": "",
 "NickDep2": "",
