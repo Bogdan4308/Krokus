@@ -15,7 +15,7 @@
 "NotWithTime1": "/fam [Info] Здам фамну крафт фуру Вестерн, без охра, 5Oк година (вільна) :cat:",
 "NotWithTime2":"/fam [info] Якщо в когось є ідеї для покращення фами, пишемо, пропонуємо у відповідні теми в тг дс :cat:",
 "TimeForNot1": "05:03",
-"TimeForNot2": "00:03",
+"TimeForNot2": "36:05",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
 "PosX": "1600",
