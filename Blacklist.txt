@@ -16,3 +16,4 @@ Yan_Cursed UID: 339524 Причина: саліері
 Gustav_Lindemann UID: 1316471 Причина: неад
 Oleg_Luch UID: 1237510 Причина: неад
 Abaddon_Gatilo UID:  680853 Причина: саліері
+Euro_Papa UID: 22222 Причина: тест
