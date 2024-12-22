@@ -2,7 +2,7 @@
 "Ad": "7",
 "Inv": "1",
 "Hour": "0",
-"Minutes": "44",
+"Minutes": "45",
 "TextAfterInv": "Добавлю в фам дс та тг _budanov_",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "",
