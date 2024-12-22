@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "2",
 "Minutes": "2",
-"TextAfterInv": "`",
+"TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
