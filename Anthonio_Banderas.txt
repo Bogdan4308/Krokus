@@ -3,7 +3,7 @@
 "Inv": "1",
 "Hour": "0",
 "Minutes": "39",
-"TextAfterInv": "добавлю в тг",
+"TextAfterInv": "d",
 "NickDep1": "Taureg_Mali",
 "NickDep2": "",
 "NickDep3": "",
