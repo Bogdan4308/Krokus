@@ -1,3 +1,2 @@
 
 Right_Fulton(true)
-Right_Fulton(true)
