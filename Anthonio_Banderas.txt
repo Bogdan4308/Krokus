@@ -1,5 +1,5 @@
 {
-"Ad": "16",
+"Ad": "17",
 "Inv": "0",
 "Hour": "1",
 "Minutes": "48",
@@ -33,5 +33,5 @@
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
-"StateNotePad": "false"
+"StateNotePad": "true"
 }
