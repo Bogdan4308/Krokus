@@ -1,5 +1,5 @@
 {
-"Ad": "28",
+"Ad": "29",
 "Inv": "0",
 "Hour": "2",
 "Minutes": "53",
@@ -17,7 +17,7 @@
 "TimeForNot1": "40:05",
 "TimeForNot2": "10:05",
 "TimeForNot3": "20:05",
-"TimeForNot4": "30:05",
+"TimeForNot4": "",
 "TimeForNot5": "",
 "CheckNotTime1": "false",
 "CheckNotTime2": "false",
