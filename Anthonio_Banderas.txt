@@ -2,7 +2,7 @@
 "Ad": "19",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "17",
+"Minutes": "18",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,5 +34,5 @@
 "FontSizeNotePad": "15",
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
-"Earn": "663.368"
+"Earn": "693.608"
 }
