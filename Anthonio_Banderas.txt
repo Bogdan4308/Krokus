@@ -35,5 +35,5 @@
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
 "Earn": "723.848",
-"MyTG": "@x_kisel"
+"MyTG": ""
 }
