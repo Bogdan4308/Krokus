@@ -2,7 +2,7 @@
 "Ad": "20",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "28",
+"Minutes": "29",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -27,7 +27,7 @@
 "PosX": "1636",
 "PosY": "577",
 "CheckedTax": "false",
-"WindowStyle": "8",
+"WindowStyle": "1",
 "CountVipPlayers": "0",
 "PosNotePadX": "12",
 "PosNotePadY": "537",
@@ -35,5 +35,5 @@
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
 "Earn": "723.848",
-"MyTG": ""
+"MyTG": "@x_kisel"
 }
