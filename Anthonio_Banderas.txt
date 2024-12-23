@@ -35,6 +35,6 @@
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
 "Earn": "1.176.492",
-"MyTG": "@x_kisel",
+"MyTG": "",
 "MyIP": "178.213.4.210 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)"
 }
