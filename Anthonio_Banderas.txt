@@ -1,8 +1,8 @@
 {
 "Ad": "33",
 "Inv": "0",
-"Hour": "3",
-"Minutes": "59",
+"Hour": "4",
+"Minutes": "0",
 "TextAfterInv": "",
 "NickDep1": "Love_Banderas",
 "NickDep2": "Denchik_Soul",
@@ -35,6 +35,6 @@
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
 "Earn": "1.176.492",
-"MyTG": "",
+"MyTG": "@x_kisel",
 "MyIP": "178.213.4.210 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)"
 }
