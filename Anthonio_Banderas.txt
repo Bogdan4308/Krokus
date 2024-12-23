@@ -2,7 +2,7 @@
 "Ad": "20",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "25",
+"Minutes": "26",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,5 +34,6 @@
 "FontSizeNotePad": "15",
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
-"Earn": "723.848","MyTG": "@x_kisel"
+"Earn": "723.848",
+"MyTG": "@x_kisel"
 }
