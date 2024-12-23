@@ -16,7 +16,7 @@
 "NotWithTime2":"/fam [Info] Хочес стати на 9? Заповни гугл форму в фам тг або дс ",
 "TimeForNot1": "05:03",
 "TimeForNot2": "10:03",
-"CheckNotTime1": "false",
+"CheckNotTime1": "true",
 "CheckNotTime2":"false",
 "PosX": "1600",
 "PosY": "257",
