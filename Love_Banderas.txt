@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] Приймайте участь у фамному зимовому івенті на 500кк :cat:",
 "NotWithTimer2": "/fam [Info] Протягом місяця треба виконувати фам квести :cat:",
-"NotWithTimer3": "/fam [Info] Вкінці ТОП-5 в рейтингу виконаних квестів заберуть по 100кк :cat:",
+"NotWithTimer3": "/fam [Info] Вкінці ТОП-5 в рейтингу виконаних заберуть по 100кк :cat:",
 "NotWithTime1": "/fam [Info] Беріть участь у зимовому ІВЕНТІ на 500кк, деталі в тг, дс :gift:",
 "NotWithTime2":"/fam [Info] Здам фамну фуру, в тг дс відкриті заявки на 9 :cat:",
 "TimeForNot1": "05:03",
