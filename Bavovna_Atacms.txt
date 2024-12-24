@@ -16,7 +16,7 @@
 "NotWithTime2":"/fam [Info] Пропонуйте ідеї для покращення фами, пишіть в тг дс neefffeex/@ZER0_777 :stat2:",
 "TimeForNot1": "30:00",
 "TimeForNot2": "30:01",
-"CheckNotTime1": "false",
+"CheckNotTime1": "true",
 "CheckNotTime2":"false",
 "PosX": "40",
 "PosY": "571",
