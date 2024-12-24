@@ -14,7 +14,7 @@
 "NotWithTimer3": "/fam [Info] Вкінці ТОП-5 в рейтингу заберуть по 100кк :cat:",
 "NotWithTime1": "/fam [Info] НЕ БЕРІТЬ фам кар з ПОГАНИМ маслом:u2757: Біля банку ЛС паркуємось НА ПАРКОВЦІ:u2757:",
 "NotWithTime2":"/fam [Info] Здам фамну крафтову фуру Western 50к год, без охра :cat:",
-"TimeForNot1": "50:10",
+"TimeForNot1": "22:00",
 "TimeForNot2": "10:03",
 "CheckNotTime1": "true",
 "CheckNotTime2":"true",
