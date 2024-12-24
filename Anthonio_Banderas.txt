@@ -2,7 +2,7 @@
 "Ad": "33",
 "Inv": "0",
 "Hour": "4",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "",
 "NickDep1": "Love_Banderas",
 "NickDep2": "Denchik_Soul",
@@ -36,5 +36,5 @@
 "StateNotePad": "true",
 "Earn": "1.236.016",
 "MyTG": "",
-"MyIP": "178.213.4.210 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)"
+"MyIP": "178.213.4.208 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)"
 }
