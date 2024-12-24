@@ -1,6 +1,6 @@
 {
 "Ad": "4",
-"Inv": "0",
+"Inv": "1",
 "Hour": "1",
 "Minutes": "48",
 "TextAfterInv": "/fam Додам в фам дс/тг ds: neefffeex",
@@ -22,7 +22,7 @@
 "PosY": "571",
 "CheckedTax": "false",
 "WindowStyle": "9",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
