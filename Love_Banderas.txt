@@ -1,8 +1,8 @@
 {
-"Ad": "119",
+"Ad": "120",
 "Inv": "6",
 "Hour": "19",
-"Minutes": "51",
+"Minutes": "52",
 "TextAfterInv": "Додам в фам тг і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
