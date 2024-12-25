@@ -1,5 +1,5 @@
 {
-"Ad": "42",
+"Ad": "43",
 "Inv": "0",
 "Hour": "5",
 "Minutes": "38",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "15",
 "FontFamilyNotePad": "10",
 "StateNotePad": "true",
-"Earn": "1.537.460",
+"Earn": "1.567.700",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.4.60 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)"
 }
