@@ -31,7 +31,7 @@
 "CountVipPlayers": "0",
 "PosNotePadX": "12.770833333333",
 "PosNotePadY": "413.77777777778",
-"FontSizeNotePad": "3",
+"FontSizeNotePad": "9",
 "FontFamilyNotePad": "15",
 "StateNotePad": "true",
 "Earn": "1.687.703",
