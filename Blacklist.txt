@@ -5,7 +5,6 @@ Hennessy_Staff UID: 1749322 Причина: ростя
 Antonio_Parlament UID: 000 Причина: Активний ак рості
 Gustav_Lindemann UID: 1316471 Причина: чмо
 Gord_Banderas UID: 1040946 Причина: обіжав Амі і лівнув (чмо)
-Ya_Pidor UID: 1614308 Причина: ! => Anthonio_Banderas
 Litvin_Salieri UID: 1501149 Причина: неад
 Pep_Si  UID: 806272 Причина: неад
 Sawa_Mironov  UID: 276964 Причина: неад
