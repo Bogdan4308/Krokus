@@ -2,3 +2,4 @@
 Choppa_Disnay(true)
 Keny_Sanchez(true)
 Bavovna_Atacms
+Shamaka_Antrohin(true)
