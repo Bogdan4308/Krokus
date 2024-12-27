@@ -1,5 +1,4 @@
 
-Doggy_Rokki(true)
 Kyivska_Perepichka
 Toni_Salieri
 Doctor_Stomatolog[241](true)
