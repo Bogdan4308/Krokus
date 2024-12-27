@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Info] Додавайтеся в сімейний DS, там знайдете багато корисної інфи. Друзі -> Додати -> wmhan1",
+"NotWithTimer1": "/fam [Info] Додавайтеся в сімейний DS, там знайдете багато корисної інфи. Друзі - Додати -> wmhan1",
 "NotWithTimer2": "/fam [Info] Здам фамну фуру Western для роботи далекобійником. 50к год, без охра :cat:",
 "NotWithTimer3": "/vr :gift: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
 "NotWithTimer4": "/fam 23.01 ТОП-5 в рейтингу сімейних квестів заберуть по 100кк /fammenu - Рейтинг :cat:",
