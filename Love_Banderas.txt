@@ -15,7 +15,7 @@
 "NotWithTimer4": "/fam 4",
 "NotWithTimer5": "/q",
 "TimeForNot1": "03:03",
-"TimeForNot2": "27:10",
+"TimeForNot2": "28:00",
 "TimeForNot3": "16:02",
 "TimeForNot4": "16:03",
 "TimeForNot5": "16:04",
