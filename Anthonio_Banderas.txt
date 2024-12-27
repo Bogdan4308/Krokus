@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "5",
+"Minutes": "6",
 "TextAfterInv": "",
 "Info_Dep_Nick": "table: 0x0eb7da68",
 "StateMainWindow": "true",
