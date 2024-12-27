@@ -14,7 +14,7 @@
 "NotWithTimer3": "/vr :gift: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
 "NotWithTimer4": "/fam 23.01 ТОП-5 в рейтингу сімейних квестів заберуть по 100кк /fammenu - Рейтинг :cat:",
 "NotWithTimer5": "/vr :zap: Легендарная фама :zap:Banderas:zap: ждет тебя! :zap: FULL,X2,ARZTOW, Флаг :zap: t. 385 :zap:",
-"TimeForNot1": "03:03",
+"TimeForNot1": "16:00",
 "TimeForNot2": "10:03",
 "TimeForNot3": "30:03",
 "TimeForNot4": "14:03",
