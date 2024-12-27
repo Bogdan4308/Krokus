@@ -4,7 +4,7 @@
 "Hour": "0",
 "Minutes": "3",
 "TextAfterInv": "",
-"Info_Dep_Nick": "table: 0x0ebe0520",
+"Info_Dep_Nick": "table: 0x0f71b0f8",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "",
