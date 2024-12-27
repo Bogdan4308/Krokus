@@ -5,8 +5,8 @@
 "Minutes": "0",
 "TextAfterInv": "",
 "Info_Dep_Nick": "table: 0x0f7f8ef8",
-"StateMainWindow": "false",
-"StateAddWindow": "false",
+"StateMainWindow": "true",
+"StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -33,7 +33,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
-"MyIP": "",
+"MyTG": "@x_kisel",
+"MyIP": "178.213.4.190 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
 "InfoFamMembers": "250/720/6/false"
 }
