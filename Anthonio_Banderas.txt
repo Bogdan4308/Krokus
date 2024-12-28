@@ -34,8 +34,4 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "0",
-"MyTG": "@x_kisel",
-"MyIP": "178.213.3.57 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
-"InfoFamMembers": "250/720/6/false"
 }
