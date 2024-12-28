@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "0",
 "Minutes": "1",
-"TextAfterInv": "Додам в тг та дс",
+"TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
@@ -34,4 +34,8 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
+"Earn": "0",
+"MyTG": "@x_kisel",
+"MyIP": "178.213.3.57 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
+"InfoFamMembers": "250/720/6/false"
 }
