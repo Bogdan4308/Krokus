@@ -2,7 +2,7 @@
 "Ad": "35",
 "Inv": "4",
 "Hour": "8",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan ",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "6",
 "StateNotePad": "true",
-"Earn": "3.975.067",
+"Earn": "4.034.591",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.13.187 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "48/435/9/true"
