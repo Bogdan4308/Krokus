@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "18",
+"Minutes": "19",
 "TextAfterInv": "додам в фам дс та тг",
 "NickDep1": "Love_Banderas",
 "NickDep2": "",
