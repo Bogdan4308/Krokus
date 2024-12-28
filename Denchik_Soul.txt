@@ -1,6 +1,6 @@
 {
 "Ad": "84",
-"Inv": "10",
+"Inv": "11",
 "Hour": "46",
 "Minutes": "58",
 "TextAfterInv": ":u1f7e6:Легендарная фама <3Banderas:u1f5a4: ждет тебя! За инвайтом звонить - 4060575:u1f7e8:",
@@ -22,7 +22,7 @@
 "PosY": "926.55555555556",
 "CheckedTax": "true",
 "WindowStyle": "1",
-"CountVipPlayers": "2",
+"CountVipPlayers": "3",
 "PosNotePadX": "87.5",
 "PosNotePadY": "525",
 "FontSizeNotePad": "1",
