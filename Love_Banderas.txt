@@ -3,7 +3,7 @@
 "Inv": "8",
 "Hour": "12",
 "Minutes": "12",
-"TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan 1",
+"TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
 "NickDep3": "",
