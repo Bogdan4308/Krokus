@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "6",
 "StateNotePad": "true",
-"Earn": "7.317.006",
+"Earn": "7.817.006",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.13.187 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "48/435/9/true"
