@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "1",
 "Hour": "0",
-"Minutes": "22",
+"Minutes": "23",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "1.000.000",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.3.57 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
-"InfoFamMembers": "250/720/6/false"
+"InfoFamMembers": "337/757/6/true"
 }
