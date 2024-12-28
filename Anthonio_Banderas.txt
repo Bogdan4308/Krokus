@@ -5,7 +5,7 @@
 "Minutes": "34",
 "TextAfterInv": "",
 "NickDep1": "Love_Banderas",
-"NickDep2": "Denchik_Dante",
+"NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
