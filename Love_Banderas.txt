@@ -2,7 +2,7 @@
 "Ad": "35",
 "Inv": "4",
 "Hour": "7",
-"Minutes": "50",
+"Minutes": "51",
 "TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan ",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
