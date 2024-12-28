@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "1",
+"Minutes": "2",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "0",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.27.54 (Ukraine, Ternopil Oblast, Ternopil)",
-"InfoFamMembers": "250/720/6/false"
+"InfoFamMembers": "105/396/11/true"
 }
