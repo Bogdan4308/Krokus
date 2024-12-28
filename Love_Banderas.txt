@@ -1,6 +1,6 @@
 {
 "Ad": "51",
-"Inv": "5",
+"Inv": "6",
 "Hour": "10",
 "Minutes": "46",
 "TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan ",
@@ -28,13 +28,13 @@
 "PosY": "804",
 "CheckedTax": "false",
 "WindowStyle": "7",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "646",
 "PosNotePadY": "963",
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "6",
 "StateNotePad": "true",
-"Earn": "5.137.479",
+"Earn": "5.637.479",
 "MyTG": "@wmhan1",
 "MyIP": "185.54.228.19 (Australia, Victoria, Melbourne)",
 "InfoFamMembers": "48/435/9/true"
