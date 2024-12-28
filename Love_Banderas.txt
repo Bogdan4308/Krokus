@@ -1,5 +1,5 @@
 {
-"Ad": "40",
+"Ad": "41",
 "Inv": "4",
 "Hour": "9",
 "Minutes": "0",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "6",
 "StateNotePad": "true",
-"Earn": "4.185.791",
+"Earn": "4.245.315",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.13.187 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "48/435/9/true"
