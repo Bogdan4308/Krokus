@@ -1,6 +1,6 @@
 {
 "Ad": "43",
-"Inv": "4",
+"Inv": "5",
 "Hour": "9",
 "Minutes": "16",
 "TextAfterInv": "[Info] Додам в сімейний тг @wmhan1 і дс wmhan ",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "6",
 "StateNotePad": "true",
-"Earn": "4.336.035",
+"Earn": "4.836.035",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.13.187 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "48/435/9/true"
