@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
-"NotWithTimer2": ":zap: Легендарная фама :zap:Banderas:zap: ждет тебя! :zap: FULL,X2,ARZTOW, ФЛАГ :zap: t.385 :zap:",
+"NotWithTimer2": "/vr :zap: Легендарная фама :zap:Banderas:zap: ждет тебя! :zap: FULL,X2,ARZTOW, ФЛАГ :zap: t.385 :zap:",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
 "NotWithTimer5": "",
