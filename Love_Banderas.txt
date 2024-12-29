@@ -16,7 +16,7 @@
 "NotWithTimer5": "/fam [Info] Хочеш стати на 9? Заповни гугл форму в дс. Плюсом будуть прем, адд, 3-х номер.",
 "TimeForNot1": "30:03",
 "TimeForNot2": "00:03",
-"TimeForNot3": "05:03",
+"TimeForNot3": "03:03",
 "TimeForNot4": "10:03",
 "TimeForNot5": "08:20",
 "CheckNotTime1": "true",
