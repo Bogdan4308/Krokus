@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -24,8 +24,8 @@
 "CheckNotTime3": "false",
 "CheckNotTime4": "false",
 "CheckNotTime5": "false",
-"PosX": "1620.253164557",
-"PosY": "540",
+"PosX": "40",
+"PosY": "595",
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
@@ -35,6 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
-"MyIP": ""
+"MyTG": "@ZER0_777",
+"MyIP": "176.105.211.7 (Ukraine, Chernihiv, Borzna)",
+"InfoFamMembers": "250/720/6/false"
 }
