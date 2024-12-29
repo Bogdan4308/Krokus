@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
-"NotWithTimer2": "/vr :zap: Легендарная фама :zap:Banderas:zap: ждет тебя! :zap: FULL,X2,ARZTOW, ФЛАГ :zap: t.385 :zap:",
+"NotWithTimer2": "/vr :zap: Легендарная фама :zap:Banderas:zap: ждет тебя! :zap: FULL, X2, ARZTOW, ФЛАГ :zap: t.385 :zap:",
 "NotWithTimer3": "/fam [Ivent] СІМЕЙНИЙ ІВЕНТ! 23 cічня ТОП-5 в рейтингу фам квестів отримають по 100кк!",
 "NotWithTimer4": "/fam [Info] Здам фамну фуру Western для роботи далекобійником, без охра, 5Oк година, :cat:",
 "NotWithTimer5": "/fam [Info] Хочеш стати на 9? Заповни гугл форму в дс. Плюсом будуть прем, адд, 3-х номер.",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "30.240",
+"Earn": "60.480",
 "MyTG": "@wmhan1",
 "MyIP": "46.133.27.54 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "105/396/10/true"
