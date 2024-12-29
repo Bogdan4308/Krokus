@@ -6,7 +6,6 @@ Antonio_Parlament UID: 000 Причина: Активний ак рості
 Gustav_Lindemann UID: 1316471 Причина: чмо
 Gord_Banderas UID: 1040946 Причина: обіжав Амі і лівнув (чмо)
 Litvin_Salieri UID: 1501149 Причина: неад
-Brabus_Salieri UID: 1286425 Причина: саліері
 Takery_Wexwy UID: 1669141 Причина: саліері
 Yan_Cursed UID: 339524 Причина: саліері
 Gustav_Lindemann UID: 1316471 Причина: неад
