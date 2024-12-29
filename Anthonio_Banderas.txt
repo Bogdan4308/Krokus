@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "3",
+"Minutes": "4",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -24,8 +24,8 @@
 "CheckNotTime3": "false",
 "CheckNotTime4": "false",
 "CheckNotTime5": "false",
-"PosX": "22",
-"PosY": "560",
+"PosX": "1636",
+"PosY": "940",
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
@@ -37,5 +37,5 @@
 "Earn": "0",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.3.38 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
-"InfoFamMembers": "250/720/6/false"
+"InfoFamMembers": "338/753/6/true"
 }
