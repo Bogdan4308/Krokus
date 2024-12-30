@@ -33,9 +33,9 @@
 "PosNotePadY": "540",
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "10",
-"StateNotePad": "true",
+"StateNotePad": "false",
 "Earn": "6.914.682",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.211.41 (Ukraine, Chernihiv, Borzna)",
-"InfoFamMembers": "1034/304/10/true"
+"InfoFamMembers": "869/349/10/false"
 }
