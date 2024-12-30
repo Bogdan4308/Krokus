@@ -1,5 +1,5 @@
 {
-"Ad": "82",
+"Ad": "83",
 "Inv": "4",
 "Hour": "32",
 "Minutes": "19",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "6.854.202",
+"Earn": "6.884.442",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.211.41 (Ukraine, Chernihiv, Borzna)",
 "InfoFamMembers": "250/720/9/false"
