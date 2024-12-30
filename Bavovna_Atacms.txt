@@ -2,7 +2,7 @@
 "Ad": "69",
 "Inv": "4",
 "Hour": "31",
-"Minutes": "3",
+"Minutes": "4",
 "TextAfterInv": "Додам в фам дс/тг ds: neefffeex",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "6.431.799",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.211.41 (Ukraine, Chernihiv, Borzna)",
-"InfoFamMembers": "250/720/6/false"
+"InfoFamMembers": "250/720/9/false"
 }
