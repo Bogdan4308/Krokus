@@ -1,5 +1,5 @@
 {
-"Ad": "72",
+"Ad": "73",
 "Inv": "4",
 "Hour": "31",
 "Minutes": "55",
@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "false",
-"NotWithTimer1": "",
+"NotWithTimer1": "/fam [Info] Як допомогти фамі? Грайте щодня, навіть якщо АФК :cat:",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
