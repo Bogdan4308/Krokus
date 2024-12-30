@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "6",
+"Minutes": "7",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -35,7 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
+"MyTG": "@nikiqxll",
 "MyIP": "89.162.147.134 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
 }
