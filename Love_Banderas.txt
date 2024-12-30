@@ -6,7 +6,7 @@
 "TextAfterInv": "Додам в фам тг і дс @wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
-"NickDep3": "",
+"NickDep3": "Choppa_Disnay",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
