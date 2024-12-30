@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "false",
 "StateAddWindow": "false",
-"NotWithTimer1": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.167",
+"NotWithTimer1": "/vr :x:Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.167",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
