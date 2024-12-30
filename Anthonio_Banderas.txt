@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "false",
-"NotWithTimer1": "f",
+"NotWithTimer1": "h",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
