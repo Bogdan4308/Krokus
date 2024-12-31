@@ -2,7 +2,7 @@
 "Ad": "165",
 "Inv": "8",
 "Hour": "25",
-"Minutes": "50",
+"Minutes": "51",
 "TextAfterInv": "Додам в фам тг і дс @wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -29,13 +29,13 @@
 "CheckedTax": "false",
 "WindowStyle": "8",
 "CountVipPlayers": "4",
-"PosNotePadX": "723",
-"PosNotePadY": "508",
+"PosNotePadX": "649",
+"PosNotePadY": "926",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "3",
-"StateNotePad": "false",
+"StateNotePad": "true",
 "Earn": "15.477.696",
 "MyTG": "@wmhan1",
 "MyIP": "185.9.19.116 (Austria, Lower Austria, Vösendorf)",
-"InfoFamMembers": "105/396/10/false"
+"InfoFamMembers": "105/396/10/true"
 }
