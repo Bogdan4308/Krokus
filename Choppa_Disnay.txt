@@ -37,5 +37,5 @@
 "Earn": "1.991.227",
 "MyTG": "@nikiqxll",
 "MyIP": "89.162.147.134 (Ukraine, Kyiv City, Kyiv)",
-"InfoFamMembers": "133.33333333333/364.08888888889/6/false"
+"InfoFamMembers": "177.86458333333/364.08888888889/6/false"
 }
