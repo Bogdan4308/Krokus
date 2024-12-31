@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "3.337.947",
+"Earn": "3.837.947",
 "MyTG": "@denyskatleta",
 "MyIP": "31.41.69.155 (Ukraine, Volyn, Kovel)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
