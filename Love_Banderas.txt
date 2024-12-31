@@ -17,7 +17,7 @@
 "TimeForNot1": "00:02",
 "TimeForNot2": "03:03",
 "TimeForNot3": "05:03",
-"TimeForNot4": "14:03",
+"TimeForNot4": "12:03",
 "TimeForNot5": "14:03",
 "CheckNotTime1": "true",
 "CheckNotTime2": "true",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "3",
 "StateNotePad": "true",
-"Earn": "9.095.261",
+"Earn": "9.125.501",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.84 (Austria, Carinthia, Klagenfurt)",
 "InfoFamMembers": "105/396/10/true"
