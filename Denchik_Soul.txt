@@ -1,6 +1,6 @@
 {
 "Ad": "47",
-"Inv": "2",
+"Inv": "3",
 "Hour": "7",
 "Minutes": "13",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "525",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "87.5",
 "PosNotePadY": "525",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.837.947",
+"Earn": "3.337.947",
 "MyTG": "@denyskatleta",
 "MyIP": "31.41.69.155 (Ukraine, Volyn, Kovel)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
