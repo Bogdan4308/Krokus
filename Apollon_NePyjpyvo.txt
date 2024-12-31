@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "32",
+"Minutes": "33",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "59.524",
 "MyTG": "@plavjk",
 "MyIP": "176.8.143.209 (Ukraine, Chernihiv, Chernihiv)",
-"InfoFamMembers": "250/720/20/true"
+"InfoFamMembers": "250/720/20/false"
 }
