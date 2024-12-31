@@ -2,7 +2,7 @@
 "Ad": "155",
 "Inv": "5",
 "Hour": "19",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "Додам в фам тг і дс @wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "3",
 "StateNotePad": "true",
-"Earn": "12.787.913",
+"Earn": "12.818.153",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.84 (Austria, Carinthia, Klagenfurt)",
 "InfoFamMembers": "105/396/10/true"
