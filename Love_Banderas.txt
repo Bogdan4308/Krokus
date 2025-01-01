@@ -15,7 +15,7 @@
 "NotWithTimer4": "/fam [Info] Здам фамну фуру Western для роботи далекобійником, без охра, 5Oк година :cat:",
 "NotWithTimer5": "/fam [Info] Хочеш стати на 9? Заповни гугл форму в дс. Плюсом будуть прем, адд, 3-х номер.",
 "TimeForNot1": "00:02",
-"TimeForNot2": "262:00",
+"TimeForNot2": "27:30",
 "TimeForNot3": "05:03",
 "TimeForNot4": "14:03",
 "TimeForNot5": "14:03",
