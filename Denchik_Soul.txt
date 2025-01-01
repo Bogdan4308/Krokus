@@ -2,7 +2,7 @@
 "Ad": "47",
 "Inv": "3",
 "Hour": "9",
-"Minutes": "4",
+"Minutes": "5",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "3.956.995",
 "MyTG": "@denyskatleta",
-"MyIP": "31.41.69.155 (Ukraine, Volyn, Kovel)",
+"MyIP": "193.107.169.115 (Ukraine, Volyn, Volodymyr)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
 }
