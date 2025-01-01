@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "3",
 "StateNotePad": "true",
-"Earn": "16.186.507",
+"Earn": "16.686.507",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.103 (Austria, Salzburg, Taxach)",
 "InfoFamMembers": "105/396/10/true"
