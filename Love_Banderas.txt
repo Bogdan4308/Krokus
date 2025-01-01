@@ -29,13 +29,13 @@
 "CheckedTax": "false",
 "WindowStyle": "8",
 "CountVipPlayers": "4",
-"PosNotePadX": "719",
-"PosNotePadY": "511",
+"PosNotePadX": "637",
+"PosNotePadY": "936",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "3",
-"StateNotePad": "false",
+"StateNotePad": "true",
 "Earn": "15.596.743",
 "MyTG": "@wmhan1",
 "MyIP": "185.9.19.116 (Austria, Lower Austria, Vösendorf)",
-"InfoFamMembers": "105/396/10/false"
+"InfoFamMembers": "105/396/10/true"
 }
