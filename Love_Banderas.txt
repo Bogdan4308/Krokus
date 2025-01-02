@@ -13,12 +13,12 @@
 "NotWithTimer2": "/fam [Info] Здам фамні: Вестерн, без охра, Петербілд 359+антикд, 50к година! :cat:",
 "NotWithTimer3": "/fam [Info] Купляємо теги за 5кк, наступні зміни безкоштовно, і яскраві ранги! :cat:",
 "NotWithTimer4": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
-"NotWithTimer5": "",
+"NotWithTimer5": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
 "TimeForNot1": "01:03",
 "TimeForNot2": "03:03",
 "TimeForNot3": "05:03",
-"TimeForNot4": "",
-"TimeForNot5": "",
+"TimeForNot4": "00:02",
+"TimeForNot5": "7:03",
 "CheckNotTime1": "true",
 "CheckNotTime2": "true",
 "CheckNotTime3": "true",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "30.240",
 "MyTG": "@wmhan1",
-"MyIP": "185.9.19.124 (Austria, Lower Austria, Gablitz)",
+"MyIP": "94.198.41.125 (Austria, Salzburg, Taxach)",
 "InfoFamMembers": "286/452/10/true"
 }
