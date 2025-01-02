@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "false",
 "StateAddWindow": "false",
-"NotWithTimer1": "/fam Робимо квести! 23 cічня ТОП-5 в рейтингу фам квестів отримають по 100кк! :cat:",
+"NotWithTimer1": "/fam [Info] Робимо квести! 23 cічня ТОП-5 в рейтингу фам квестів отримають по 100кк! :cat:",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "ввв",
