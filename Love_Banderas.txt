@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "22",
+"Minutes": "23",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "0",
+"Earn": "30.240",
 "MyTG": "@wmhan1",
 "MyIP": "185.9.19.124 (Austria, Lower Austria, Gablitz)",
 "InfoFamMembers": "286/452/10/true"
