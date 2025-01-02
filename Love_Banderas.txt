@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "7",
+"Minutes": "8",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "0",
 "MyTG": "@wmhan1",
 "MyIP": "185.9.19.124 (Austria, Lower Austria, Gablitz)",
-"InfoFamMembers": "250/720/6/true"
+"InfoFamMembers": "286/452/10/true"
 }
