@@ -2,7 +2,7 @@
 "Ad": "17",
 "Inv": "0",
 "Hour": "7",
-"Minutes": "26",
+"Minutes": "27",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -29,13 +29,13 @@
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
-"PosNotePadX": "620",
-"PosNotePadY": "931",
+"PosNotePadX": "617",
+"PosNotePadY": "897",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
 "Earn": "930.747",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.119 (Austria, Lower Austria, Etsdorf am Kamp)",
-"InfoFamMembers": "286/452/10/false"
+"InfoFamMembers": "286/452/10/true"
 }
