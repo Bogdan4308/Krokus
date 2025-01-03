@@ -1,6 +1,6 @@
 {
 "Ad": "42",
-"Inv": "2",
+"Inv": "3",
 "Hour": "13",
 "Minutes": "57",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "854",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "2",
+"CountVipPlayers": "3",
 "PosNotePadX": "617",
 "PosNotePadY": "897",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "4.043.890",
+"Earn": "4.543.890",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.102 (Austria, Tyrol, Reith im Alpbachtal)",
 "InfoFamMembers": "286/452/10/true"
