@@ -22,7 +22,7 @@
 "CheckNotTime1": "true",
 "CheckNotTime2": "true",
 "CheckNotTime3": "true",
-"CheckNotTime4": "false",
+"CheckNotTime4": "true",
 "CheckNotTime5": "false",
 "PosX": "1634",
 "PosY": "854",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "5.663.894",
 "MyTG": "@wmhan1",
-"MyIP": "31.14.75.32 (Ukraine, Kyiv City, Kyiv)",
+"MyIP": "31.14.75.24 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "286/452/10/true"
 }
