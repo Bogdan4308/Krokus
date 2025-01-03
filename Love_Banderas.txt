@@ -2,7 +2,7 @@
 "Ad": "22",
 "Inv": "0",
 "Hour": "8",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "1.081.947",
+"Earn": "1.141.471",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.119 (Austria, Lower Austria, Etsdorf am Kamp)",
 "InfoFamMembers": "286/452/10/true"
