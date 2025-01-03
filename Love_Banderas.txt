@@ -3,7 +3,7 @@
 "Inv": "4",
 "Hour": "14",
 "Minutes": "17",
-"TextAfterInv": "Додам в фам тг wmhan1 (IiiiiIIiii) і дс @w",
+"TextAfterInv": "Додам в фам тг @wmhan1 (IiiiiIIiii) і дс @w",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
 "NickDep3": "Choppa_Disnay",
