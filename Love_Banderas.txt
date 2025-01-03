@@ -3,7 +3,7 @@
 "Inv": "4",
 "Hour": "14",
 "Minutes": "16",
-"TextAfterInv": "",
+"TextAfterInv": "Д",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
 "NickDep3": "Choppa_Disnay",
