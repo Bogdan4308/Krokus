@@ -2,7 +2,7 @@
 "Ad": "30",
 "Inv": "1",
 "Hour": "10",
-"Minutes": "11",
+"Minutes": "12",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "2.472.199",
+"Earn": "2.502.439",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.86 (Austria, Salzburg, Taxach)",
 "InfoFamMembers": "286/452/10/false"
