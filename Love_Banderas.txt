@@ -1,6 +1,6 @@
 {
 "Ad": "27",
-"Inv": "0",
+"Inv": "1",
 "Hour": "9",
 "Minutes": "39",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "854",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "617",
 "PosNotePadY": "897",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "1.352.195",
+"Earn": "1.852.195",
 "MyTG": "@wmhan1",
 "MyIP": "94.198.41.86 (Austria, Salzburg, Taxach)",
 "InfoFamMembers": "286/452/10/true"
