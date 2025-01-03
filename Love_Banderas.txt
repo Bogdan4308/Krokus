@@ -2,7 +2,7 @@
 "Ad": "32",
 "Inv": "1",
 "Hour": "10",
-"Minutes": "23",
+"Minutes": "24",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -37,5 +37,5 @@
 "Earn": "2.562.919",
 "MyTG": "@wmhan1",
 "MyIP": "185.244.212.37 (Austria, Vienna, Vienna)",
-"InfoFamMembers": "286/452/10/false"
+"InfoFamMembers": "286/452/10/true"
 }
