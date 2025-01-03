@@ -2,7 +2,7 @@
 "Ad": "42",
 "Inv": "4",
 "Hour": "14",
-"Minutes": "23",
+"Minutes": "24",
 "TextAfterInv": "Додам в фам тг @wmhan1 (IiiiiIIiii) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Soul",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "5.603.414",
 "MyTG": "@wmhan1",
-"MyIP": "94.198.41.102 (Austria, Tyrol, Reith im Alpbachtal)",
+"MyIP": "",
 "InfoFamMembers": "286/452/10/true"
 }
