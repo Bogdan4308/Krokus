@@ -2,7 +2,7 @@
 "Ad": "56",
 "Inv": "5",
 "Hour": "17",
-"Minutes": "55",
+"Minutes": "56",
 "TextAfterInv": "Додам в фам тг @wmhan1 (IiiiiIIiii) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
