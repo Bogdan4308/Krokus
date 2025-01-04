@@ -1,6 +1,6 @@
 {
 "Ad": "205",
-"Inv": "9",
+"Inv": "10",
 "Hour": "32",
 "Minutes": "9",
 "TextAfterInv": "Додам в фам дс @sexxy_mario",
@@ -28,13 +28,13 @@
 "PosY": "313.77777777778",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "4",
+"CountVipPlayers": "5",
 "PosNotePadX": "71.145833333333",
 "PosNotePadY": "384",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "17.603.962",
+"Earn": "18.103.962",
 "MyTG": "@nikiqxll",
 "MyIP": "89.162.147.134 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
