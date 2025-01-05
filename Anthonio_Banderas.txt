@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "11",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "595.239",
+"Earn": "654.762",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.3.4 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
 "InfoFamMembers": "10/319/6/false"
