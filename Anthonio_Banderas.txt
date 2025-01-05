@@ -4,7 +4,7 @@
 "Hour": "9",
 "Minutes": "58",
 "TextAfterInv": "",
-"NickDep1": "Denchik_Soul",
+"NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
