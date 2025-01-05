@@ -2,13 +2,13 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "9",
-"Minutes": "58",
+"Minutes": "59",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
-"StateAddWindow": "true",
+"StateMainWindow": "false",
+"StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
@@ -37,5 +37,5 @@
 "Earn": "535.715",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.3.4 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
-"InfoFamMembers": "10/319/6/true"
+"InfoFamMembers": "10/319/6/false"
 }
