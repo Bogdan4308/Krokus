@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "0",
+"Inv": "1",
 "Hour": "15",
 "Minutes": "2",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "850",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "892.858",
+"Earn": "1.392.858",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.4.178 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
 "InfoFamMembers": "10/319/6/false"
