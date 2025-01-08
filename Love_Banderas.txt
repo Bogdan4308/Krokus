@@ -2,7 +2,7 @@
 "Ad": "56",
 "Inv": "7",
 "Hour": "16",
-"Minutes": "34",
+"Minutes": "35",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "8.145.821",
 "MyTG": "@wmhan1",
-"MyIP": "185.101.32.171 (Norway, Innlandet, Jaren)",
+"MyIP": "185.101.32.52 (Norway, Innlandet, Jaren)",
 "InfoFamMembers": "286/452/10/true"
 }
