@@ -2,7 +2,7 @@
 "Ad": "66",
 "Inv": "3",
 "Hour": "64",
-"Minutes": "54",
+"Minutes": "55",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "10.805.364",
 "MyTG": "@denyskatleta",
-"MyIP": "151.115.57.158 (Poland, Mazovia, Warsaw)",
+"MyIP": "195.123.247.52 (Czechia, Prague, Prague)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
 }
