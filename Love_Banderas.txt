@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "9.366.800",
+"Earn": "9.866.800",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.206.117 (Norway, Innlandet, Jaren)",
 "InfoFamMembers": "286/452/10/false"
