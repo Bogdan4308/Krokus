@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "922.404",
+"Earn": "1.422.404",
 "MyTG": "@wmhan1",
 "MyIP": "185.252.223.58 (Hungary, Pest County, Szigetújfalu)",
 "InfoFamMembers": "286/452/10/false"
