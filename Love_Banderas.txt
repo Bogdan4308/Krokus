@@ -2,7 +2,7 @@
 "Ad": "26",
 "Inv": "1",
 "Hour": "3",
-"Minutes": "57",
+"Minutes": "58",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Denchik_Dante",
@@ -37,5 +37,5 @@
 "Earn": "1.964.812",
 "MyTG": "@wmhan1",
 "MyIP": "31.14.75.22 (Ukraine, Kyiv City, Kyiv)",
-"InfoFamMembers": "286/452/10/true"
+"InfoFamMembers": "51/397/10/true"
 }
