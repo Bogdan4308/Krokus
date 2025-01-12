@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] Робимо фам квести! 23 cічня ТОП-5 в рейтингу отримають по 100кк! :cat:",
-"NotWithTimer2": "/fam [Info] Здам фамні: Вестерн+охра2O, Петербілд 359+антикд, 50к година! :cat:",
+"NotWithTimer2": "/fam [Info] Здам фамні: фура Вестерн+охра2O, Петербілд для бочок+антикд, 50К год!",
 "NotWithTimer3": "/fam [Info] Купляємо теги за 5кк, наступні зміни безкоштовно, і яскраві ранги! :cat:",
 "NotWithTimer4": "/fam [Info] Хочеш стати на 9? Заповни гугл форму в фамному DS, мій дс wmhan1 :cat:",
 "NotWithTimer5": "/vr :x: Легендарная фама Banderas ждет тебя! Full, X2, ArzTow, Флаг. :x: ПРОХОДИТ ИВЕНТ НА 500КК :x: t.385",
