@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "8",
+"Minutes": "9",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
@@ -17,7 +17,7 @@
 "TimeForNot1": "01:03",
 "TimeForNot2": "03:03",
 "TimeForNot3": "05:03",
-"TimeForNot4": "7:03",
+"TimeForNot4": "08:03",
 "TimeForNot5": "08:03",
 "CheckNotTime1": "true",
 "CheckNotTime2": "true",
@@ -34,8 +34,8 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "0",
+"Earn": "30.240",
 "MyTG": "@wmhan1",
-"MyIP": "31.14.75.15 (Ukraine, Kyiv City, Kyiv)",
+"MyIP": "",
 "InfoFamMembers": "286/452/10/false"
 }
