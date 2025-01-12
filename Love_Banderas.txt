@@ -1,6 +1,6 @@
 {
 "Ad": "12",
-"Inv": "0",
+"Inv": "1",
 "Hour": "1",
 "Minutes": "18",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
@@ -28,13 +28,13 @@
 "PosY": "854",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "599",
 "PosNotePadY": "916",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "422.404",
+"Earn": "922.404",
 "MyTG": "@wmhan1",
 "MyIP": "185.252.223.58 (Hungary, Pest County, Szigetújfalu)",
 "InfoFamMembers": "286/452/10/false"
