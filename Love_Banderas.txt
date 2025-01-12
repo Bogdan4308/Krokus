@@ -2,7 +2,7 @@
 "Ad": "13",
 "Inv": "1",
 "Hour": "1",
-"Minutes": "20",
+"Minutes": "21",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "1.422.404",
+"Earn": "1.452.644",
 "MyTG": "@wmhan1",
 "MyIP": "185.252.223.58 (Hungary, Pest County, Szigetújfalu)",
 "InfoFamMembers": "286/452/10/false"
