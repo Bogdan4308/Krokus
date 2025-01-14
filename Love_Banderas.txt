@@ -2,7 +2,7 @@
 "Ad": "68",
 "Inv": "7",
 "Hour": "14",
-"Minutes": "51",
+"Minutes": "52",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфііі) і дс wmhan1",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Stepan_Pantera",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "8.859.414",
+"Earn": "8.889.654",
 "MyTG": "@wmhan1",
 "MyIP": "31.14.75.36 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "51/397/10/true"
