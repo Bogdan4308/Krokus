@@ -33,9 +33,9 @@
 "PosNotePadY": "569",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "6",
-"StateNotePad": "true",
+"StateNotePad": "false",
 "Earn": "2.726.191",
 "MyTG": "@x_kisel",
 "MyIP": "178.213.4.29 (Ukraine, Dnipropetrovsk Oblast, Kryvyi Rih)",
-"InfoFamMembers": "10/319/6/false"
+"InfoFamMembers": "337/755/7/false"
 }
