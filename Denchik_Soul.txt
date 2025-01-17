@@ -1,8 +1,8 @@
 {
 "Ad": "3",
 "Inv": "0",
-"Hour": "11",
-"Minutes": "60",
+"Hour": "12",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "745.482",
+"Earn": "805.006",
 "MyTG": "",
 "MyIP": "193.107.169.115 (Ukraine, Volyn, Volodymyr)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
