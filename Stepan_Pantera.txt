@@ -2,7 +2,7 @@
 "Ad": "27",
 "Inv": "0",
 "Hour": "6",
-"Minutes": "43",
+"Minutes": "45",
 "TextAfterInv": "Вітаю в фамі, друже",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.143.383",
+"Earn": "1.173.623",
 "MyTG": "@Alisimenko",
 "MyIP": "88.155.45.136 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/true"
