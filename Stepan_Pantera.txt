@@ -1,6 +1,6 @@
 {
 "Ad": "29",
-"Inv": "0",
+"Inv": "1",
 "Hour": "6",
 "Minutes": "56",
 "TextAfterInv": "Вітаю в фамі, друже",
@@ -28,13 +28,13 @@
 "PosY": "-7",
 "CheckedTax": "false",
 "WindowStyle": "5",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.234.103",
+"Earn": "1.734.103",
 "MyTG": "@Alisimenko",
 "MyIP": "88.155.45.136 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/true"
