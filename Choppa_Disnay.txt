@@ -1,5 +1,5 @@
 {
-"Ad": "0",
+"Ad": "1",
 "Inv": "0",
 "Hour": "1",
 "Minutes": "46",
@@ -11,7 +11,7 @@
 "StateAddWindow": "false",
 "NotWithTimer1": "/vr :u1f7e6::u1f7e8: Вступайте в семью BANDERAS. Х2, ArzTow, Flag. Это очень важно! t.167",
 "NotWithTimer2": "/vr :u1f7e6::u1f7e8: Вступайте в семью BANDERAS. Х2, ArzTow, Flag. Это очень важно! t.167",
-"NotWithTimer3": "/vr:u1f7e6::u1f7e8: Вступайте в семью BANDERAS. Х2, ArzTow, Flag. Это очень важно! t.167",
+"NotWithTimer3": "/vr :u1f7e6::u1f7e8: Вступайте в семью BANDERAS. Х2, ArzTow, Flag. Это очень важно! t.167",
 "NotWithTimer4": "/fam [info]По можливості закривайте двері в фам хату (/fammenu або I - cім.кв - 2)",
 "NotWithTimer5": "/fam [Info]В фамі грайте дотримуючись правил сервера і правил спілкування в чатах)",
 "TimeForNot1": "15:15",
