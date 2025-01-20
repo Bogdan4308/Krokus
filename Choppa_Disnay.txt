@@ -16,7 +16,7 @@
 "NotWithTimer5": "/fam [Info]В фамі грайте дотримуючись правил сервера і правил спілкування в чатах)",
 "TimeForNot1": "15:15",
 "TimeForNot2": "30:15",
-"TimeForNot3": "50:15",
+"TimeForNot3": "45:15",
 "TimeForNot4": "30:15",
 "TimeForNot5": "45:15",
 "CheckNotTime1": "true",
