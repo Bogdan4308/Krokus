@@ -14,7 +14,7 @@
 "NotWithTimer3": "/vr :trident: Легендарная фама <3Banderas:u1f5a4: ждет тебя! Ful,x2,Arz,Флаг. t.:7772677 :trident:",
 "NotWithTimer4": "",
 "NotWithTimer5": "",
-"TimeForNot1": "3:11",
+"TimeForNot1": "03:11",
 "TimeForNot2": "23:11",
 "TimeForNot3": "43:11",
 "TimeForNot4": "",
