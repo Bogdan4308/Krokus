@@ -1,6 +1,6 @@
 {
 "Ad": "24",
-"Inv": "5",
+"Inv": "6",
 "Hour": "5",
 "Minutes": "51",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "854",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "5",
+"CountVipPlayers": "6",
 "PosNotePadX": "599",
 "PosNotePadY": "916",
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "6.023.380",
+"Earn": "6.523.380",
 "MyTG": "@wmhan1",
 "MyIP": "178.133.169.69 (Ukraine, Ternopil Oblast, Ternopil)",
 "InfoFamMembers": "51/397/10/true"
