@@ -2,7 +2,7 @@
 "Ad": "18",
 "Inv": "2",
 "Hour": "4",
-"Minutes": "10",
+"Minutes": "11",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Stepan_Pantera",
@@ -37,5 +37,5 @@
 "Earn": "2.782.416",
 "MyTG": "@wmhan1",
 "MyIP": "178.133.169.69 (Ukraine, Ternopil Oblast, Ternopil)",
-"InfoFamMembers": "51/397/10/false"
+"InfoFamMembers": "51/397/10/true"
 }
