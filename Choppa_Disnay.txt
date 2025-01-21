@@ -1,8 +1,8 @@
 {
 "Ad": "30",
 "Inv": "2",
-"Hour": "6",
-"Minutes": "59",
+"Hour": "7",
+"Minutes": "0",
 "TextAfterInv": "Додам в фам дс @sexxy_mario",
 "NickDep1": "",
 "NickDep2": "",
