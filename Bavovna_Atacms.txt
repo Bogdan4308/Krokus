@@ -2,7 +2,7 @@
 "Ad": "90",
 "Inv": "2",
 "Hour": "31",
-"Minutes": "20",
+"Minutes": "21",
 "TextAfterInv": "Додам в фам дс/тг ds: neefffeex",
 "NickDep1": "",
 "NickDep2": "",
