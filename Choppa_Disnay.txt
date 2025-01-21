@@ -1,8 +1,8 @@
 {
-"Ad": "63",
+"Ad": "64",
 "Inv": "3",
 "Hour": "13",
-"Minutes": "54",
+"Minutes": "55",
 "TextAfterInv": "Додам в фам дс @sexxy_mario",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "4.678.930",
+"Earn": "4.709.170",
 "MyTG": "@nikiqxll",
 "MyIP": "89.162.147.134 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
