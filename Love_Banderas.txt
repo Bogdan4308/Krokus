@@ -1,6 +1,6 @@
 {
 "Ad": "44",
-"Inv": "15",
+"Inv": "16",
 "Hour": "16",
 "Minutes": "49",
 "TextAfterInv": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "16.782.941",
+"Earn": "17.282.941",
 "MyTG": "@wmhan1",
 "MyIP": "31.144.129.39 (Ukraine, Zakarpattia Oblast, Kolchyno)",
 "InfoFamMembers": "51/397/10/true"
