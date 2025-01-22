@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "10",
 "StateNotePad": "false",
-"Earn": "9.667.814",
+"Earn": "10.167.814",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.210.132 (Ukraine, Chernihiv, Pryluky)",
 "InfoFamMembers": "869/349/10/false"
