@@ -2,7 +2,7 @@
 "Ad": "38",
 "Inv": "15",
 "Hour": "15",
-"Minutes": "52",
+"Minutes": "53",
 "TextAfterInv": "",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Stepan_Pantera",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "16.541.978",
 "MyTG": "@wmhan1",
-"MyIP": "31.14.75.32 (Ukraine, Kyiv City, Kyiv)",
+"MyIP": "31.144.129.39 (Ukraine, Zakarpattia Oblast, Kolchyno)",
 "InfoFamMembers": "51/397/10/true"
 }
