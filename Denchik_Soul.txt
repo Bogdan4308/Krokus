@@ -1,8 +1,8 @@
 {
 "Ad": "3",
 "Inv": "0",
-"Hour": "43",
-"Minutes": "59",
+"Hour": "44",
+"Minutes": "0",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
