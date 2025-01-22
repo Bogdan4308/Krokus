@@ -9,7 +9,7 @@
 "NickDep3": "Choppa_Disnay",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Info] Додам в діскорд Альянсу. Друзі - додати друга - wmhan1 :cat:",
+"NotWithTimer1": "/al [Info] Додам в діскорд Альянсу. Друзі - додати друга - wmhan1 :cat:",
 "NotWithTimer2": "/fam [Info] Здам фамні: фура Вестерн+охра2O, Петербілд для бочок+антикд, 50К год!",
 "NotWithTimer3": "/fam [Info] Ранги 2-7 коштують 1Oкк, вибирай той, який найбільше подобається! :cat:",
 "NotWithTimer4": "/fam [Info] Поставити тег і наступні зміни коштує 500к. Максимально 7 символів:cat:",
