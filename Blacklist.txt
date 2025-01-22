@@ -13,3 +13,4 @@ Denchik_Soul UID: 1398844 Причина: оск 10, Денчік
 Denchik_Dante UID: 1567212 Причина: Оск 10, Денчік
 Sharah_Porter UID: 2367838 Причина: неадекватна хуйня
 Keny_Sanchez UID: 1351564 Причина: неад,оск10
+Chaser_Agressor UID: 2024205 Причина: шкіла малорос (кенжи)
