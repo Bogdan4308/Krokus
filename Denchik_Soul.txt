@@ -2,7 +2,7 @@
 "Ad": "3",
 "Inv": "0",
 "Hour": "54",
-"Minutes": "4",
+"Minutes": "5",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "3.305.006",
 "MyTG": "@wmhan1",
-"MyIP": "151.115.55.65 (Poland, Mazovia, Warsaw)",
+"MyIP": "151.115.53.94 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
 }
