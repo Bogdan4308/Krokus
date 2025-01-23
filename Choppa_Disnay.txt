@@ -22,7 +22,7 @@
 "CheckNotTime1": "false",
 "CheckNotTime2": "false",
 "CheckNotTime3": "false",
-"CheckNotTime4": "false",
+"CheckNotTime4": "true",
 "CheckNotTime5": "true",
 "PosX": "76.770833333333",
 "PosY": "313.77777777778",
