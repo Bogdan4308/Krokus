@@ -1,8 +1,8 @@
 {
 "Ad": "150",
 "Inv": "5",
-"Hour": "47",
-"Minutes": "60",
+"Hour": "48",
+"Minutes": "1",
 "TextAfterInv": "Додам в фам дс/тг, ds: neefffeex",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "10",
 "StateNotePad": "false",
-"Earn": "13.333.620",
+"Earn": "13.393.143",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.210.183 (Ukraine, Poltava Oblast, Romodan)",
 "InfoFamMembers": "869/349/10/false"
