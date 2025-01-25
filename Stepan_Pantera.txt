@@ -1,5 +1,5 @@
 {
-"Ad": "68",
+"Ad": "69",
 "Inv": "1",
 "Hour": "8",
 "Minutes": "51",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "3.502.271",
+"Earn": "3.532.511",
 "MyTG": "@Alisimenko",
 "MyIP": "88.155.45.136 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/true"
