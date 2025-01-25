@@ -1,5 +1,5 @@
 {
-"Ad": "171",
+"Ad": "172",
 "Inv": "5",
 "Hour": "51",
 "Minutes": "26",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "10",
 "StateNotePad": "false",
-"Earn": "14.176.515",
+"Earn": "14.206.755",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.210.160 (Ukraine, Chernihiv, Pryluky)",
 "InfoFamMembers": "869/349/10/false"
