@@ -2,7 +2,7 @@
 "Ad": "79",
 "Inv": "1",
 "Hour": "8",
-"Minutes": "52",
+"Minutes": "53",
 "TextAfterInv": "Додам в фам тг @Alisimenko",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "3.865.151",
 "MyTG": "@Alisimenko",
-"MyIP": "88.155.45.136 (Ukraine, Kyiv City, Kyiv)",
+"MyIP": "145.224.123.147 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/true"
 }
