@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] Ранги в фамі - візуал. Вибирай той, який подобається. Ціна кожного 10кк!",
-"NotWithTimer2": "/fam [Info] :gem:VIP :sunny:ELITE :jellyfish:DARKNESS :unicorn:MISTERY :dragon:BO$$",
+"NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :jellyfish:DARKNESS :unicorn:MISTERY :dragon:BO$$",
 "NotWithTimer3": "/fam [Info] :sparkles:KOSMOS :chains:ARMOR 50кк :u1fabd:LEGEND 750кк, інфа в дс.",
 "NotWithTimer4": "/fam [Info] Здам фамні: фура Вестерн+охра2O, Петербілд для бочок+антикд, 50К год!",
 "NotWithTimer5": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
