@@ -34,7 +34,7 @@
 "FontSizeNotePad": "14",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "1.043.364",
+"Earn": "1.543.364",
 "MyTG": "@wmhan1",
 "MyIP": "31.14.75.11 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "51/397/10/false"
