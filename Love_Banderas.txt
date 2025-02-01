@@ -2,7 +2,7 @@
 "Ad": "39",
 "Inv": "4",
 "Hour": "16",
-"Minutes": "36",
+"Minutes": "37",
 "TextAfterInv": "Додам в фам тг @wmhan1 (Іііііфііі) і дс wmhan",
 "NickDep1": "Bavovna_Atacms",
 "NickDep2": "Stepan_Pantera",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "5.631.741",
 "MyTG": "@wmhan1",
-"MyIP": "217.170.203.139 (Norway, Møre og Romsdal, Bruhagen)",
+"MyIP": "31.144.193.155 (Ukraine, Lviv, Stryi)",
 "InfoFamMembers": "51/397/10/true"
 }
