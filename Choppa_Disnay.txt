@@ -21,7 +21,7 @@
 "TimeForNot5": "30:01",
 "CheckNotTime1": "false",
 "CheckNotTime2": "false",
-"CheckNotTime3": "false",
+"CheckNotTime3": "true",
 "CheckNotTime4": "true",
 "CheckNotTime5": "true",
 "PosX": "76.770833333333",
