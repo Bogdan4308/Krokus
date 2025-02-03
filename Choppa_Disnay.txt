@@ -12,7 +12,7 @@
 "NotWithTimer1": "/fam [Info] Ранги в фамі - візуал.Вибирай той, який подобається. Ціна кожного 10кк",
 "NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :u1fabc: DARKNESS :unicorn:MISTERY :dragon:BO$$",
 "NotWithTimer3": "/fam [Info] :sparkles:KOSMOS :chains:ARMOR 50кк :u1fabd:LEGEND 750кк, інфа в дс.",
-"NotWithTimer4": "/fam [Info] Поставити фам тег і наступні зміни коштує 500к. Макс 7 символів.",
+"NotWithTimer4": "/fam [Info] Поставити фам тег і змінити коштує 500к. Макс 7 символів.",
 "NotWithTimer5": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t167",
 "TimeForNot1": "45:01",
 "TimeForNot2": "45:02",
