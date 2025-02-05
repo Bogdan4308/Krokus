@@ -1,6 +1,6 @@
 {
 "Ad": "46",
-"Inv": "0",
+"Inv": "1",
 "Hour": "15",
 "Minutes": "15",
 "TextAfterInv": "Додам в фам дс/тг, ds: neefffeex",
@@ -28,13 +28,13 @@
 "PosY": "563",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "10",
 "StateNotePad": "false",
-"Earn": "2.283.898",
+"Earn": "2.783.898",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.210.127 (Ukraine, Chernihiv, Pryluky)",
 "InfoFamMembers": "1032/350/10/false"
