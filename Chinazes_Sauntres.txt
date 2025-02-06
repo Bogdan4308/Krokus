@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "0",
 "Minutes": "2",
-"TextAfterInv": "Додам в фам дс/тг, ds:",
+"TextAfterInv": "Додам в фам дс/тг, ds:  neefffeex",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
