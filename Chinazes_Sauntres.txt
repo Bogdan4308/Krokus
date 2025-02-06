@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "0",
 "Minutes": "0",
-"TextAfterInv": "",
+"TextAfterInv": "d",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
@@ -27,7 +27,7 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "false",
-"WindowStyle": "1",
+"WindowStyle": "8",
 "CountVipPlayers": "0",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
@@ -35,6 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
-"MyIP": ""
+"MyTG": "@ZER0_777",
+"MyIP": "176.105.209.212 (Ukraine, Khmelnytskyi Oblast, Haluzyntsi)",
+"InfoFamMembers": "250/720/6/false"
 }
