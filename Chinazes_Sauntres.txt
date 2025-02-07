@@ -1,5 +1,5 @@
 {
-"Ad": "2",
+"Ad": "3",
 "Inv": "0",
 "Hour": "2",
 "Minutes": "0",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "120.004",
+"Earn": "179.528",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.209.232 (Ukraine, Poltava Oblast, Velyka Bahachka)",
 "InfoFamMembers": "250/720/6/false"
