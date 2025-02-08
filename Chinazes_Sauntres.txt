@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.427.711",
+"Earn": "2.927.711",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.209.219 (Ukraine, Khmelnytskyi Oblast, Haluzyntsi)",
 "InfoFamMembers": "250/720/6/false"
