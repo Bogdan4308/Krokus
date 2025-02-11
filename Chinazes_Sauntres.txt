@@ -2,7 +2,7 @@
 "Ad": "60",
 "Inv": "2",
 "Hour": "12",
-"Minutes": "13",
+"Minutes": "14",
 "TextAfterInv": "Додам в фам дс/тг, ds:  neefffeex",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "4.028.686",
 "MyTG": "@ZER0_777",
-"MyIP": "176.105.209.211 (Ukraine, Khmelnytskyi Oblast, Haluzyntsi)",
+"MyIP": "176.105.210.168 (Ukraine, Chernihiv, Pryluky)",
 "InfoFamMembers": "250/720/6/false"
 }
