@@ -2,7 +2,7 @@
 "Ad": "22",
 "Inv": "5",
 "Hour": "8",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "Додам в фам тг @wmhan1 (Іііііфііі) і дс wmhan1",
 "NickDep1": "Chinazes_Sauntres",
 "NickDep2": "Stepan_Pantera",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "0",
+"Earn": "5.641.471",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.35.164 (Ukraine, Lviv, Boryslav)",
 "InfoFamMembers": "51/397/10/false"
