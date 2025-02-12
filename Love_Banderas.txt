@@ -2,7 +2,7 @@
 "Ad": "38",
 "Inv": "9",
 "Hour": "12",
-"Minutes": "43",
+"Minutes": "44",
 "TextAfterInv": "Додам в фам тг @wmhan1 (Іііііфііі) і дс wmhan1",
 "NickDep1": "Chinazes_Sauntres",
 "NickDep2": "Stepan_Pantera",
@@ -27,7 +27,7 @@
 "PosX": "1323",
 "PosY": "844",
 "CheckedTax": "false",
-"WindowStyle": "1",
+"WindowStyle": "8",
 "CountVipPlayers": "5",
 "PosNotePadX": "617",
 "PosNotePadY": "936",
@@ -37,5 +37,5 @@
 "Earn": "8.863.406",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.35.164 (Ukraine, Lviv, Boryslav)",
-"InfoFamMembers": "51/397/10/false"
+"InfoFamMembers": "51/397/10/true"
 }
