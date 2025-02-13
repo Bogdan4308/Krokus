@@ -2,7 +2,7 @@
 "Ad": "120",
 "Inv": "2",
 "Hour": "19",
-"Minutes": "56",
+"Minutes": "57",
 "TextAfterInv": "Додам в фам дс/тг, ds:  neefffeex",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "9.229.513",
+"Earn": "9.259.753",
 "MyTG": "@ZER0_777",
 "MyIP": "176.105.211.43 (Ukraine, Vinnytsia, Vinnytsia)",
 "InfoFamMembers": "250/720/6/false"
