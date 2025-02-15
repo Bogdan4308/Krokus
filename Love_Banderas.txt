@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "[Info] Ранги в фамі - візуальні. Вибирай той, який подобається. Ціна 10кк",
 "NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :u1fabc: DARKNESS :unicorn:MISTERY :dragon:BO$$",
-"NotWithTimer3": "/fam [Info] :sparkles:KOSMOS :shield:ARMOR 50кк :u1fabd:LEGEND 750кк, інфа в дс",
+"NotWithTimer3": "/fam [Info] :sparkles:KOSMOS :shield:ARMOR 50кк :u1fabd:LEGEND 750кк",
 "NotWithTimer4": "/fam [Info] Поставити фам тег і змінити коштує 500к. Макс 7 символів",
 "NotWithTimer5": "/fam [Info] Здам Вестерн+охра2O, Петербілд для бочок+антикд, 50к год. за все!",
 "TimeForNot1": "01:15",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "17.441.360",
+"Earn": "17.471.600",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.26.158 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "51/397/10/false"
