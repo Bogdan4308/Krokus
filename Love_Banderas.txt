@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] Ранги в фамі - візуальні. Вибирай той, який подобається. Ціна 10кк",
-"NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :u1fabc: DARKNESS :unicorn:MISTERY :dragon:BO$$",
+"NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :u1fabc: DARKNESS :unicorn:MYSTERY :dragon:BO$$",
 "NotWithTimer3": "/fam [Info] :sparkles:KOSMOS :shield:ARMOR 50кк :u1fabd:LEGEND 750кк",
 "NotWithTimer4": "/fam [Info] Поставити фам тег і наступні зміни коштує 500к. 7 символів",
 "NotWithTimer5": "/fam [Info] Здам Вестерн+охра2O, Петербілд для бочок+антикд, 50к год. за все!",
