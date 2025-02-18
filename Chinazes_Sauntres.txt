@@ -1,5 +1,5 @@
 {
-"Ad": "172",
+"Ad": "173",
 "Inv": "3",
 "Hour": "28",
 "Minutes": "25",
@@ -12,7 +12,7 @@
 "NotWithTimer1": "/fam [Info]По можливості закриватйе двері в фам кв:house:",
 "NotWithTimer2": "/fam [Info]Виконуйте квест з маслом та отримуйте прибуток!:u1f4b8:",
 "NotWithTimer3": "/fam [Info]За приведення людини в фаму платимо 5OOk якщо з VIP - Iкк:gift:",
-"NotWithTimer4": "/fam [Info]Залишайте фам т/з тільки на парковках щоб не було штрафів:rocket:",
+"NotWithTimer4": "/fam [Info]Залишайте фам кари на парковках, щоб не було штрафів:rocket:",
 "NotWithTimer5": "/vr :trident:Найкраща фама :u1f535:BANDERAS:u1f7e1: чекає на тебе Х2/Прапор/ArzTw t.952:trident:",
 "TimeForNot1": "25:00",
 "TimeForNot2": "25:01",
