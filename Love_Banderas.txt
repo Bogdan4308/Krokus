@@ -2,7 +2,7 @@
 "Ad": "143",
 "Inv": "11",
 "Hour": "15",
-"Minutes": "39",
+"Minutes": "40",
 "TextAfterInv": "Додам в фам тг @wmhan1 (Іііііфііі) і дс wmhan1",
 "NickDep1": "Chinazes_Sauntres",
 "NickDep2": "Stepan_Pantera",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "15.717.178",
 "MyTG": "@wmhan1",
-"MyIP": "194.44.57.109 (Ukraine, Lviv, Lviv)",
+"MyIP": "194.44.26.17 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "51/397/10/true"
 }
