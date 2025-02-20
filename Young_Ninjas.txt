@@ -4,7 +4,7 @@
 "Hour": "2",
 "Minutes": "47",
 "TextAfterInv": "tg: @yoninja ds: yoninjaa",
-"NickDep1": "",
+"NickDep1": "Young_Ninjas",
 "NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
