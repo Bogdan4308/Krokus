@@ -4,7 +4,7 @@
 "Hour": "16",
 "Minutes": "18",
 "TextAfterInv": "Додам в фам тг @wmhan1 (Іііііфііі) і дс wmhan1",
-"NickDep1": "Chinazes_Sauntres",
+"NickDep1": "Lil_Breazy",
 "NickDep2": "Stepan_Pantera",
 "NickDep3": "Young_Ninjas",
 "StateMainWindow": "true",
