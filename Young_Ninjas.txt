@@ -2,7 +2,7 @@
 "Ad": "107",
 "Inv": "1",
 "Hour": "2",
-"Minutes": "51",
+"Minutes": "52",
 "TextAfterInv": "tg: @yoninja ds: yoninjaa",
 "NickDep1": "Young_Ninjas",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "4.324.488",
+"Earn": "4.354.728",
 "MyTG": "@yoninja",
 "MyIP": "109.235.9.60 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
