@@ -1,5 +1,5 @@
 {
-"Ad": "0",
+"Ad": "1",
 "Inv": "0",
 "Hour": "0",
 "Minutes": "0",
@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -35,6 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
-"MyIP": ""
+"MyTG": "@Leonardo_1437",
+"MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
+"InfoFamMembers": "250/720/6/false"
 }
