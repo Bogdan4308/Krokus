@@ -2,7 +2,7 @@
 "Ad": "250",
 "Inv": "0",
 "Hour": "8",
-"Minutes": "50",
+"Minutes": "51",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "14.005.951",
+"Earn": "14.036.191",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
