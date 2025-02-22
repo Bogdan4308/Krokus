@@ -1,5 +1,5 @@
 {
-"Ad": "366",
+"Ad": "367",
 "Inv": "3",
 "Hour": "7",
 "Minutes": "46",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "23.454.267",
+"Earn": "23.484.507",
 "MyTG": "@yoninja",
 "MyIP": "109.235.9.160 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
