@@ -1,6 +1,6 @@
 {
 "Ad": "298",
-"Inv": "2",
+"Inv": "3",
 "Hour": "6",
 "Minutes": "59",
 "TextAfterInv": "tg: @yoninja ds: yoninjaa",
@@ -28,13 +28,13 @@
 "PosY": "200.55555555556",
 "CheckedTax": "false",
 "WindowStyle": "9",
-"CountVipPlayers": "2",
+"CountVipPlayers": "3",
 "PosNotePadX": "87.5",
 "PosNotePadY": "525",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "17.368.663",
+"Earn": "17.868.663",
 "MyTG": "@yoninja",
 "MyIP": "109.235.9.160 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
