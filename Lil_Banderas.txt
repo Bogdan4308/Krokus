@@ -3,7 +3,7 @@
 "Inv": "2",
 "Hour": "6",
 "Minutes": "23",
-"TextAfterInv": "Вітаю у сімї Banderas, додам в канал сімї Tg: @Leonardo_1437 і додав в діскорд канал ds:_leonardo_1522 Б",
+"TextAfterInv": "Вітаю у сімї Banderas, додам в канал сімї Tg: @Leonardo_1437 і додав в діскорд канал ds:_leonardo_1522 <3",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
