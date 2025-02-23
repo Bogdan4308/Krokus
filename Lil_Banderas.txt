@@ -3,7 +3,7 @@
 "Inv": "1",
 "Hour": "1",
 "Minutes": "11",
-"TextAfterInv": "",
+"TextAfterInv": "Додав в ",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
