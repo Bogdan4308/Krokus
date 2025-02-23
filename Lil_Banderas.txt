@@ -2,7 +2,7 @@
 "Ad": "12",
 "Inv": "1",
 "Hour": "1",
-"Minutes": "11",
+"Minutes": "12",
 "TextAfterInv": "Додав вас в телеграм ",
 "NickDep1": "",
 "NickDep2": "",
