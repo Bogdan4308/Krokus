@@ -1,6 +1,6 @@
 {
 "Ad": "12",
-"Inv": "0",
+"Inv": "1",
 "Hour": "1",
 "Minutes": "10",
 "TextAfterInv": "Вітаю у сімї Banderas, додам в канал сімї Tg: @Leonardo_1437 і додав в діскорд канал ds:_leonardo_1522 <3",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "422.404",
+"Earn": "922.404",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
