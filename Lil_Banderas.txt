@@ -2,7 +2,7 @@
 "Ad": "12",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "Вітаю у сімї Banderas, додам в канал сімї Tg: @Leonardo_1437 і додав в діскорд канал ds:_leonardo_1522 <3",
 "NickDep1": "",
 "NickDep2": "",
