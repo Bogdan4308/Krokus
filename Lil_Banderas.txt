@@ -1,5 +1,5 @@
 {
-"Ad": "39",
+"Ad": "40",
 "Inv": "3",
 "Hour": "2",
 "Minutes": "37",
@@ -19,7 +19,7 @@
 "TimeForNot3": "",
 "TimeForNot4": "",
 "TimeForNot5": "",
-"CheckNotTime1": "true",
+"CheckNotTime1": "false",
 "CheckNotTime2": "false",
 "CheckNotTime3": "false",
 "CheckNotTime4": "false",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "3.768.168",
+"Earn": "3.798.408",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
