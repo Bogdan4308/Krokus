@@ -12,7 +12,7 @@
 "NotWithTimer1": "",
 "NotWithTimer2": "",
 "NotWithTimer3": "/fam [Info] ",
-"NotWithTimer4": ":u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
+"NotWithTimer4": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
 "NotWithTimer5": "/fam [Info] Здам Вестерн+охра2O, Петербілд для бочок+антикд, 50к год. за все!",
 "TimeForNot1": "01:15",
 "TimeForNot2": "01:16",
