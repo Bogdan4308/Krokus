@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
-"NotWithTimer3": "/fam [Info] Збираємо 80ккк на ЗМІ ЛВ, всі донати важливі (і - сімя - сім.кв - 5) :u1f4a6:",
+"NotWithTimer3": "/fam [Info] Збираємо 80ккк на ЗМІ ЛВ, всі донати важливі (і - сімя - сім.кв - 5):u1f4a6:",
 "NotWithTimer4": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
 "NotWithTimer5": "/fam [Info] Здам Вестерн+охра2O, Петербілд для бочок+антикд, 50к год. за все!",
 "TimeForNot1": "01:15",
