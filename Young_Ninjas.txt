@@ -1,5 +1,5 @@
 {
-"Ad": "213",
+"Ad": "214",
 "Inv": "0",
 "Hour": "2",
 "Minutes": "57",
@@ -7,7 +7,7 @@
 "NickDep1": "Young_Ninjas",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "/fam [Info] Ранги в фамі - візуальні. Вибирай той, який подобається. Ціна 10кк",
 "NotWithTimer2": "/fam [Info] :gem:VIP :sun:ELITE :u1fabc: DARKNESS :unicorn:MYSTERY :dragon:BO$$",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "9.529.928",
+"Earn": "9.560.168",
 "MyTG": "@yoninja",
 "MyIP": "109.235.9.247 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "218.75/680.55555555556/6/false"
