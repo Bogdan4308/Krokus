@@ -2,7 +2,7 @@
 "Ad": "215",
 "Inv": "1",
 "Hour": "3",
-"Minutes": "58",
+"Minutes": "59",
 "TextAfterInv": "tg: @yoninja ds: yoninjaa",
 "NickDep1": "Young_Ninjas",
 "NickDep2": "",
