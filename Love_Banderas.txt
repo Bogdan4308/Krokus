@@ -14,7 +14,7 @@
 "NotWithTimer3": "",
 "NotWithTimer4": "",
 "NotWithTimer5": "",
-"TimeForNot1": "00:01",
+"TimeForNot1": "00:02",
 "TimeForNot2": "30:02",
 "TimeForNot3": "01:13",
 "TimeForNot4": "01:14",
