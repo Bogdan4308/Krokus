@@ -2,7 +2,7 @@
 "Ad": "166",
 "Inv": "8",
 "Hour": "36",
-"Minutes": "42",
+"Minutes": "43",
 "TextAfterInv": "Писати в сім.чат /fam Додам в фам тг: @wmhan1 (Іііііфііі)  Discord: Друзі - додати wmhan1",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Chinazes_Sauntres",
