@@ -3,7 +3,7 @@
 "Inv": "8",
 "Hour": "36",
 "Minutes": "43",
-"TextAfterInv": "Додам в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1 (Писати в сім.чат /fam)",
+"TextAfterInv": "Додам в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1 (писати в сім.чат /fam)",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Chinazes_Sauntres",
 "NickDep3": "Young_Ninjas",
