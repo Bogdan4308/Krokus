@@ -1,6 +1,6 @@
 {
 "Ad": "388",
-"Inv": "12",
+"Inv": "13",
 "Hour": "22",
 "Minutes": "29",
 "TextAfterInv": "Додам вас в телеграм і в діскорд канали tg:@Leonardo_1437",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "32.042.644",
+"Earn": "32.542.644",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
