@@ -2,7 +2,7 @@
 "Ad": "94",
 "Inv": "1",
 "Hour": "13",
-"Minutes": "48",
+"Minutes": "49",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "4.616.370",
 "MyTG": "@Alisimenko",
-"MyIP": "188.163.8.63 (Ukraine, Lvivska Oblast, Lviv)",
+"MyIP": "145.224.122.203 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/true"
 }
