@@ -19,7 +19,7 @@
 "TimeForNot3": "01:13",
 "TimeForNot4": "01:14",
 "TimeForNot5": "01:15",
-"CheckNotTime1": "false",
+"CheckNotTime1": "true",
 "CheckNotTime2": "false",
 "CheckNotTime3": "false",
 "CheckNotTime4": "true",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "1.814.568",
+"Earn": "1.844.808",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.56.194 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "51/397/10/false"
