@@ -5,7 +5,7 @@
 "Minutes": "37",
 "TextAfterInv": "Додам в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1",
 "NickDep1": "Lil_Banderas",
-"NickDep2": "",
+"NickDep2": "Angel_Bank",
 "NickDep3": "Young_Ninjas",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
