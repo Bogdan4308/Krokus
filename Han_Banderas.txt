@@ -11,7 +11,7 @@
 "StateAddWindow": "false",
 "NotWithTimer1": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг t.385",
 "NotWithTimer2": "/vr :u1f7e6::u1f7e8: Легендарна фама BANDERAS чекає на тебе! FULL, X2, Прапор t.385",
-"NotWithTimer3": "/fam [INFO] За зміну прізвища на Banderas даємо будь-який ранг від 2 до 7. Інфа в тг, дс :kiss:",
+"NotWithTimer3": "/fam [INFO] За зміну прізвища на Banderas даємо будь-який ранг від 2 до 7. Інфа в тг,дс:kiss:",
 "NotWithTimer4": "/fam [INFO] Здам в оренду фам: фура Вестерн+охр20, Петербілд+антикд. 50к година :kiss:",
 "NotWithTimer5": "",
 "TimeForNot1": "30:02",
