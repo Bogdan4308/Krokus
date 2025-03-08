@@ -1,5 +1,5 @@
 {
-"Ad": "240",
+"Ad": "241",
 "Inv": "2",
 "Hour": "8",
 "Minutes": "8",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "14.733.791",
 "MyTG": "@yoninja",
-"MyIP": "109.235.8.150 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
+"MyIP": "109.235.9.20 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "5/500/6/false"
 }
