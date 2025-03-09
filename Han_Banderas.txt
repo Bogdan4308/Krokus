@@ -2,7 +2,7 @@
 "Ad": "60",
 "Inv": "1",
 "Hour": "11",
-"Minutes": "36",
+"Minutes": "37",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфффіііі), дс (друзі - додати друга - wmhan1)",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "3.469.162",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.57.118 (Ukraine, Lviv, Lviv)",
-"InfoFamMembers": "266/427/9/true"
+"InfoFamMembers": "266/427/9/false"
 }
