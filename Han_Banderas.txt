@@ -24,8 +24,8 @@
 "CheckNotTime3": "true",
 "CheckNotTime4": "true",
 "CheckNotTime5": "false",
-"PosX": "14",
-"PosY": "529",
+"PosX": "1226",
+"PosY": "92",
 "CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "2",
@@ -37,5 +37,5 @@
 "Earn": "5.101.334",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.57.118 (Ukraine, Lviv, Lviv)",
-"InfoFamMembers": "45/527/9/true"
+"InfoFamMembers": "43/544/9/true"
 }
