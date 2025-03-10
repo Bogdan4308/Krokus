@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "false",
 "StateAddWindow": "false",
-"NotWithTimer1": "/vr Легендарна фама BANDERAS ждет тебя! Full X2, ArzTow,Флаг.",
+"NotWithTimer1": "/vr Легендарна фама BANDERAS ждет тебя! Full X2, ArzTow,Флаг. t.928",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
