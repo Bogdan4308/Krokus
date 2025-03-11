@@ -2,7 +2,7 @@
 "Ad": "76",
 "Inv": "1",
 "Hour": "12",
-"Minutes": "58",
+"Minutes": "59",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "3.482.286",
+"Earn": "3.512.526",
 "MyTG": "@xxxnacik",
 "MyIP": "193.105.124.246 (Ukraine, Kharkivs’ka Oblast’, Pervomaiskyi)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
