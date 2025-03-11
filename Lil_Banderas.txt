@@ -1,5 +1,5 @@
 {
-"Ad": "53",
+"Ad": "54",
 "Inv": "4",
 "Hour": "5",
 "Minutes": "48",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "4.370.100",
+"Earn": "4.400.340",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
