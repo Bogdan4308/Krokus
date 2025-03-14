@@ -1,5 +1,5 @@
 {
-"Ad": "124",
+"Ad": "125",
 "Inv": "2",
 "Hour": "26",
 "Minutes": "42",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "9.267.140",
+"Earn": "9.297.380",
 "MyTG": "@xxxnacik",
 "MyIP": "193.105.124.246 (Ukraine, Kharkivs’ka Oblast’, Pervomaiskyi)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
