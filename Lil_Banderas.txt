@@ -13,7 +13,7 @@
 "NotWithTimer2": "/fam [Info] Ваші донати будуть в фам скріпті на вашому Балансі, більше інфи в DS!",
 "NotWithTimer3": "/fam [Info] Робіть донати щодня. Тільки спільними зусиллями зможемо зробити це!",
 "NotWithTimer4": "/fam [Info] Закинути на фаму: інвентар - сімя - сім.кв - 5. Дякую всім, хто кидає!",
-"NotWithTimer5": "/vr Легендарна фама BANDERAS чекає на тебе! FULL, X2, ArzTow, Прапор. t167",
+"NotWithTimer5": "/vr :u1f7e6::u1f7e8: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t167",
 "TimeForNot1": "30:17",
 "TimeForNot2": "30:18",
 "TimeForNot3": "30:19",
