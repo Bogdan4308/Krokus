@@ -9,7 +9,7 @@
 "NickDep3": "Angel_Bank",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/vr :u1f7e6::u1f7e8: Фама :lb::la::ln::ld::le::lr::la::ls: чекає на тебе! FULL, X2, Прапор, АrzTow, t. 385",
+"NotWithTimer1": "/vr :lb::la::ln::ld::le::lr::la::ls: чекає на тебе! FULL, X2, Прапор, АrzTow, дорогий автопарк t. 385",
 "NotWithTimer2": "/fam [Info] Платимо за гру в фамі! Встановлюйте фамний скріпт, отримуй 100 BND коінів",
 "NotWithTimer3": "/fam [Info] Система фамної Криптовалюти, Репупатації, Кредитів, Балансу і багато іншого",
 "NotWithTimer4": "/fam [Info] Зміна кольору фам чату, ранги з бафами, візуальний тег, голосування, пінгування.",
