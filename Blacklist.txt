@@ -11,7 +11,7 @@ Gustav_Lindemann UID: 1316471 Причина: неад
 Lera_Blade UID: 1740562 Причина: дура дурна
 Sharah_Porter UID: 2367838 Причина: неадекватна хуйня
 Keny_Sanchez UID: 1351564 Причина: неад,оск10
-Chaser_Agressor UID: 2024205 Причина: шкіла малорос (кенжи)
+Chaser_Agressor UID: 2024205 Причина: шкіла малорос (кенжи) => Chaser_Wexwy
 Den_Agressor UID: 1667900 Причина: кент Брабуса і Такеру
 Sakata_Agressor UID: 2395864 Причина: скам, обман, неукр, спроба слити фаму
 Jarvis_Skrin UID: 2288293 Причина: 13 (оск укр, обман х2, не виносити)
