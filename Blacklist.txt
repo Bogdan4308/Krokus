@@ -15,7 +15,7 @@ Chaser_Agressor UID: 2024205 Причина: шкіла малорос (кенж
 Den_Agressor UID: 1667900 Причина: кент Брабуса і Такеру
 Sakata_Agressor UID: 2395864 Причина: скам, обман, неукр, спроба слити фаму
 Jarvis_Skrin UID: 2288293 Причина: 13 (оск укр, обман х2, не виносити)
-Largo_Explorer UID: 1597292 Причина: чмо їбане
+Largo_Explorer UID: 1597292 Причина: чмо їбане => Waste_Explorer
 Boris_Shweps UID: 1729517 Причина: малий довбойоб => Shweps_Explorer
 Gunjubas_Banderas UID: 2421185 Причина: розвів Денчіка
 Morgan_Biber UID: 1848248 Причина: 1
