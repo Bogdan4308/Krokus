@@ -1,6 +1,6 @@
 {
 "Ad": "29",
-"Inv": "5",
+"Inv": "6",
 "Hour": "7",
 "Minutes": "59",
 "TextAfterInv": "Додам в фам тг @wmhan1 (ііііфффіііі), дс (друзі - додати друга - wmhan1)",
@@ -28,13 +28,13 @@
 "PosY": "831",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "543",
 "PosNotePadY": "880",
 "FontSizeNotePad": "12",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "4.293.627",
+"Earn": "4.793.627",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.50.27 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "48/436/9/false"
