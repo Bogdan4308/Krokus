@@ -3,7 +3,7 @@
 "Inv": "8",
 "Hour": "12",
 "Minutes": "20",
-"TextAfterInv": "Писати в ",
+"TextAfterInv": "",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
 "NickDep3": "Angel_Bank",
