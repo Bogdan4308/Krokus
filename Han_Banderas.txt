@@ -2,7 +2,7 @@
 "Ad": "25",
 "Inv": "2",
 "Hour": "1",
-"Minutes": "26",
+"Minutes": "27",
 "TextAfterInv": "",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "12",
 "FontFamilyNotePad": "12",
 "StateNotePad": "false",
-"Earn": "2.785.284",
+"Earn": "2.815.524",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.35.162 (Ukraine, Lviv, Boryslav)",
 "InfoFamMembers": "48/436/9/false"
