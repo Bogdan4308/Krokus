@@ -1,6 +1,6 @@
 {
 "Ad": "4",
-"Inv": "1",
+"Inv": "2",
 "Hour": "0",
 "Minutes": "15",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "831",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "490",
 "PosNotePadY": "595",
 "FontSizeNotePad": "12",
 "FontFamilyNotePad": "12",
 "StateNotePad": "false",
-"Earn": "1.120.960",
+"Earn": "1.620.960",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.35.162 (Ukraine, Lviv, Boryslav)",
 "InfoFamMembers": "48/436/9/false"
