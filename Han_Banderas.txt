@@ -2,7 +2,7 @@
 "Ad": "51",
 "Inv": "4",
 "Hour": "6",
-"Minutes": "38",
+"Minutes": "39",
 "TextAfterInv": "",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
