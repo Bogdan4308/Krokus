@@ -1,6 +1,6 @@
 {
 "Ad": "225",
-"Inv": "2",
+"Inv": "3",
 "Hour": "14",
 "Minutes": "41",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "384",
 "CheckedTax": "false",
 "WindowStyle": "4",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "71.145833333333",
 "PosNotePadY": "384",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "12.137.334",
+"Earn": "12.637.334",
 "MyTG": "@xxxnacik",
 "MyIP": "193.105.124.246 (Ukraine, Kharkivs’ka Oblast’, Pervomaiskyi)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
