@@ -2,7 +2,7 @@
 "Ad": "70",
 "Inv": "9",
 "Hour": "8",
-"Minutes": "46",
+"Minutes": "47",
 "TextAfterInv": "",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "9.592.991",
 "MyTG": "@wmhan1",
-"MyIP": "194.44.57.186 (Ukraine, Lviv, Lviv)",
+"MyIP": "194.44.56.141 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "48/436/9/false"
 }
