@@ -1,5 +1,5 @@
 {
-"Ad": "295",
+"Ad": "296",
 "Inv": "30",
 "Hour": "25",
 "Minutes": "11",
@@ -12,7 +12,7 @@
 "NotWithTimer1": "/vr :u1f30e: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t.385",
 "NotWithTimer2": "/vr :u1f7e6::u1f7e8: Легендарна фама BANDERAS чекає на тебе! FULL, X2, ArzTow, Прапор. t385",
 "NotWithTimer3": "/fam [Info] Здам фамні: фуру Вестерн+охр20, Петербілд (бочки)+антикд. 50к за годину",
-"NotWithTimer4": "/fam [Info] Робимо трейлерне село. Локація: на",
+"NotWithTimer4": "/fam [Info] Робимо трейлерне село. Локація: навпроти АЗС біля шахти",
 "NotWithTimer5": "",
 "TimeForNot1": "00:02",
 "TimeForNot2": "04:02",
