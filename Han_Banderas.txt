@@ -20,7 +20,7 @@
 "TimeForNot4": "01:03",
 "TimeForNot5": "01:04",
 "CheckNotTime1": "true",
-"CheckNotTime2": "false",
+"CheckNotTime2": "true",
 "CheckNotTime3": "true",
 "CheckNotTime4": "false",
 "CheckNotTime5": "false",
