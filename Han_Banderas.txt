@@ -1,5 +1,5 @@
 {
-"Ad": "341",
+"Ad": "342",
 "Inv": "36",
 "Hour": "27",
 "Minutes": "37",
@@ -9,7 +9,7 @@
 "NickDep3": "Angel_Bank",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Info] За приведення друга платим",
+"NotWithTimer1": "/fam [Info] За приведення друга платимо 1кк, якщо з віп - 2кк. 15 лвл, ",
 "NotWithTimer2": "/fam [Info]",
 "NotWithTimer3": "/fam [Info]",
 "NotWithTimer4": "/fam [Info] Здам фамні: фуру Вестерн+охр20, Петербілд (бочки)+антикд. 50к за годину",
