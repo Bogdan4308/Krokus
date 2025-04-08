@@ -2,7 +2,7 @@
 "Ad": "362",
 "Inv": "38",
 "Hour": "29",
-"Minutes": "13",
+"Minutes": "14",
 "TextAfterInv": "Фам тг дс @wmhan1 (ііііфіііі)",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
