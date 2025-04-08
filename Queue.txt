@@ -1,2 +1,3 @@
 
-Giratzu_Mobs(24)
+Dastin_MakTrakher(інв)
+Giratzu_Mobs(кд24)
