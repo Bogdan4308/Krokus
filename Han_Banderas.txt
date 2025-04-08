@@ -1,5 +1,5 @@
 {
-"Ad": "342",
+"Ad": "343",
 "Inv": "36",
 "Hour": "27",
 "Minutes": "37",
@@ -9,7 +9,7 @@
 "NickDep3": "Angel_Bank",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [Info] За приведення друга платимо 1кк, якщо з віп - 2кк. 15 лвл, ",
+"NotWithTimer1": "/fam [Info] За приведення людини в фаму платимо 1кк, якщо з превіпом 2кк.   ",
 "NotWithTimer2": "/fam [Info]",
 "NotWithTimer3": "/fam [Info]",
 "NotWithTimer4": "/fam [Info] Здам фамні: фуру Вестерн+охр20, Петербілд (бочки)+антикд. 50к за годину",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "12",
 "FontFamilyNotePad": "12",
 "StateNotePad": "false",
-"Earn": "49.418.983",
+"Earn": "49.449.223",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.56.252 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "48/436/9/false"
