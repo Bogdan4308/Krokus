@@ -1,8 +1,8 @@
 {
 "Ad": "447",
 "Inv": "48",
-"Hour": "32",
-"Minutes": "59",
+"Hour": "33",
+"Minutes": "0",
 "TextAfterInv": "Фам тг дс @wmhan1 (ііііфіііі)",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Young_Ninjas",
