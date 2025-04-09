@@ -2,7 +2,7 @@
 "Ad": "131",
 "Inv": "7",
 "Hour": "13",
-"Minutes": "15",
+"Minutes": "16",
 "TextAfterInv": "Додам в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Angel_Bank",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "13.205.010",
+"Earn": "13.235.250",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.56.252 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "51/397/10/false"
