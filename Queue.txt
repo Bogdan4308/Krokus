@@ -2,6 +2,5 @@
 Giratzu_Mobs(кд9кві12)
 Bulldozer_Exort(359АЗС)
 Unsocial_Durability(22:30)
-Kenzo_Stranker(інв)
 Zima_Letta(Обєкт)
 South_Division(трейлер)
