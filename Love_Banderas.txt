@@ -1,6 +1,6 @@
 {
 "Ad": "186",
-"Inv": "10",
+"Inv": "11",
 "Hour": "8",
 "Minutes": "31",
 "TextAfterInv": "Додам/добавлю в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1",
@@ -28,13 +28,13 @@
 "PosY": "844",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "3",
+"CountVipPlayers": "4",
 "PosNotePadX": "625",
 "PosNotePadY": "937",
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "19.261.311",
+"Earn": "19.761.311",
 "MyTG": "@wmhan1",
 "MyIP": "194.44.56.252 (Ukraine, Lviv, Lviv)",
 "InfoFamMembers": "51/397/10/false"
