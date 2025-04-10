@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -35,6 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
-"MyIP": ""
+"MyTG": "@wmhan1",
+"MyIP": "194.44.56.252 (Ukraine, Lviv, Lviv)",
+"InfoFamMembers": "250/720/6/false"
 }
