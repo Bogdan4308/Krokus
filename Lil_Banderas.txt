@@ -1,6 +1,6 @@
 {
 "Ad": "161",
-"Inv": "10",
+"Inv": "12",
 "Hour": "6",
 "Minutes": "12",
 "TextAfterInv": "Додам вас в телеграм і в діскорд канали tg:@Leonardo_1437",
@@ -28,13 +28,13 @@
 "PosY": "453",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "7",
+"CountVipPlayers": "8",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "16.725.783",
+"Earn": "17.725.783",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
