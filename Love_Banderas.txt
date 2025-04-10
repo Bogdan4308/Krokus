@@ -2,7 +2,7 @@
 "Ad": "181",
 "Inv": "9",
 "Hour": "8",
-"Minutes": "18",
+"Minutes": "19",
 "TextAfterInv": "Додам/добавлю в фам тг: @wmhan1 (Іііііфііі) Discord: друзі - додати друга - wmhan1",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "Angel_Bank",
