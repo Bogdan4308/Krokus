@@ -2,4 +2,3 @@
 Giratzu_Mobs(кд9кві12)
 Unsocial_Durability(22:30)
 Gena_Aegis(трейлер 40кк)
-Ivan_Woron(інв)
