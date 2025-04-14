@@ -6,7 +6,7 @@
 "TextAfterInv": "Додам/добавлю в фам тг @wmhan1 (Іііііфііі)",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "",
-"NickDep3": "Young_Ninjas",
+"NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] За приведення людини в фаму платимо 1кк, якщо з віпом 2кк:u1f64b:",
