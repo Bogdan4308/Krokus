@@ -1,5 +1,5 @@
 {
-"Ad": "192",
+"Ad": "193",
 "Inv": "17",
 "Hour": "11",
 "Minutes": "26",
@@ -12,7 +12,7 @@
 "NotWithTimer1": "/fam [Info] Cистема рангов: 2 :u1f948:SILVER 20кк, 3 :u1f947:GOLD 30кк",
 "NotWithTimer2": "/fam [Info] 4 :trophy:PLATINUM 40кк, 5 :u1fc04:CORE 50кк или фамилию на Вanderas",
 "NotWithTimer3": "/fam [Info] За зміну прізвища на Banderas ранг :u1fc04:FAMCORE, :wolf:AVTORITET 50кк",
-"NotWithTimer4": "/fam [Info] :u1fabd:GODMOD 100кк (імунітет на мут+кік), :u1f4ab:LEGEND 750кк (імунітет)",
+"NotWithTimer4": "/fam [Info] 6 :u1fabd:GODMODE 100кк (имунитет на мут и кик), 7 :u1f4ab:LEGEND 750кк (им.)",
 "NotWithTimer5": "/fam [Info] :diamonds:MONARH 1.5ккк (або за заслуги), :eagle:OLD дається олдам",
 "TimeForNot1": "01:00",
 "TimeForNot2": "01:01",
