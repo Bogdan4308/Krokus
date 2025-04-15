@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam Система рангов: второй :u1f948:SILVER 2Oкк, третий :u1f947:GOLD 3Oкк, ",
 "NotWithTimer2": "/fam четвертый :trophy:PLATINUM 40кк, пятый :u1fc04:CORE 50кк",
-"NotWithTimer3": "/fam шестой :u1fabd:GODMODE 100кк, седьмой :u1f4ab:LEGEND 750кк,",
+"NotWithTimer3": "/fam шестой :u1fabd:GODMODE 100кк (иммунитет от наказаний), седьмой :u1f4ab:LEGEND 750кк,",
 "NotWithTimer4": "/fam восьмой :u1fc02:MONARH 1.5ккк или за вклад в развитие фамы.",
 "NotWithTimer5": "/fam Смена фамилии на BANDERAS - 5й ранг, за приведения друга платим 1-2кк",
 "TimeForNot1": "26:01",
