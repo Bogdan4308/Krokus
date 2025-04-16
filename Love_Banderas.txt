@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam Сдам в аренду: Петербилд+антикд 600к, Тесла Семи+Охр20 500к, Вестерн 250к",
+"NotWithTimer1": "/fam Сдам в аренду: Петербилд+антикд 600к, Тесла Семи+Охр20 750к, Вестерн 250к",
 "NotWithTimer2": "/fam",
 "NotWithTimer3": "/fam",
 "NotWithTimer4": "/fam",
