@@ -2,7 +2,7 @@
 "Ad": "309",
 "Inv": "34",
 "Hour": "19",
-"Minutes": "42",
+"Minutes": "43",
 "TextAfterInv": "Додам/добавлю в фам тг @wmhan1 (Іііііфііі)",
 "NickDep1": "Lil_Banderas",
 "NickDep2": "",
