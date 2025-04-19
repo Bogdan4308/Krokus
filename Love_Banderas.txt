@@ -2,7 +2,7 @@
 "Ad": "574",
 "Inv": "71",
 "Hour": "32",
-"Minutes": "49",
+"Minutes": "50",
 "TextAfterInv": "Додам/добавлю в фам тг @wmhan1 (Іііііфііі)",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,8 +34,8 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "95.508.922",
+"Earn": "95.558.842",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.35.153 (Ukraine, Lviv, Boryslav)",
-"InfoFamMembers": "51/397/10/false"
+"InfoFamMembers": "51/397/10/true"
 }
