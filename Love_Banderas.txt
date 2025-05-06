@@ -2,7 +2,7 @@
 "Ad": "693",
 "Inv": "146",
 "Hour": "47",
-"Minutes": "41",
+"Minutes": "42",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -10,10 +10,10 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] 19 АЗС :nf::nf: проц. скидка, закуп 231 :nh::na: проц. /findibiz",
-"NotWithTimer2": "/fam [Info] Тесла Семи + охр2O, ТТ2, бак, :nh::na::na:к час",
-"NotWithTimer3": "/fam [Info] Вестерн Стар, ТТ2, бак, 3OOк час. Скидка на 72 часа :nf::na:проц",
-"NotWithTimer4": "/fam [Info] Cобираем 8.5ккк на лимитку Сена кто сколько может, покупайте ранги",
-"NotWithTimer5": "/fam [Info] У кого есть трейлер - заселяемся в деревню (возле кпп лв, напротив 359 азс)",
+"NotWithTimer2": "/fam [Info] ",
+"NotWithTimer3": "/fam [Info] ",
+"NotWithTimer4": "/fam [Info] ",
+"NotWithTimer5": "/fam [Info]",
 "TimeForNot1": "36:05",
 "TimeForNot2": "05:02",
 "TimeForNot3": "05:03",
@@ -37,5 +37,5 @@
 "Earn": "158.892.180",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "38/405/10/false"
+"InfoFamMembers": "38/405/10/true"
 }
