@@ -1,6 +1,6 @@
 {
 "Ad": "814",
-"Inv": "182",
+"Inv": "183",
 "Hour": "49",
 "Minutes": "2",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "844",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "102",
+"CountVipPlayers": "103",
 "PosNotePadX": "625",
 "PosNotePadY": "937",
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "194.551.547",
+"Earn": "195.051.547",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.203.132 (Norway, Oslo County, Oslo)",
 "InfoFamMembers": "38/405/10/false"
