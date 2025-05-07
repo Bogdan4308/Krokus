@@ -1,5 +1,5 @@
 {
-"Ad": "842",
+"Ad": "843",
 "Inv": "189",
 "Hour": "49",
 "Minutes": "28",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "200.899.387",
+"Earn": "200.949.307",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.203.132 (Norway, Oslo County, Oslo)",
 "InfoFamMembers": "38/405/10/false"
