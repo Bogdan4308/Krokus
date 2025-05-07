@@ -2,7 +2,7 @@
 "Ad": "845",
 "Inv": "192",
 "Hour": "49",
-"Minutes": "28",
+"Minutes": "29",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,8 +34,8 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "203.049.147",
+"Earn": "203.099.067",
 "MyTG": "@wmhan1",
-"MyIP": "217.170.203.132 (Norway, Oslo County, Oslo)",
+"MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "38/405/10/false"
 }
