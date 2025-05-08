@@ -2,7 +2,7 @@
 "Ad": "884",
 "Inv": "200",
 "Hour": "50",
-"Minutes": "14",
+"Minutes": "15",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -10,7 +10,7 @@
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [Info] 19 АЗС :nf::nf: проц. скидка, закуп 231 :nh::na: проц. /findibiz",
-"NotWithTimer2": "/fam [Info]",
+"NotWithTimer2": "/fam [Info] По",
 "NotWithTimer3": "/fam [Info]",
 "NotWithTimer4": "/fam [Info]",
 "NotWithTimer5": "/fam [Info]",
@@ -37,5 +37,5 @@
 "Earn": "210.605.471",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "38/405/10/false"
+"InfoFamMembers": "38/405/10/true"
 }
