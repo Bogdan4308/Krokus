@@ -1,8 +1,8 @@
 {
 "Ad": "972",
 "Inv": "241",
-"Hour": "51",
-"Minutes": "59",
+"Hour": "52",
+"Minutes": "0",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "245.057.955",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.204.220 (Norway, Innlandet, Jaren)",
-"InfoFamMembers": "24/451/10/true"
+"InfoFamMembers": "24/451/10/false"
 }
