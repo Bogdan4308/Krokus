@@ -2,7 +2,7 @@
 "Ad": "1123",
 "Inv": "269",
 "Hour": "52",
-"Minutes": "54",
+"Minutes": "55",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
