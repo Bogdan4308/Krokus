@@ -1,5 +1,5 @@
 {
-"Ad": "1137",
+"Ad": "1138",
 "Inv": "271",
 "Hour": "53",
 "Minutes": "13",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "273.863.882",
+"Earn": "273.913.802",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.204.220 (Norway, Innlandet, Jaren)",
 "InfoFamMembers": "24/451/10/true"
