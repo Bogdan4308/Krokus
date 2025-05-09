@@ -2,7 +2,7 @@
 "Ad": "987",
 "Inv": "242",
 "Hour": "52",
-"Minutes": "26",
+"Minutes": "27",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,8 +34,8 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "246.816.359",
+"Earn": "246.866.279",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.204.220 (Norway, Innlandet, Jaren)",
-"InfoFamMembers": "24/451/10/false"
+"InfoFamMembers": "24/451/10/true"
 }
