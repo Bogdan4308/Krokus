@@ -1,6 +1,6 @@
 {
 "Ad": "1051",
-"Inv": "255",
+"Inv": "256",
 "Hour": "52",
 "Minutes": "35",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "844",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "135",
+"CountVipPlayers": "136",
 "PosNotePadX": "625",
 "PosNotePadY": "937",
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "259.561.159",
+"Earn": "260.061.159",
 "MyTG": "@wmhan1",
 "MyIP": "217.170.204.220 (Norway, Innlandet, Jaren)",
 "InfoFamMembers": "24/451/10/true"
