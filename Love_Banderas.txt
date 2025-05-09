@@ -2,7 +2,7 @@
 "Ad": "972",
 "Inv": "239",
 "Hour": "51",
-"Minutes": "31",
+"Minutes": "32",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "243.557.955",
 "MyTG": "@wmhan1",
-"MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
+"MyIP": "217.170.204.220 (Norway, Innlandet, Jaren)",
 "InfoFamMembers": "24/451/10/true"
 }
