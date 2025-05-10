@@ -1,5 +1,5 @@
 {
-"Ad": "1194",
+"Ad": "1195",
 "Inv": "284",
 "Hour": "54",
 "Minutes": "52",
@@ -37,5 +37,5 @@
 "Earn": "286.318.766",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "24/451/10/false"
+"InfoFamMembers": "24/451/10/true"
 }
