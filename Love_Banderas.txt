@@ -2,7 +2,7 @@
 "Ad": "1195",
 "Inv": "297",
 "Hour": "55",
-"Minutes": "49",
+"Minutes": "50",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -37,5 +37,5 @@
 "Earn": "295.428.210",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "24/451/10/false"
+"InfoFamMembers": "24/451/10/true"
 }
