@@ -2,7 +2,7 @@
 "Ad": "1306",
 "Inv": "330",
 "Hour": "57",
-"Minutes": "44",
+"Minutes": "45",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "324.538.458",
+"Earn": "324.588.378",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.157 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "24/451/10/true"
