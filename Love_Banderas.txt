@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "365.966.633",
+"Earn": "366.466.633",
 "MyTG": "@wmhan1",
 "MyIP": "185.9.19.118 (Austria, Lower Austria, Pernitz)",
 "InfoFamMembers": "24/451/10/true"
