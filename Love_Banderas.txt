@@ -2,7 +2,7 @@
 "Ad": "1425",
 "Inv": "368",
 "Hour": "60",
-"Minutes": "8",
+"Minutes": "9",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфффііі), дс wmhan1",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "true",
 "Earn": "358.207.429",
 "MyTG": "@wmhan1",
-"MyIP": "192.162.210.101 (Ukraine, Odessa, Odesa)",
+"MyIP": "5.62.20.41 (Belgium, Brussels Capital, Watermael-Boitsfort)",
 "InfoFamMembers": "24/451/10/true"
 }
