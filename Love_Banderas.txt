@@ -2,7 +2,7 @@
 "Ad": "1429",
 "Inv": "371",
 "Hour": "61",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфффііі), дс wmhan1",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "11",
 "FontFamilyNotePad": "12",
 "StateNotePad": "true",
-"Earn": "359.907.109",
+"Earn": "359.966.633",
 "MyTG": "@wmhan1",
 "MyIP": "103.231.91.134 (New Zealand, Auckland, Auckland)",
 "InfoFamMembers": "24/451/10/false"
