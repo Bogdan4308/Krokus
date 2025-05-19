@@ -2,7 +2,7 @@
 "Ad": "6",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "24",
+"Minutes": "25",
 "TextAfterInv": "тг @Cannon2005 (Димончик), дс сannon238 ",
 "NickDep1": "",
 "NickDep2": "",
@@ -26,7 +26,7 @@
 "CheckNotTime5": "false",
 "PosX": "1350.2109704641",
 "PosY": "450",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
 "PosNotePadX": "83.333333333333",
@@ -37,5 +37,5 @@
 "Earn": "299.520",
 "MyTG": "@Cannon2005",
 "MyIP": "91.217.59.252 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
-"InfoFamMembers": "33333333333/500/6/false"
+"InfoFamMembers": "867.33333333333/303.33333333333/1/false"
 }
