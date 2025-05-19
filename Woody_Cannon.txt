@@ -1,5 +1,5 @@
 {
-"Ad": "1",
+"Ad": "2",
 "Inv": "0",
 "Hour": "0",
 "Minutes": "5",
@@ -34,8 +34,8 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "0",
+"Earn": "49.920",
 "MyTG": "@Cannon2005",
 "MyIP": "91.217.59.252 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
-"InfoFamMembers": "208.33333333333/500/6/false"
+"InfoFamMembers": "33333333333/500/6/false"
 }
