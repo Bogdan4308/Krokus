@@ -1,6 +1,6 @@
 {
 "Ad": "10",
-"Inv": "0",
+"Inv": "1",
 "Hour": "1",
 "Minutes": "45",
 "TextAfterInv": "тг @Cannon2005 (Димончик), дс сannon238 ",
@@ -28,13 +28,13 @@
 "PosY": "450",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "83.333333333333",
 "PosNotePadY": "450",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "558.724",
+"Earn": "1.058.724",
 "MyTG": "@Cannon2005",
 "MyIP": "91.217.59.252 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
