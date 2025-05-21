@@ -16,7 +16,7 @@
 "NotWithTimer5": "/vr :skull: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг t385",
 "TimeForNot1": "01:01",
 "TimeForNot2": "45:05",
-"TimeForNot3": "14:41",
+"TimeForNot3": "02:40",
 "TimeForNot4": "00:02",
 "TimeForNot5": "30:02",
 "CheckNotTime1": "true",
