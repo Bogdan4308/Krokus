@@ -2,7 +2,7 @@
 "Ad": "1973",
 "Inv": "524",
 "Hour": "85",
-"Minutes": "6",
+"Minutes": "7",
 "TextAfterInv": "Писать в чат /fam, добавлю в фам тг @wmhan1",
 "NickDep1": "Woody_Cannon",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "true",
-"Earn": "502.001.764",
+"Earn": "502.051.684",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.101 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "250/720/6/false"
