@@ -1,8 +1,8 @@
 {
 "Ad": "1993",
 "Inv": "527",
-"Hour": "85",
-"Minutes": "59",
+"Hour": "86",
+"Minutes": "1",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфііі)",
 "NickDep1": "Woody_Cannon",
 "NickDep2": "",
@@ -23,7 +23,7 @@
 "CheckNotTime2": "true",
 "CheckNotTime3": "true",
 "CheckNotTime4": "true",
-"CheckNotTime5": "false",
+"CheckNotTime5": "true",
 "PosX": "1630",
 "PosY": "816",
 "CheckedTax": "false",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "true",
-"Earn": "505.550.084",
+"Earn": "505.609.608",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.101 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "250/720/6/false"
