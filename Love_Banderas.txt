@@ -2,7 +2,7 @@
 "Ad": "1970",
 "Inv": "524",
 "Hour": "85",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "Писать в чат /fam, добавлю в фам тг @wmhan1",
 "NickDep1": "Woody_Cannon",
 "NickDep2": "",
