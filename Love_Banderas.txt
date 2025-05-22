@@ -3,7 +3,7 @@
 "Inv": "527",
 "Hour": "85",
 "Minutes": "51",
-"TextAfterInv": "Писать в чат /fam, добавлю в фам тг @wmhan1 (іііфііі)",
+"TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфііі)",
 "NickDep1": "Woody_Cannon",
 "NickDep2": "",
 "NickDep3": "",
