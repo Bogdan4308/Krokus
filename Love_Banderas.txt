@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [INFO] Закуп :nc::nd::nb: скидка 70 проц., АЗС :nb::nj: скидка 55 проц.",
 "NotWithTimer2": "/fam [INFO] Вместо рангов - донаты. Вирты будут суммироваться и отображаться в теге. ",
-"NotWithTimer3": "/fam [INFO] Стань легендой. Поддержать фаму: (инвентарь - семья - сем.кв - 5)",
+"NotWithTimer3": "/fam [INFO] Стань легендой и поддержи фаму: (инвентарь - семья - сем.кв - 5)",
 "NotWithTimer4": "/fam [INFO] Вибери себе сердечкo :u1fa77: :u1fa75: :u1f49c: :u1f9e1: :u1f49b:",
 "NotWithTimer5": "/fam [INFO] :u1f49a: :u1f5a4: :u1f90d: :u1f496: будет возле никнейма!",
 "TimeForNot1": "01:01",
