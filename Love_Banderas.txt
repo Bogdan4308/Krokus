@@ -28,7 +28,7 @@
 "PosY": "816",
 "CheckedTax": "false",
 "WindowStyle": "4",
-"CountVipPlayers": "264",
+"CountVipPlayers": "265",
 "PosNotePadX": "705",
 "PosNotePadY": "947",
 "FontSizeNotePad": "10",
