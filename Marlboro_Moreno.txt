@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "1",
+"Minutes": "2",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -26,7 +26,7 @@
 "CheckNotTime5": "false",
 "PosX": "1147.6793248945",
 "PosY": "384",
-"CheckedTax": "false",
+"CheckedTax": "true",
 "WindowStyle": "1",
 "CountVipPlayers": "0",
 "PosNotePadX": "70.833333333333",
@@ -35,7 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
+"MyTG": "@ilo4eolya",
 "MyIP": "46.119.38.210 (Ukraine, Dnipropetrovsk Oblast, Chortomlyk)",
 "InfoFamMembers": "177.08333333333/364.08888888889/6/false"
 }
