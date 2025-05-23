@@ -3,7 +3,7 @@
 "Inv": "1",
 "Hour": "0",
 "Minutes": "4",
-"TextAfterInv": "",
+"TextAfterInv": "@",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
@@ -37,5 +37,5 @@
 "Earn": "1.000.000",
 "MyTG": "@ilo4eolya",
 "MyIP": "46.119.38.210 (Ukraine, Dnipropetrovsk Oblast, Chortomlyk)",
-"InfoFamMembers": "177.08333333333/364.08888888889/6/false"
+"InfoFamMembers": "177.86458333333/364.08888888889/6/false"
 }
