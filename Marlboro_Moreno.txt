@@ -1,5 +1,5 @@
 {
-"Ad": "18",
+"Ad": "19",
 "Inv": "4",
 "Hour": "0",
 "Minutes": "45",
@@ -26,7 +26,7 @@
 "CheckNotTime5": "true",
 "PosX": "1147.6793248945",
 "PosY": "384",
-"CheckedTax": "true",
+"CheckedTax": "false",
 "WindowStyle": "1",
 "CountVipPlayers": "2",
 "PosNotePadX": "70.833333333333",
