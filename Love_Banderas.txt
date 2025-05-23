@@ -1,5 +1,5 @@
 {
-"Ad": "2280",
+"Ad": "2281",
 "Inv": "547",
 "Hour": "98",
 "Minutes": "33",
@@ -23,7 +23,7 @@
 "CheckNotTime2": "true",
 "CheckNotTime3": "true",
 "CheckNotTime4": "true",
-"CheckNotTime5": "false",
+"CheckNotTime5": "true",
 "PosX": "10",
 "PosY": "460",
 "CheckedTax": "false",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "true",
-"Earn": "536.650.934",
+"Earn": "536.700.854",
 "MyTG": "@wmhan1",
 "MyIP": "192.162.210.101 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "1233/1/7/false"
