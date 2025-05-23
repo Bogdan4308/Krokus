@@ -3,7 +3,7 @@
 "Inv": "5",
 "Hour": "1",
 "Minutes": "23",
-"TextAfterInv": "@ilo4eolya",
+"TextAfterInv": "п@ilo4eolya",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
