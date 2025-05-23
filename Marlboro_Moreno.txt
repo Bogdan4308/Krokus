@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "0",
+"Inv": "1",
 "Hour": "0",
 "Minutes": "2",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "384",
 "CheckedTax": "true",
 "WindowStyle": "1",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "70.833333333333",
 "PosNotePadY": "384",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "0",
+"Earn": "500.000",
 "MyTG": "@ilo4eolya",
 "MyIP": "46.119.38.210 (Ukraine, Dnipropetrovsk Oblast, Chortomlyk)",
 "InfoFamMembers": "177.08333333333/364.08888888889/6/false"
