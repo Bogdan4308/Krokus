@@ -1,8 +1,8 @@
 {
 "Ad": "44",
 "Inv": "6",
-"Hour": "3",
-"Minutes": "59",
+"Hour": "4",
+"Minutes": "0",
 "TextAfterInv": "добавлю в тг фами тг:@ilo4eolya",
 "NickDep1": "",
 "NickDep2": "",
