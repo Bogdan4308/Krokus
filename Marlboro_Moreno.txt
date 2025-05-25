@@ -1,8 +1,8 @@
 {
 "Ad": "174",
-"Inv": "12",
+"Inv": "13",
 "Hour": "12",
-"Minutes": "24",
+"Minutes": "25",
 "TextAfterInv": "добавлю в тг фамы : @ilo4eolya",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "21.900.366",
+"Earn": "22.400.366",
 "MyTG": "@ilo4eolya",
 "MyIP": "46.119.38.210 (Ukraine, Dnipropetrovsk Oblast, Chortomlyk)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
