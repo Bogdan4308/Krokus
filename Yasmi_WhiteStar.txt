@@ -2,7 +2,7 @@
 "Ad": "4",
 "Inv": "0",
 "Hour": "0",
-"Minutes": "56",
+"Minutes": "60",
 "TextAfterInv": "Добавлю в фам тг | @UmnyamCheck",
 "NickDep1": "",
 "NickDep2": "",
