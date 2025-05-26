@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "0",
 "Minutes": "2",
-"TextAfterInv": "Добавлю в фам тг @UmnyamCheck",
+"TextAfterInv": "Добавлю в фам тг |@UmnyamCheck",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
