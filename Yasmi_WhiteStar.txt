@@ -1,6 +1,6 @@
 {
 "Ad": "31",
-"Inv": "1",
+"Inv": "2",
 "Hour": "19",
 "Minutes": "59",
 "TextAfterInv": "Добавлю в фам тг | @UmnyamCheck",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "9",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "3.678.473",
+"Earn": "4.178.473",
 "MyTG": "@Umnyamcheck",
 "MyIP": "81.222.180.230 (Russia, Stavropol Kray, Stavropol)",
 "InfoFamMembers": "250/720/6/false"
