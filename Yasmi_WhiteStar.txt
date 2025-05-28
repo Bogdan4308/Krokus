@@ -2,7 +2,7 @@
 "Ad": "25",
 "Inv": "0",
 "Hour": "17",
-"Minutes": "13",
+"Minutes": "14",
 "TextAfterInv": "Добавлю в фам тг | @UmnyamCheck",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.209.985",
+"Earn": "2.259.905",
 "MyTG": "@Umnyamcheck",
 "MyIP": "81.222.180.230 (Russia, Stavropol Kray, Stavropol)",
 "InfoFamMembers": "250/720/6/false"
