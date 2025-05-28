@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "4.178.473",
+"Earn": "4.678.473",
 "MyTG": "@Umnyamcheck",
 "MyIP": "81.222.180.230 (Russia, Stavropol Kray, Stavropol)",
 "InfoFamMembers": "250/720/6/false"
