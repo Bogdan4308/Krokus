@@ -1,8 +1,8 @@
 {
 "Ad": "24",
 "Inv": "0",
-"Hour": "16",
-"Minutes": "59",
+"Hour": "17",
+"Minutes": "0",
 "TextAfterInv": "Добавлю в фам тг | @UmnyamCheck",
 "NickDep1": "",
 "NickDep2": "",
