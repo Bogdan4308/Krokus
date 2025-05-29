@@ -6,7 +6,7 @@
 "TextAfterInv": "Добавлю в фам тг /@wmhan1 (іііфііі)",
 "NickDep1": "Marlboro_Banderas",
 "NickDep2": "Yasmi_WhiteStar",
-"NickDep3": "Love_Banderas",
+"NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [INFO] Закуп :nc::nd::nb: скидка 70 проц., АЗС :nb::nj: скидка 55 проц.",
