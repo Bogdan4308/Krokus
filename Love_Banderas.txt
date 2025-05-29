@@ -4,7 +4,7 @@
 "Hour": "124",
 "Minutes": "27",
 "TextAfterInv": "Добавлю в фам тг /@wmhan1 (іііфііі)",
-"NickDep1": "Marlboro_Moreno",
+"NickDep1": "",
 "NickDep2": "Yasmi_WhiteStar",
 "NickDep3": "",
 "StateMainWindow": "true",
