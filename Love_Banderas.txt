@@ -1,6 +1,6 @@
 {
 "Ad": "3084",
-"Inv": "588",
+"Inv": "589",
 "Hour": "129",
 "Minutes": "27",
 "TextAfterInv": "Добавлю в фам тг /@wmhan1 (іііфііі)",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "true",
-"Earn": "610.131.852",
+"Earn": "610.631.852",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "1233/1/7/false"
