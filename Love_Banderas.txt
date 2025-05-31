@@ -29,13 +29,13 @@
 "CheckedTax": "false",
 "WindowStyle": "7",
 "CountVipPlayers": "300",
-"PosNotePadX": "705",
-"PosNotePadY": "947",
+"PosNotePadX": "537",
+"PosNotePadY": "591",
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
-"StateNotePad": "true",
+"StateNotePad": "false",
 "Earn": "631.544.023",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "320/453/7/true"
+"InfoFamMembers": "902/325/7/true"
 }
