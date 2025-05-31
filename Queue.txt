@@ -2,4 +2,3 @@
 Hornet_Dope(inv)
 Saom_Danoli(инв)
 Antony_Rodriges(inv)
-Hektor_Salamanca(inv)
