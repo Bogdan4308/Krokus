@@ -1,6 +1,5 @@
 
 Hornet_Dope(inv)
-Saom_Danoli(инв)
 Antony_Rodriges(inv)
 NaVechnom_Curse(inv)
 Egor_Gitate(inv)
