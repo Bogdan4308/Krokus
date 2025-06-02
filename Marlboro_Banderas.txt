@@ -2,7 +2,7 @@
 "Ad": "293",
 "Inv": "32",
 "Hour": "20",
-"Minutes": "24",
+"Minutes": "25",
 "TextAfterInv": "добавлю в фам тг: @ilo4eolya",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "43.267.117",
+"Earn": "43.317.037",
 "MyTG": "@ilo4eolya",
 "MyIP": "37.115.21.27 (Ukraine, Dnipropetrovsk Oblast, Kamianske)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
