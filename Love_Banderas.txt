@@ -2,7 +2,7 @@
 "Ad": "4300",
 "Inv": "618",
 "Hour": "140",
-"Minutes": "24",
+"Minutes": "25",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфііі)",
 "NickDep1": "Marlboro_Banderas",
 "NickDep2": "Yasmi_WhiteStar",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "false",
-"Earn": "695.439.414",
+"Earn": "695.489.334",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "40/455/7/false"
