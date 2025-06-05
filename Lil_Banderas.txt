@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "/fam [Info] Збираємо 80ккк на ОРГУ, всі донати важливі, всі суми записую!",
 "NotWithTimer2": "/fam [Info] Ваші донати будуть в фам скріпті на вашому Балансі, більше інфи в DS!",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "6.219.791",
+"Earn": "6.269.711",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
