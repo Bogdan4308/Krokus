@@ -1,6 +1,6 @@
 {
 "Ad": "344",
-"Inv": "39",
+"Inv": "40",
 "Hour": "29",
 "Minutes": "14",
 "TextAfterInv": "добавлю в фам тг: @ilo4eolya",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "55.398.671",
+"Earn": "55.898.671",
 "MyTG": "@ilo4eolya",
 "MyIP": "46.118.214.52 (Ukraine, Kyiv City, Kiev)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
