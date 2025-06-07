@@ -1,6 +1,6 @@
 {
 "Ad": "153",
-"Inv": "7",
+"Inv": "8",
 "Hour": "5",
 "Minutes": "55",
 "TextAfterInv": "Добавлю в фам тг @choBIZMARK",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "6",
+"CountVipPlayers": "7",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "17.435.380",
+"Earn": "17.935.380",
 "MyTG": "@choBIZMARK",
 "MyIP": "93.181.243.36 (Russia, Tver Oblast, Ostashkov)",
 "InfoFamMembers": "250/720/6/false"
