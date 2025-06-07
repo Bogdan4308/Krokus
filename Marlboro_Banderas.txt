@@ -1,5 +1,5 @@
 {
-"Ad": "347",
+"Ad": "348",
 "Inv": "41",
 "Hour": "29",
 "Minutes": "33",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "56.998.511",
+"Earn": "57.048.431",
 "MyTG": "@ilo4eolya",
 "MyIP": "46.118.214.52 (Ukraine, Kyiv City, Kiev)",
 "InfoFamMembers": "177.86458333333/364.08888888889/6/false"
