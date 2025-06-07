@@ -1,6 +1,5 @@
 
 Hornet_Dope(inv)
-Antony_Rodriges(inv)
 Mitya_Saharkov(1)
 Night_Acehart(1)
 Eugen_Thugger(1)
