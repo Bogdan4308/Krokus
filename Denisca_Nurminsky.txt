@@ -1,5 +1,5 @@
 {
-"Ad": "53",
+"Ad": "54",
 "Inv": "2",
 "Hour": "2",
 "Minutes": "10",
@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "false",
 "StateAddWindow": "false",
-"NotWithTimer1": "[INFO] Собираем на лимитку 2.2\",
+"NotWithTimer1": "[INFO] Собираем на лимитку 2.530ккк/10ккк",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
