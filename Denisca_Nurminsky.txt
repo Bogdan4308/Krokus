@@ -1,5 +1,5 @@
 {
-"Ad": "24",
+"Ad": "25",
 "Inv": "1",
 "Hour": "0",
 "Minutes": "47",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.148.160",
+"Earn": "2.198.080",
 "MyTG": "@choBIZMARK",
 "MyIP": "188.43.112.51 (Russia, Kostroma Oblast, Kostroma)",
 "InfoFamMembers": "250/720/6/false"
