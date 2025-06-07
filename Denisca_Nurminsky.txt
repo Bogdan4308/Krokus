@@ -1,5 +1,5 @@
 {
-"Ad": "52",
+"Ad": "53",
 "Inv": "2",
 "Hour": "2",
 "Minutes": "9",
@@ -9,7 +9,7 @@
 "NickDep3": "",
 "StateMainWindow": "false",
 "StateAddWindow": "false",
-"NotWithTimer1": "",
+"NotWithTimer1": "[",
 "NotWithTimer2": "",
 "NotWithTimer3": "",
 "NotWithTimer4": "",
