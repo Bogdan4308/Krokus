@@ -2,7 +2,7 @@
 "Ad": "4528",
 "Inv": "623",
 "Hour": "143",
-"Minutes": "54",
+"Minutes": "55",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфііі)",
 "NickDep1": "Marlboro_Banderas",
 "NickDep2": "",
