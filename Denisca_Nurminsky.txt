@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "44",
+"Minutes": "45",
 "TextAfterInv": "Добавлю в фам тг @choBIZMARK",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "119.048",
 "MyTG": "@choBIZMARK",
-"MyIP": "93.181.243.36 (Russia, Tver Oblast, Ostashkov)",
+"MyIP": "85.113.213.163 (Russia, Kostroma Oblast, Kostroma)",
 "InfoFamMembers": "250/720/6/false"
 }
