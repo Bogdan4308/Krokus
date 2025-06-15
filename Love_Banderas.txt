@@ -1,5 +1,5 @@
 {
-"Ad": "4996",
+"Ad": "4997",
 "Inv": "642",
 "Hour": "150",
 "Minutes": "40",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "false",
-"Earn": "752.278.972",
+"Earn": "752.328.892",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "40/455/7/true"
