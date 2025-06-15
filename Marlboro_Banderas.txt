@@ -2,7 +2,7 @@
 "Ad": "387",
 "Inv": "44",
 "Hour": "33",
-"Minutes": "46",
+"Minutes": "47",
 "TextAfterInv": "добавлю в фам тг: @ilo4eolya",
 "NickDep1": "",
 "NickDep2": "",
