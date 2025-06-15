@@ -2,7 +2,7 @@
 "Ad": "18",
 "Inv": "0",
 "Hour": "31",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "тг @Cannon2005 (Димончик), дс сannon238 ",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.684.275",
+"Earn": "2.743.799",
 "MyTG": "@Cannon2005",
 "MyIP": "91.217.58.11 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
