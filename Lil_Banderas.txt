@@ -23,7 +23,7 @@
 "CheckNotTime2": "false",
 "CheckNotTime3": "false",
 "CheckNotTime4": "false",
-"CheckNotTime5": "false",
+"CheckNotTime5": "true",
 "PosX": "44",
 "PosY": "453",
 "CheckedTax": "false",
