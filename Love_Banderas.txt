@@ -5,7 +5,7 @@
 "Minutes": "8",
 "TextAfterInv": "Добавлю в фам тг @wmhan1 (іііфііі)",
 "NickDep1": "Marlboro_Banderas",
-"NickDep2": "Denisca_Nurminsky",
+"NickDep2": "",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
