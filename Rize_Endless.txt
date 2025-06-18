@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.099.840",
+"Earn": "1.599.840",
 "MyTG": "",
 "MyIP": "5.173.172.66 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
