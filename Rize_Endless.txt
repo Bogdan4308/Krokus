@@ -1,6 +1,6 @@
 {
 "Ad": "6",
-"Inv": "3",
+"Inv": "4",
 "Hour": "1",
 "Minutes": "4",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "2",
+"CountVipPlayers": "3",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.809.124",
+"Earn": "3.359.044",
 "MyTG": "@Dandi228",
 "MyIP": "5.173.172.66 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
