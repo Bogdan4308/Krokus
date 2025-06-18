@@ -3,7 +3,7 @@
 "Inv": "652",
 "Hour": "156",
 "Minutes": "53",
-"TextAfterInv": "Добавлю в фам тг wmhan1 іііфіііі",
+"TextAfterInv": "Добавлю в фам тг wmhan1 (00іііфіііі",
 "NickDep1": "Marlboro_Banderas",
 "NickDep2": "",
 "NickDep3": "",
