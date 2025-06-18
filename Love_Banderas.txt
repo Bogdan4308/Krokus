@@ -2,7 +2,7 @@
 "Ad": "5280",
 "Inv": "652",
 "Hour": "156",
-"Minutes": "44",
+"Minutes": "45",
 "TextAfterInv": "",
 "NickDep1": "Marlboro_Banderas",
 "NickDep2": "",
