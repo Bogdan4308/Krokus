@@ -1,6 +1,6 @@
 {
 "Ad": "2",
-"Inv": "2",
+"Inv": "3",
 "Hour": "0",
 "Minutes": "57",
 "TextAfterInv": "",
@@ -28,14 +28,14 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.599.840",
-"MyTG": "",
+"Earn": "2.099.840",
+"MyTG": "@Dandi228",
 "MyIP": "5.173.172.66 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
 }
