@@ -5,7 +5,7 @@
 "Minutes": "1",
 "TextAfterInv": "Добавлю в фам тг wmhan1 (іііфіііі)",
 "NickDep1": "Marlboro_Banderas",
-"NickDep2": "",
+"NickDep2": "Rize_Endless",
 "NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
