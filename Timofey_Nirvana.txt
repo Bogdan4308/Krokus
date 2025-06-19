@@ -2,7 +2,7 @@
 "Ad": "144",
 "Inv": "8",
 "Hour": "5",
-"Minutes": "50",
+"Minutes": "51",
 "TextAfterInv": "Добавлю в фам тг @Lev_Trump",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "16.436.180",
+"Earn": "16.486.100",
 "MyTG": "@Lev_Trump",
 "MyIP": "178.178.197.200 (Russia, Bryansk Oblast, Bryansk)",
 "InfoFamMembers": "250/720/6/false"
