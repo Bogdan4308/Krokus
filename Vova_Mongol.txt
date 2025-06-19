@@ -3,7 +3,7 @@
 "Inv": "0",
 "Hour": "1",
 "Minutes": "4",
-"TextAfterInv": "Добавлю в фам чат ",
+"TextAfterInv": "Добавлю в фам чат @Т",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
