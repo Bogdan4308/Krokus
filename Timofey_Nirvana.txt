@@ -1,5 +1,5 @@
 {
-"Ad": "62",
+"Ad": "63",
 "Inv": "3",
 "Hour": "1",
 "Minutes": "49",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "5.604.644",
+"Earn": "5.654.564",
 "MyTG": "@Lev_Trump",
 "MyIP": "178.178.197.200 (Russia, Bryansk Oblast, Bryansk)",
 "InfoFamMembers": "250/720/6/false"
