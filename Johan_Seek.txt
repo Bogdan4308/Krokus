@@ -2,7 +2,7 @@
 "Ad": "56",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "12",
+"Minutes": "13",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "2.805.124",
+"Earn": "2.855.044",
 "MyTG": "@Draydor",
 "MyIP": "37.212.27.253 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
