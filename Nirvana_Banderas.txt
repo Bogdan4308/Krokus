@@ -1,8 +1,8 @@
 {
 "Ad": "25",
 "Inv": "1",
-"Hour": "1",
-"Minutes": "59",
+"Hour": "2",
+"Minutes": "0",
 "TextAfterInv": "Добавлю в фам тг @Lev_Trump",
 "NickDep1": "",
 "NickDep2": "",
