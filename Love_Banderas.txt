@@ -2,7 +2,7 @@
 "Ad": "5436",
 "Inv": "657",
 "Hour": "169",
-"Minutes": "42",
+"Minutes": "43",
 "TextAfterInv": "Добавлю в фам тг и дс @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Rize_Endless",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
 "StateNotePad": "true",
-"Earn": "786.374.724",
+"Earn": "786.424.644",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "40/455/7/true"
