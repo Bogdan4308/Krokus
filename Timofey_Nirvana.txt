@@ -2,7 +2,7 @@
 "Ad": "166",
 "Inv": "8",
 "Hour": "6",
-"Minutes": "56",
+"Minutes": "57",
 "TextAfterInv": "Добавлю в фам тг @Lev_Trump",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "17.593.943",
+"Earn": "17.643.863",
 "MyTG": "@Lev_Trump",
 "MyIP": "178.178.87.154 (Russia, Nizhny Novgorod Oblast, Nizhniy Novgorod)",
 "InfoFamMembers": "250/720/6/false"
