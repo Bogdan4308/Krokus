@@ -2,7 +2,7 @@
 "Ad": "4",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "23",
+"Minutes": "24",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "318.728",
 "MyTG": "@Dandi228",
-"MyIP": "46.113.12.112 (Poland, Mazovia, Żoliborz)",
+"MyIP": "5.173.152.49 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
 }
