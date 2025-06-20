@@ -1,6 +1,6 @@
 {
 "Ad": "60",
-"Inv": "3",
+"Inv": "4",
 "Hour": "6",
 "Minutes": "22",
 "TextAfterInv": "Добавлю в фам чат @N1romm",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "2",
-"CountVipPlayers": "1",
+"CountVipPlayers": "2",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "5.352.343",
+"Earn": "5.852.343",
 "MyTG": "@N1romm",
 "MyIP": "46.229.60.37 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
