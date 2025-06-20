@@ -1,5 +1,5 @@
 {
-"Ad": "17",
+"Ad": "18",
 "Inv": "1",
 "Hour": "1",
 "Minutes": "19",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.858.244",
+"Earn": "1.908.164",
 "MyTG": "@Lev_Trump",
 "MyIP": "178.178.87.154 (Russia, Nizhny Novgorod Oblast, Nizhniy Novgorod)",
 "InfoFamMembers": "250/720/6/false"
