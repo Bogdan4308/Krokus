@@ -2,7 +2,7 @@
 "Ad": "199",
 "Inv": "0",
 "Hour": "6",
-"Minutes": "40",
+"Minutes": "41",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "13.291.223",
 "MyTG": "@Draydor",
-"MyIP": "37.212.27.253 (Belarus, Vitebsk, Vitebsk)",
+"MyIP": "37.212.33.253 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
 }
