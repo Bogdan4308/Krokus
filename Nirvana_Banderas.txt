@@ -1,6 +1,6 @@
 {
 "Ad": "7",
-"Inv": "0",
+"Inv": "1",
 "Hour": "0",
 "Minutes": "30",
 "TextAfterInv": "Добавлю в фам тг @Lev_Trump",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "7",
-"CountVipPlayers": "0",
+"CountVipPlayers": "1",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "349.440",
+"Earn": "849.440",
 "MyTG": "@Lev_Trump",
 "MyIP": "178.178.87.154 (Russia, Nizhny Novgorod Oblast, Nizhniy Novgorod)",
 "InfoFamMembers": "250/720/6/false"
