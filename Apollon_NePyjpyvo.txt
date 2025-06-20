@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "91",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "5.357.143",
+"Earn": "5.416.667",
 "MyTG": "@plavjk",
 "MyIP": "176.8.143.209 (Ukraine, Chernihiv, Chernihiv)",
 "InfoFamMembers": "250/720/20/false"
