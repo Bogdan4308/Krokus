@@ -2,7 +2,7 @@
 "Ad": "5468",
 "Inv": "658",
 "Hour": "170",
-"Minutes": "8",
+"Minutes": "9",
 "TextAfterInv": "Добавлю в фам тг и дс @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Rize_Endless",
