@@ -1,5 +1,5 @@
 {
-"Ad": "62",
+"Ad": "63",
 "Inv": "4",
 "Hour": "6",
 "Minutes": "24",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "6.402.263",
+"Earn": "6.452.183",
 "MyTG": "@N1romm",
 "MyIP": "46.229.60.37 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
