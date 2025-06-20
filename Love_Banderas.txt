@@ -4,7 +4,7 @@
 "Hour": "167",
 "Minutes": "25",
 "TextAfterInv": "Добавлю в фам тг и дс @wmhan1",
-"NickDep1": "",
+"NickDep1": "Nirvana_Banderas",
 "NickDep2": "Rize_Endless",
 "NickDep3": "Vova_Mongol",
 "StateMainWindow": "true",
