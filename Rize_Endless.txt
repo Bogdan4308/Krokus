@@ -1,5 +1,5 @@
 {
-"Ad": "11",
+"Ad": "12",
 "Inv": "0",
 "Hour": "6",
 "Minutes": "40",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "856.343",
+"Earn": "906.263",
 "MyTG": "@Dandi228",
 "MyIP": "5.173.152.49 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
