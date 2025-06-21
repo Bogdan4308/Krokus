@@ -2,7 +2,7 @@
 "Ad": "619",
 "Inv": "5",
 "Hour": "20",
-"Minutes": "5",
+"Minutes": "6",
 "TextAfterInv": "Добавлю в Фам ТГ - @Draydor",
 "NickDep1": "",
 "NickDep2": "",
