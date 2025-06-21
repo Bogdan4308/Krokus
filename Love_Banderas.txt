@@ -9,7 +9,7 @@
 "NickDep3": "Vova_Mongol",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [INFO] Теги — это рейтинг донатеров и фам-кошельки. Вывод — через 10-9 при необходимости.",
+"NotWithTimer1": "/fam [INFO] Теги — это рейтинг донатеров и фам-кошельки. Вывод через 10-9 при необходимости.",
 "NotWithTimer2": "/fam [INFO] :sparkles:KOSMOS 20 кк, ",
 "NotWithTimer3": "/fam [INFO] :u1fabd:GODMODE от 100кк (тут и више бронь на мут и кик), ",
 "NotWithTimer4": "/fam [INFO] :u1f4ab:LEGEND от 750кк, :diamonds:MONARH от 1.5ккк.",
