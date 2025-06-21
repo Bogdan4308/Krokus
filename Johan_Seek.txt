@@ -1,5 +1,5 @@
 {
-"Ad": "517",
+"Ad": "518",
 "Inv": "2",
 "Hour": "16",
 "Minutes": "59",
@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "false",
 "NotWithTimer1": "/fam [INFO] Полицейские не трогают софамов. Нарушение - варн или кик",
 "NotWithTimer2": "/fam [INFO] За привидение человека в фаму ( c 15 lvl) - платим 2кк, а ему 1кк",
