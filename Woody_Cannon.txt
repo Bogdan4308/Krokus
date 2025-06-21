@@ -2,7 +2,7 @@
 "Ad": "19",
 "Inv": "19",
 "Hour": "63",
-"Minutes": "19",
+"Minutes": "20",
 "TextAfterInv": "тг @Cannon2005 (Димончик), дс сannon238 ",
 "NickDep1": "",
 "NickDep2": "",
