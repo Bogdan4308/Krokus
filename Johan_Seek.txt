@@ -1,5 +1,5 @@
 {
-"Ad": "582",
+"Ad": "583",
 "Inv": "4",
 "Hour": "19",
 "Minutes": "34",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "42.634.473",
+"Earn": "42.684.393",
 "MyTG": "@Draydor",
 "MyIP": "37.212.35.253 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
