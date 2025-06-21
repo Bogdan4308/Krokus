@@ -1,6 +1,6 @@
 {
 "Ad": "603",
-"Inv": "4",
+"Inv": "5",
 "Hour": "19",
 "Minutes": "45",
 "TextAfterInv": "Добавлю в Фам ТГ - @Draydor",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "9",
-"CountVipPlayers": "3",
+"CountVipPlayers": "4",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "43.732.713",
+"Earn": "44.232.713",
 "MyTG": "@Draydor",
 "MyIP": "37.212.35.253 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
