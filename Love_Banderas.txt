@@ -9,7 +9,7 @@
 "NickDep3": "Vova_Mongol",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
-"NotWithTimer1": "/fam [INFO] За выполнение сем. квестов платим — 2кк. Скрины с /time в ТГ + отметить 10-9.",
+"NotWithTimer1": "/fam [INFO] За выполнение сем. квестов платим — 2кк. Скрины с /time в ТГ, отметить 10-9.",
 "NotWithTimer2": "/fam [INFO] :sparkles:KOSMOS 20 кк, ",
 "NotWithTimer3": "/fam [INFO] :u1fabd:GODMODE от 100кк (тут и више бронь на мут и кик), ",
 "NotWithTimer4": "/fam [INFO] :u1f4ab:LEGEND от 750кк, :diamonds:MONARH от 1.5ккк.",
