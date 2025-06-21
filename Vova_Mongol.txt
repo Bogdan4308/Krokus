@@ -2,7 +2,7 @@
 "Ad": "153",
 "Inv": "9",
 "Hour": "16",
-"Minutes": "56",
+"Minutes": "57",
 "TextAfterInv": "Добавлю в фам чат @N1romm",
 "NickDep1": "",
 "NickDep2": "",
