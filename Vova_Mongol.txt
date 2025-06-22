@@ -1,8 +1,8 @@
 {
-"Ad": "49",
+"Ad": "50",
 "Inv": "1",
 "Hour": "3",
-"Minutes": "6",
+"Minutes": "7",
 "TextAfterInv": "Добавлю в фам чат @N1romm",
 "NickDep1": "",
 "NickDep2": "",
