@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "52.649.684",
+"Earn": "53.149.684",
 "MyTG": "@Draydor",
 "MyIP": "37.212.24.97 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
