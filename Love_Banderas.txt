@@ -16,7 +16,7 @@
 "NotWithTimer5": "/fam [INFO]",
 "TimeForNot1": "58:00",
 "TimeForNot2": "54:01",
-"TimeForNot3": "14:03",
+"TimeForNot3": "54:02",
 "TimeForNot4": "14:04",
 "TimeForNot5": "14:05",
 "CheckNotTime1": "false",
