@@ -1,6 +1,6 @@
 {
 "Ad": "0",
-"Inv": "18",
+"Inv": "19",
 "Hour": "3",
 "Minutes": "26",
 "TextAfterInv": "",
@@ -28,13 +28,13 @@
 "PosY": "432",
 "CheckedTax": "false",
 "WindowStyle": "1",
-"CountVipPlayers": "3",
+"CountVipPlayers": "4",
 "PosNotePadX": "60",
 "PosNotePadY": "432",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "10.678.572",
+"Earn": "11.178.572",
 "MyTG": "",
 "MyIP": "46.165.9.165 (Russia, Sverdlovsk Oblast, Nizhny Tagil)",
 "InfoFamMembers": "150/460.8/6/false"
