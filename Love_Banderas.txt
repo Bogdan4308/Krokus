@@ -3,7 +3,7 @@
 "Inv": "663",
 "Hour": "174",
 "Minutes": "6",
-"TextAfterInv": "L",
+"TextAfterInv": "Добавлю в фам тг",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Rize_Endless",
 "NickDep3": "Vova_Mongol",
