@@ -33,7 +33,7 @@
 "PosNotePadY": "948",
 "FontSizeNotePad": "10",
 "FontFamilyNotePad": "5",
-"StateNotePad": "true",
+"StateNotePad": "false",
 "Earn": "710.602.511",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
