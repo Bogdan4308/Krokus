@@ -1,5 +1,5 @@
 {
-"Ad": "5798",
+"Ad": "5799",
 "Inv": "666",
 "Hour": "176",
 "Minutes": "7",
@@ -7,7 +7,7 @@
 "NickDep1": "Johan_Seek",
 "NickDep2": "Rize_Endless",
 "NickDep3": "Vova_Mongol",
-"StateMainWindow": "true",
+"StateMainWindow": "false",
 "StateAddWindow": "true",
 "NotWithTimer1": "/fam [INFO] Хотите помочь фаме? Пополните свой депозит до 200кк — это увеличит и ваш доход.",
 "NotWithTimer2": "/fam [INFO] Покупаем ранги. Для красоты и статуса — :sparkles:KOSMOS 20 кк, ",
