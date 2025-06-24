@@ -35,7 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "714.286",
-"MyTG": "",
+"MyTG": "@wmhan1",
 "MyIP": "91.217.58.11 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
 }
