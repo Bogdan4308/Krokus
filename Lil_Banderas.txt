@@ -3,7 +3,7 @@
 "Inv": "6",
 "Hour": "24",
 "Minutes": "32",
-"TextAfterInv": "Я добавлю вас в телеграм и в дискор TG:@Leonardo_1437",
+"TextAfterInv": "Я добавлю вас в телеграм и в дискорд TG:@Leonardo_1437",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
