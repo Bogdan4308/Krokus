@@ -3,7 +3,7 @@
 "Inv": "6",
 "Hour": "24",
 "Minutes": "32",
-"TextAfterInv": "",
+"TextAfterInv": "Я добавлю вас в телеграммы и в каналы Dyscord TG:@Leonardo_1437",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
