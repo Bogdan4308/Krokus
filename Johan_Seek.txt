@@ -2,7 +2,7 @@
 "Ad": "944",
 "Inv": "10",
 "Hour": "38",
-"Minutes": "25",
+"Minutes": "26",
 "TextAfterInv": "Добавлю в Фам ТГ - @Draydor",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "58.672.865",
 "MyTG": "@Draydor",
-"MyIP": "37.212.24.15 (Belarus, Vitebsk, Vitebsk)",
+"MyIP": "37.212.22.15 (Belarus, Vitebsk, Vitebsk)",
 "InfoFamMembers": "250/720/6/false"
 }
