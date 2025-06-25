@@ -1,5 +1,5 @@
 {
-"Ad": "7",
+"Ad": "8",
 "Inv": "1",
 "Hour": "0",
 "Minutes": "22",
@@ -27,7 +27,7 @@
 "PosX": "1620.253164557",
 "PosY": "540",
 "CheckedTax": "true",
-"WindowStyle": "7",
+"WindowStyle": "9",
 "CountVipPlayers": "0",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
