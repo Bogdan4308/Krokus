@@ -1,6 +1,6 @@
 {
 "Ad": "30",
-"Inv": "3",
+"Inv": "4",
 "Hour": "23",
 "Minutes": "8",
 "TextAfterInv": "Додам вас в телеграм і в діскорд канали tg:@Leonardo_1437",
@@ -28,13 +28,13 @@
 "PosY": "453",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "3",
+"CountVipPlayers": "4",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "5.866.648",
+"Earn": "6.366.648",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Cherkasy Oblast, Cherkasy)",
 "InfoFamMembers": "250/720/6/false"
