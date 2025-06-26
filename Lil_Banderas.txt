@@ -1,5 +1,5 @@
 {
-"Ad": "139",
+"Ad": "140",
 "Inv": "21",
 "Hour": "30",
 "Minutes": "3",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "23.137.635",
+"Earn": "23.185.475",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Cherkasy Oblast, Cherkasy)",
 "InfoFamMembers": "250/720/6/false"
