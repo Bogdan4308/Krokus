@@ -2,7 +2,7 @@
 "Ad": "1",
 "Inv": "0",
 "Hour": "1",
-"Minutes": "2",
+"Minutes": "3",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "109.444",
 "MyTG": "",
-"MyIP": "46.112.0.69 (Poland, West Pomerania, Połczyn-Zdrój)",
+"MyIP": "46.113.8.77 (Poland, Mazovia, Warsaw)",
 "InfoFamMembers": "250/720/6/false"
 }
