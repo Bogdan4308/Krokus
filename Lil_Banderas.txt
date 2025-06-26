@@ -2,7 +2,7 @@
 "Ad": "167",
 "Inv": "24",
 "Hour": "31",
-"Minutes": "34",
+"Minutes": "35",
 "TextAfterInv": "добавлю вас в телеграм и в дискорд канал TG:@Leonardo_1437",
 "NickDep1": "",
 "NickDep2": "",
