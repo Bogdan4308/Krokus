@@ -1,6 +1,6 @@
 {
 "Ad": "134",
-"Inv": "3",
+"Inv": "4",
 "Hour": "7",
 "Minutes": "37",
 "TextAfterInv": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "11.605.947",
+"Earn": "12.105.947",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "188.163.38.224 (Ukraine, Lvivska Oblast, Lviv)",
 "InfoFamMembers": "250/720/1/false"
