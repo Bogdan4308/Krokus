@@ -2,7 +2,7 @@
 "Ad": "131",
 "Inv": "21",
 "Hour": "29",
-"Minutes": "41",
+"Minutes": "42",
 "TextAfterInv": "добавлю вас в телеграм и в дискорд канал TG:@Leonardo_1437",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "22.695.391",
+"Earn": "22.743.231",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Cherkasy Oblast, Cherkasy)",
 "InfoFamMembers": "250/720/6/false"
