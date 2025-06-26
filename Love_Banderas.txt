@@ -6,7 +6,7 @@
 "TextAfterInv": "Добавлю в фам тг и дс | @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Rize_Endless",
-"NickDep3": "Vova_Mongol",
+"NickDep3": "",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
