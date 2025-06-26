@@ -6,7 +6,7 @@
 "TextAfterInv": "Добавлю в фам тг и дс | @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Lil_Banderas",
-"NickDep3": "",
+"NickDep3": "Matteo_Banderas",
 "StateMainWindow": "true",
 "StateAddWindow": "true",
 "NotWithTimer1": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
