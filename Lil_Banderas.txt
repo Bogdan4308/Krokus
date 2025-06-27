@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "34.607.250",
+"Earn": "34.857.250",
 "MyTG": "@Leonardo_1437",
 "MyIP": "77.52.13.127 (Ukraine, Cherkasy Oblast, Cherkasy)",
 "InfoFamMembers": "250/720/6/false"
