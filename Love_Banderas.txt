@@ -13,7 +13,7 @@
 "NotWithTimer2": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
 "NotWithTimer3": "/fam [INFO] Поддержите фаму донатом (Cем. меню — Денег на складе — Пополнить)",
 "NotWithTimer4": "/fam [INFO] Добавляйтесь в фам DS. Инвентарь — Семья — Discord — Открыть ссылку",
-"NotWithTimer5": "/fam [INFO] ",
+"NotWithTimer5": "/fam [INFO] Зафуль депозит на 200кк — это принесёт доход и тебе, и поможет фаме.",
 "TimeForNot1": "30:02",
 "TimeForNot2": "00:02",
 "TimeForNot3": "05:02",
