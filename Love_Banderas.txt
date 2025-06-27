@@ -11,7 +11,7 @@
 "StateAddWindow": "true",
 "NotWithTimer1": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
 "NotWithTimer2": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
-"NotWithTimer3": "/vr  :lb::la::ln::ld::le::lr::la::ls: Легендарная фама BANDERAS ждет тебя! FULL, X2, ArzTow, Флаг. t385",
+"NotWithTimer3": "/fam [INFO] Добавляйтесь в фам DS. Инвентарь — Семья — Discord — Открыть ссылку",
 "NotWithTimer4": "/fam [INFO] Добавляйтесь в фам DS. Инвентарь — Семья — Discord — Открыть ссылку",
 "NotWithTimer5": "/fam [INFO] Закуп :nc::nd::nb: 70проц скидка, АЗС :nb::nj: 50проц скидка /findibiz id",
 "TimeForNot1": "30:02",
