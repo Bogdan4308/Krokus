@@ -15,7 +15,7 @@
 "NotWithTimer4": "/fam [INFO] Добавляйтесь в фам DS. Инвентарь — Семья — Discord — Открыть ссылку",
 "NotWithTimer5": "/fam [INFO] Зафуль депозит на 200кк — это принесёт доход и тебе, и поможет фаме.",
 "TimeForNot1": "30:02",
-"TimeForNot2": "00:02",
+"TimeForNot2": "00:03",
 "TimeForNot3": "05:02",
 "TimeForNot4": "08:02",
 "TimeForNot5": "11:02",
