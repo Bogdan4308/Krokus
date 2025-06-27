@@ -14,7 +14,7 @@
 "NotWithTimer3": "/fam [INFO] Поддержите фаму донатом (Cем. меню — Денег на складе — Пополнить)",
 "NotWithTimer4": "/fam [INFO] Добавляйтесь в фам DS. Инвентарь — Семья — Discord — Открыть ссылку",
 "NotWithTimer5": "/fam [INFO] Зафуль депозит на 200кк — это принесёт доход и тебе, и поможет фаме.",
-"TimeForNot1": "30:02",
+"TimeForNot1": "30:03",
 "TimeForNot2": "00:03",
 "TimeForNot3": "05:02",
 "TimeForNot4": "08:02",
