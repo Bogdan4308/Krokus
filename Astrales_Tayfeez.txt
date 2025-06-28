@@ -2,7 +2,7 @@
 "Ad": "123",
 "Inv": "0",
 "Hour": "2",
-"Minutes": "16",
+"Minutes": "17",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "7.455.528",
+"Earn": "7.503.368",
 "MyTG": "@siomkatapkin",
 "MyIP": "188.163.110.10 (Ukraine, Lvivska Oblast, Lviv)",
 "InfoFamMembers": "250/720/6/false"
