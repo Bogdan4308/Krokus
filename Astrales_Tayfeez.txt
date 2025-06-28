@@ -1,5 +1,5 @@
 {
-"Ad": "0",
+"Ad": "1",
 "Inv": "0",
 "Hour": "0",
 "Minutes": "2",
@@ -7,7 +7,7 @@
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
-"StateMainWindow": "false",
+"StateMainWindow": "true",
 "StateAddWindow": "false",
 "NotWithTimer1": "",
 "NotWithTimer2": "",
@@ -35,7 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "0",
-"MyTG": "",
+"MyTG": "@siomkatapkin",
 "MyIP": "188.163.110.10 (Ukraine, Lvivska Oblast, Lviv)",
 "InfoFamMembers": "250/720/6/false"
 }
