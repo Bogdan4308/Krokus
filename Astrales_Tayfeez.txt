@@ -1,5 +1,5 @@
 {
-"Ad": "333",
+"Ad": "334",
 "Inv": "0",
 "Hour": "4",
 "Minutes": "22",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "19.120.976",
+"Earn": "19.168.816",
 "MyTG": "@siomkatapkin",
 "MyIP": "188.163.110.10 (Ukraine, Lvivska Oblast, Lviv)",
 "InfoFamMembers": "250/720/6/false"
