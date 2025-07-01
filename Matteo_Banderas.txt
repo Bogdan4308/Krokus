@@ -2,7 +2,7 @@
 "Ad": "214",
 "Inv": "8",
 "Hour": "19",
-"Minutes": "42",
+"Minutes": "43",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "19.763.913",
+"Earn": "19.813.833",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.169 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
