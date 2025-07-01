@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "10",
-"Minutes": "45",
+"Minutes": "46",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -35,7 +35,7 @@
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
 "Earn": "595.239",
-"MyTG": "",
+"MyTG": "@x_kisel",
 "MyIP": "91.217.58.11 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
 }
