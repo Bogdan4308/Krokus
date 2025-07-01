@@ -1,6 +1,6 @@
 {
 "Ad": "1044",
-"Inv": "16",
+"Inv": "17",
 "Hour": "63",
 "Minutes": "7",
 "TextAfterInv": "Добавлю в Фам ТГ - @Draydor",
@@ -28,13 +28,13 @@
 "PosY": "540",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "10",
+"CountVipPlayers": "11",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "68.694.960",
+"Earn": "69.194.960",
 "MyTG": "@Draydor",
 "MyIP": "178.121.69.90 (Belarus, Minsk City, Minsk)",
 "InfoFamMembers": "250/720/6/false"
