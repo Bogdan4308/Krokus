@@ -3,7 +3,7 @@
 "Inv": "9",
 "Hour": "21",
 "Minutes": "53",
-"TextAfterInv": "",
+"TextAfterInv": " добавлю в фам тг і дс |Denys933",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
