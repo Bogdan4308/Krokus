@@ -2,7 +2,7 @@
 "Ad": "6432",
 "Inv": "702",
 "Hour": "200",
-"Minutes": "52",
+"Minutes": "53",
 "TextAfterInv": "Добавлю в фам тг | @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Lil_Banderas",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "765.861.642",
 "MyTG": "@wmhan1",
-"MyIP": "",
+"MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
 "InfoFamMembers": "40/455/7/true"
 }
