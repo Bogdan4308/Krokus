@@ -2,7 +2,7 @@
 "Ad": "246",
 "Inv": "8",
 "Hour": "21",
-"Minutes": "27",
+"Minutes": "28",
 "TextAfterInv": " добавлю в фам тг і дс |Denys933",
 "NickDep1": "",
 "NickDep2": "",
