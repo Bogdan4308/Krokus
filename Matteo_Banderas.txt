@@ -1,6 +1,6 @@
 {
 "Ad": "248",
-"Inv": "8",
+"Inv": "9",
 "Hour": "21",
 "Minutes": "44",
 "TextAfterInv": " добавлю в фам тг і дс |Denys933",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "24.630.160",
+"Earn": "25.130.160",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.169 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
