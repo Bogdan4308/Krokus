@@ -3,7 +3,7 @@
 "Inv": "9",
 "Hour": "21",
 "Minutes": "58",
-"TextAfterInv": " добавлю в фам тг і дс |Denys933",
+"TextAfterInv": " добавлю в фам тг і дс |Denys93",
 "NickDep1": "",
 "NickDep2": "",
 "NickDep3": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "25.429.680",
+"Earn": "25.479.600",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.169 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
