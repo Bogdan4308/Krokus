@@ -1,8 +1,8 @@
 {
 "Ad": "315",
 "Inv": "11",
-"Hour": "27",
-"Minutes": "59",
+"Hour": "28",
+"Minutes": "0",
 "TextAfterInv": " добавлю в фам тг і дс |@wolverine883",
 "NickDep1": "",
 "NickDep2": "",
