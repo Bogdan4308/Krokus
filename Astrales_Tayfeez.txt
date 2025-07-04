@@ -2,7 +2,7 @@
 "Ad": "344",
 "Inv": "0",
 "Hour": "4",
-"Minutes": "44",
+"Minutes": "45",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "19.695.056",
 "MyTG": "@siomkatapkin",
-"MyIP": "188.163.110.10 (Ukraine, Lvivska Oblast, Lviv)",
+"MyIP": "185.38.209.0 (Ukraine, Kyiv City, Kyiv)",
 "InfoFamMembers": "250/720/6/false"
 }
