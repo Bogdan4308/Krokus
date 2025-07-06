@@ -1,6 +1,6 @@
 {
 "Ad": "410",
-"Inv": "17",
+"Inv": "18",
 "Hour": "36",
 "Minutes": "58",
 "TextAfterInv": " добавлю в фам тг і дс |@wolverine883",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "36.007.258",
+"Earn": "36.507.258",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.169 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
