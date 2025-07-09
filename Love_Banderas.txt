@@ -13,7 +13,7 @@
 "NotWithTimer2": "/fam [INFO] :sparkles:KOSMOS тег от 20кк, :u1fabd:GODMODE 100кк,",
 "NotWithTimer3": "/fam [INFO] :u1f4ab:LEGEND 750кк, :diamonds:MONARH 1.5ккк, ",
 "NotWithTimer4": "/fam [INFO] :star2:IMPERATOR 3ккк, :boom:DEADZONE 4ккк, ",
-"NotWithTimer5": "/fam [INFO] :cyclone:PARADOX 5ккк, :hole:SINGULAR 9ккк.",
+"NotWithTimer5": "/fam [INFO] :cyclone:PARADOX 5ккк, :hole:SINGULAR 6ккк.",
 "TimeForNot1": "07:00",
 "TimeForNot2": "07:01",
 "TimeForNot3": "07:02",
