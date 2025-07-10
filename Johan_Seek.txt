@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "1.743.840",
+"Earn": "1.993.840",
 "MyTG": "@Draydor",
 "MyIP": "46.53.245.134 (Belarus, Minsk City, Minsk)",
 "InfoFamMembers": "250/720/6/false"
