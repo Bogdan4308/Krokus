@@ -1,5 +1,5 @@
 {
-"Ad": "0",
+"Ad": "1",
 "Inv": "0",
 "Hour": "0",
 "Minutes": "6",
@@ -23,7 +23,7 @@
 "CheckNotTime2": "true",
 "CheckNotTime3": "true",
 "CheckNotTime4": "true",
-"CheckNotTime5": "false",
+"CheckNotTime5": "true",
 "PosX": "53",
 "PosY": "615",
 "CheckedTax": "false",
