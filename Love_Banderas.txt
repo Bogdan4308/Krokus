@@ -2,7 +2,7 @@
 "Ad": "7573",
 "Inv": "730",
 "Hour": "221",
-"Minutes": "15",
+"Minutes": "16",
 "TextAfterInv": "Добавлю в фам тг | @wmhan1",
 "NickDep1": "Johan_Seek",
 "NickDep2": "Astrales_Tayfeez",
@@ -37,5 +37,5 @@
 "Earn": "839.197.082",
 "MyTG": "@wmhan1",
 "MyIP": "176.97.63.75 (Ukraine, Odessa, Odesa)",
-"InfoFamMembers": "40/455/7/true"
+"InfoFamMembers": "40/455/7/false"
 }
