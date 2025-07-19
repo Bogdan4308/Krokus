@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "37",
-"Minutes": "21",
+"Minutes": "22",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "2.202.381",
 "MyTG": "@wmhan1",
-"MyIP": "91.217.58.11 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
+"MyIP": "91.217.58.187 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
 }
