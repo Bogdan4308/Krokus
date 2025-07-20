@@ -1,5 +1,5 @@
 {
-"Ad": "87",
+"Ad": "88",
 "Inv": "1",
 "Hour": "3",
 "Minutes": "29",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "4.792.812",
+"Earn": "4.840.652",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.168 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
