@@ -2,7 +2,7 @@
 "Ad": "0",
 "Inv": "0",
 "Hour": "10",
-"Minutes": "0",
+"Minutes": "1",
 "TextAfterInv": "",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "535.715",
+"Earn": "595.239",
 "MyTG": "",
 "MyIP": "91.217.58.10 (Ukraine, Zaporizhzhia, Zaporizhzhya)",
 "InfoFamMembers": "33333333333/500/6/false"
