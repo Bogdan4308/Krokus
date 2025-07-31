@@ -2,7 +2,7 @@
 "Ad": "147",
 "Inv": "9",
 "Hour": "54",
-"Minutes": "53",
+"Minutes": "54",
 "TextAfterInv": " добавлю в фам тг  |@wolverine883",
 "NickDep1": "",
 "NickDep2": "",
@@ -36,6 +36,6 @@
 "StateNotePad": "false",
 "Earn": "17.746.766",
 "MyTG": "@Ukrainian_Family_Bot",
-"MyIP": "185.177.125.174 (The Netherlands, South Holland, Naaldwijk)",
+"MyIP": "185.132.132.116 (The Netherlands, South Holland, Naaldwijk)",
 "InfoFamMembers": "250/720/1/false"
 }
