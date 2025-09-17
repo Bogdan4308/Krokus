@@ -1,6 +1,6 @@
 {
 "Ad": "147",
-"Inv": "10",
+"Inv": "11",
 "Hour": "84",
 "Minutes": "6",
 "TextAfterInv": " добавлю в фам тг  |@wolverine883",
@@ -28,13 +28,13 @@
 "PosY": "615",
 "CheckedTax": "false",
 "WindowStyle": "8",
-"CountVipPlayers": "6",
+"CountVipPlayers": "7",
 "PosNotePadX": "100",
 "PosNotePadY": "540",
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "20.032.480",
+"Earn": "20.532.480",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "188.163.38.224 (Ukraine, Lvivska Oblast, Lviv)",
 "InfoFamMembers": "250/720/1/false"
