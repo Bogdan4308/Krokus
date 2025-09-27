@@ -2,7 +2,7 @@
 "Ad": "156",
 "Inv": "19",
 "Hour": "136",
-"Minutes": "27",
+"Minutes": "28",
 "TextAfterInv": " добавлю в фам тг  |@wolverine883",
 "NickDep1": "",
 "NickDep2": "",
@@ -34,7 +34,7 @@
 "FontSizeNotePad": "1",
 "FontFamilyNotePad": "0",
 "StateNotePad": "false",
-"Earn": "31.010.439",
+"Earn": "31.058.279",
 "MyTG": "@Ukrainian_Family_Bot",
 "MyIP": "31.134.118.171 (Ukraine, Vinnytsia, Mohyliv-Podilskyi)",
 "InfoFamMembers": "250/720/1/false"
